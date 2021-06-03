@@ -1,0 +1,3 @@
+declare const _default: "BEGIN:VCALENDAR\nVERSION:2.0\nCALSCALE:GREGORIAN\nMETHOD:PUBLISH\nX-WR-CALNAME:events@fullcalendar.test\nX-WR-TIMEZONE:Europe/Paris\nBEGIN:VEVENT\nDTSTART;TZID=Europe/Zurich:20190401T173000\nDTEND;TZID=Europe/Zurich:20190401T183000\nRRULE:FREQ=WEEKLY;WKST=MO;BYDAY=MO\nDTSTAMP:20201006T124223Z\nORGANIZER;CN=Testy McTestface:mailto:test@fullcalendar.test\nUID:12345678\nCREATED:20181210T150458Z\nDESCRIPTION:this is the description\nURL:https://fullcalendar.io/\nLAST-MODIFIED:20190508T170523Z\nLOCATION:this is the location\nSEQUENCE:0\nSTATUS:CONFIRMED\nSUMMARY:Weekly Monday meeting\nTRANSP:OPAQUE\nEND:VEVENT\nEND:VCALENDAR";
+export default _default;
+//# sourceMappingURL=recurringWeekly.d.ts.map

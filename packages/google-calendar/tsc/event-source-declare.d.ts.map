@@ -1,0 +1,1 @@
+{"version":3,"file":"event-source-declare.d.ts","sourceRoot":"","sources":["../src/event-source-declare.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,qBAAqB,EAAE,MAAM,yBAAyB,CAAA;AAE/D,aAAK,wBAAwB,GAAG,OAAO,qBAAqB,CAAA;AAC5D,OAAO,QAAQ,sBAAsB,CAAC;IACpC,UAAU,mBAAoB,SAAQ,wBAAwB;KAAG;CAClE"}

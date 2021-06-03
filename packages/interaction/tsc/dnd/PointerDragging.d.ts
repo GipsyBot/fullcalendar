@@ -1,0 +1,40 @@
+import { Emitter, PointerDragEvent } from '@fullcalendar/common';
+export declare class PointerDragging {
+    containerEl: EventTarget;
+    subjectEl: HTMLElement | null;
+    emitter: Emitter<any>;
+    selector: string;
+    handleSelector: string;
+    shouldIgnoreMove: boolean;
+    shouldWatchScroll: boolean;
+    isDragging: boolean;
+    isTouchDragging: boolean;
+    wasTouchScroll: boolean;
+    origPageX: number;
+    origPageY: number;
+    prevPageX: number;
+    prevPageY: number;
+    prevScrollX: number;
+    prevScrollY: number;
+    constructor(containerEl: EventTarget);
+    destroy(): void;
+    tryStart(ev: UIEvent): boolean;
+    cleanup(): void;
+    querySubjectEl(ev: UIEvent): HTMLElement;
+    handleMouseDown: (ev: MouseEvent) => void;
+    handleMouseMove: (ev: MouseEvent) => void;
+    handleMouseUp: (ev: MouseEvent) => void;
+    shouldIgnoreMouse(): number | boolean;
+    handleTouchStart: (ev: TouchEvent) => void;
+    handleTouchMove: (ev: TouchEvent) => void;
+    handleTouchEnd: (ev: TouchEvent) => void;
+    handleTouchScroll: () => void;
+    cancelTouchScroll(): void;
+    initScrollWatch(ev: PointerDragEvent): void;
+    recordCoords(ev: PointerDragEvent): void;
+    handleScroll: (ev: UIEvent) => void;
+    destroyScrollWatch(): void;
+    createEventFromMouse(ev: MouseEvent, isFirst?: boolean): PointerDragEvent;
+    createEventFromTouch(ev: TouchEvent, isFirst?: boolean): PointerDragEvent;
+}
+//# sourceMappingURL=PointerDragging.d.ts.map

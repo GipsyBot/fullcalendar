@@ -1,0 +1,3414 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "signature": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "signature": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx-csstype.d.ts": {
+        "version": "389ff64c4d75538171782c347554a2cb6328ffb2e838e9b012da3bda94e0767b",
+        "signature": "389ff64c4d75538171782c347554a2cb6328ffb2e838e9b012da3bda94e0767b",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts": {
+        "version": "f79005b95606fe37ee36a6cc58e40fe3e7b14fa18dde59bb95f48f38cc52045f",
+        "signature": "f79005b95606fe37ee36a6cc58e40fe3e7b14fa18dde59bb95f48f38cc52045f",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts": {
+        "version": "416aa5c3a94faf516ee2ad78e570142ec749085fa7fe42fd8f770aa2562538cb",
+        "signature": "416aa5c3a94faf516ee2ad78e570142ec749085fa7fe42fd8f770aa2562538cb",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts": {
+        "version": "c405ed0b2c7156d552b198b93442d893772c6d273cde8f1e475670cbbcf2f3b3",
+        "signature": "c405ed0b2c7156d552b198b93442d893772c6d273cde8f1e475670cbbcf2f3b3",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts": {
+        "version": "f7894d4fab60e711bd2e39116dfaa5fd19207e194d6d3074277567226cf41e9f",
+        "signature": "f7894d4fab60e711bd2e39116dfaa5fd19207e194d6d3074277567226cf41e9f",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts": {
+        "version": "3ae6c652df33965879e607a73051b932dbbafb5558f7c5a9ac68121f75294b23",
+        "signature": "3ae6c652df33965879e607a73051b932dbbafb5558f7c5a9ac68121f75294b23",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts": {
+        "version": "098a68df7ca3cfa76f0a8e5032745327d41dea796c211f6daf9bacc5b1d1524f",
+        "signature": "098a68df7ca3cfa76f0a8e5032745327d41dea796c211f6daf9bacc5b1d1524f",
+        "affectsGlobalScope": false
+      },
+      "../core-preact/tsc/vdom.d.ts": {
+        "version": "dc3e98a8b10725cd4715628b82945bf0d6a7d855cb14958a8a58fae312c864ad",
+        "signature": "dc3e98a8b10725cd4715628b82945bf0d6a7d855cb14958a8a58fae312c864ad",
+        "affectsGlobalScope": true
+      },
+      "../core/tsc/vdom.d.ts": {
+        "version": "0213ec369dcf4f8bf65440c80cbaa72bf788adf13f7c388db6c06d8b3c6ce868",
+        "signature": "0213ec369dcf4f8bf65440c80cbaa72bf788adf13f7c388db6c06d8b3c6ce868",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/duration.d.ts": {
+        "version": "fee686dc626e18bddc2e1eede2a529fc6bfbc07a935f349b095e53d4359ad1ba",
+        "signature": "fee686dc626e18bddc2e1eede2a529fc6bfbc07a935f349b095e53d4359ad1ba",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/marker.d.ts": {
+        "version": "8d2bcb97faf09cbf2a109b73bdcd54d3aca453e3338ca525d9009e5ee3a54a83",
+        "signature": "8d2bcb97faf09cbf2a109b73bdcd54d3aca453e3338ca525d9009e5ee3a54a83",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/calendar-system.d.ts": {
+        "version": "7d41e9fa1a573c7585d885c7c008193a56f994e37183fdf61599ae44121ae5a9",
+        "signature": "7d41e9fa1a573c7585d885c7c008193a56f994e37183fdf61599ae44121ae5a9",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/zoned-marker.d.ts": {
+        "version": "6ce8f34f23bcc3120a381d97b649ac754da764cde1e948238097f164c629430d",
+        "signature": "6ce8f34f23bcc3120a381d97b649ac754da764cde1e948238097f164c629430d",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/DateFormatter.d.ts": {
+        "version": "eda3052826dd67f11221dc5af0f574139f703b58e237cb841332c8f4e492fea8",
+        "signature": "eda3052826dd67f11221dc5af0f574139f703b58e237cb841332c8f4e492fea8",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/formatting-native.d.ts": {
+        "version": "e142a6f59a1fed58677fb3c1c8b25c44152db37199120b8655b8e7bbe847b128",
+        "signature": "e142a6f59a1fed58677fb3c1c8b25c44152db37199120b8655b8e7bbe847b128",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/formatting-func.d.ts": {
+        "version": "c0c05f7cfab0945e062db4e2941b55030cfceb8f9ac12e6710584dd9e66a58b0",
+        "signature": "c0c05f7cfab0945e062db4e2941b55030cfceb8f9ac12e6710584dd9e66a58b0",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/formatting.d.ts": {
+        "version": "618c6c138e46c4ba5b47e155589a7328f821efe045180637e25e32e35b86257a",
+        "signature": "618c6c138e46c4ba5b47e155589a7328f821efe045180637e25e32e35b86257a",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/misc.d.ts": {
+        "version": "dfef6b10ec49703c06fe78869e4a6ad0d2e1d78f1a748811c27f17ed5d9f1be1",
+        "signature": "dfef6b10ec49703c06fe78869e4a6ad0d2e1d78f1a748811c27f17ed5d9f1be1",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/date-range.d.ts": {
+        "version": "20902833f40550904ce103de6bb4eef27e31de724ed53c6320cbf7e2e20da869",
+        "signature": "20902833f40550904ce103de6bb4eef27e31de724ed53c6320cbf7e2e20da869",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/event-instance.d.ts": {
+        "version": "a023fbcefb708839839332da14a28872debd441766d106f03b68fd0236e7254c",
+        "signature": "a023fbcefb708839839332da14a28872debd441766d106f03b68fd0236e7254c",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/interactions/event-interaction-state.d.ts": {
+        "version": "b5434735c3f6795b4f1900f7f710e3b445dec52e3577656e6974002966992325",
+        "signature": "b5434735c3f6795b4f1900f7f710e3b445dec52e3577656e6974002966992325",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/reducers/Action.d.ts": {
+        "version": "8424980d66b6b5245647ec1d2043e4aa29e1a290332acb6bfe7d3a9a7f9f9849",
+        "signature": "8424980d66b6b5245647ec1d2043e4aa29e1a290332acb6bfe7d3a9a7f9f9849",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/interactions/pointer.d.ts": {
+        "version": "338e4be64597f71bccebe6cd67f7432c70f5e38057e9bef467531e093203097d",
+        "signature": "338e4be64597f71bccebe6cd67f7432c70f5e38057e9bef467531e093203097d",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/CalendarApi.d.ts": {
+        "version": "78517e87373ac004ea27540c064b1a53469eef248fecf36bf1356dfb33c87aef",
+        "signature": "78517e87373ac004ea27540c064b1a53469eef248fecf36bf1356dfb33c87aef",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/DateProfileGenerator.d.ts": {
+        "version": "2e1045380b9e5b25651982fbce45779520a1031fff7fd2668fc400beb6913acc",
+        "signature": "2e1045380b9e5b25651982fbce45779520a1031fff7fd2668fc400beb6913acc",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/View.d.ts": {
+        "version": "d9f0b75b666681d21e8947a535b2f43a811d739abc1f92a1bc2242206ec28205",
+        "signature": "d9f0b75b666681d21e8947a535b2f43a811d739abc1f92a1bc2242206ec28205",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/vdom.d.ts": {
+        "version": "ba11d78a793b43ecd6466288a94d4573fb81340dfae019107f6291345b3f8349",
+        "signature": "ba11d78a793b43ecd6466288a94d4573fb81340dfae019107f6291345b3f8349",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/Emitter.d.ts": {
+        "version": "02735f6b42c9972c53d4e4e655ba330e28c82da3f9997019b740c2bbe0783dfa",
+        "signature": "02735f6b42c9972c53d4e4e655ba330e28c82da3f9997019b740c2bbe0783dfa",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/theme/Theme.d.ts": {
+        "version": "f505303e9eb5a5ffdde4f68629f48388a347e491b7f0357fbcc4d8c42c9d069f",
+        "signature": "f505303e9eb5a5ffdde4f68629f48388a347e491b7f0357fbcc4d8c42c9d069f",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/reducers/data-types.d.ts": {
+        "version": "d8e27157e3ced0b2917981c7f8e3641761cb43f5395fa9c071bf28e521cf40bb",
+        "signature": "d8e27157e3ced0b2917981c7f8e3641761cb43f5395fa9c071bf28e521cf40bb",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/ViewApi.d.ts": {
+        "version": "ebca9862f14da23288c9997e740ae654a08af7e6f2f5a389e6f1428d10a6dc6a",
+        "signature": "ebca9862f14da23288c9997e740ae654a08af7e6f2f5a389e6f1428d10a6dc6a",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/ScrollResponder.d.ts": {
+        "version": "b08120101cd8f2c6be0088b5b7c7af3d5cf8a39f783ba2431dfaf247d482a077",
+        "signature": "b08120101cd8f2c6be0088b5b7c7af3d5cf8a39f783ba2431dfaf247d482a077",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/geom.d.ts": {
+        "version": "f6095384bf14843590907aeaf5de66aad64d552a91cd8b3c7640ac129e21982a",
+        "signature": "f6095384bf14843590907aeaf5de66aad64d552a91cd8b3c7640ac129e21982a",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/interactions/hit.d.ts": {
+        "version": "58a15133b6cdf6af044da55a7b5da69602a739300f63885a7a5f9627a1ce735d",
+        "signature": "58a15133b6cdf6af044da55a7b5da69602a739300f63885a7a5f9627a1ce735d",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/component/DateComponent.d.ts": {
+        "version": "a4bc105eb8c6dc5d75f565ad1e9c8debd429139940abe83bfd0b80db4709700e",
+        "signature": "a4bc105eb8c6dc5d75f565ad1e9c8debd429139940abe83bfd0b80db4709700e",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/interactions/interaction.d.ts": {
+        "version": "61c064d8adbab9a12c40902638b89c9fb85249bcb57d7a40c887dbee7ccd54f0",
+        "signature": "61c064d8adbab9a12c40902638b89c9fb85249bcb57d7a40c887dbee7ccd54f0",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/ViewContext.d.ts": {
+        "version": "85482558af5acf2dac24df2b1d43d95ee6f6458eeb83ab296e9c6e05622e8b7a",
+        "signature": "85482558af5acf2dac24df2b1d43d95ee6f6458eeb83ab296e9c6e05622e8b7a",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/object.d.ts": {
+        "version": "1e4e2fcb4bfa4e6adfe1ea93d78a682d84f10d525caa9cb196f107965c2c3ca0",
+        "signature": "1e4e2fcb4bfa4e6adfe1ea93d78a682d84f10d525caa9cb196f107965c2c3ca0",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/vdom-util.d.ts": {
+        "version": "ea10b0dd3b9c0672f0692f419215cec74ca9a3cd46b610fb80731e0d018acf5d",
+        "signature": "ea10b0dd3b9c0672f0692f419215cec74ca9a3cd46b610fb80731e0d018acf5d",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/html.d.ts": {
+        "version": "accc89e6f24d56710b847bf78e5986cad632857205adee30d252a567c924d938",
+        "signature": "accc89e6f24d56710b847bf78e5986cad632857205adee30d252a567c924d938",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/render-hook.d.ts": {
+        "version": "85ac4d06a374bf7c7e58a3bf1064885a6db98fa9a2b9605dc798ef7795e10b48",
+        "signature": "85ac4d06a374bf7c7e58a3bf1064885a6db98fa9a2b9605dc798ef7795e10b48",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/view-config.d.ts": {
+        "version": "9fe1fbe3640685f309e5321d2921e44d153bec4c59e77764ebf39857dde61389",
+        "signature": "9fe1fbe3640685f309e5321d2921e44d153bec4c59e77764ebf39857dde61389",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/view-spec.d.ts": {
+        "version": "1fe991e36132582bf65542dcf9f1110dbb20b5920f3279d3253f16835354a646",
+        "signature": "1fe991e36132582bf65542dcf9f1110dbb20b5920f3279d3253f16835354a646",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/reducers/CalendarDataManager.d.ts": {
+        "version": "1e788f356082fd1b31f630939a920718c662af4f6565f45e3017093844c94454",
+        "signature": "1e788f356082fd1b31f630939a920718c662af4f6565f45e3017093844c94454",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/event-mutation.d.ts": {
+        "version": "345bbcb053c3cce30d9c7be3c3c29c4f1bb41d36ec6963bbd0c6cd2d79add15b",
+        "signature": "345bbcb053c3cce30d9c7be3c3c29c4f1bb41d36ec6963bbd0c6cd2d79add15b",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/calendar-utils.d.ts": {
+        "version": "b597427a43d979f98a7b85787afe3b55ced2ef9b8d943298639533a4aa00dd70",
+        "signature": "b597427a43d979f98a7b85787afe3b55ced2ef9b8d943298639533a4aa00dd70",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/DelayedRunner.d.ts": {
+        "version": "dd6b1eddbb45b80d1dcfe89cc65e9b1fbc7947cb21ec2411ae74f93f9b451959",
+        "signature": "dd6b1eddbb45b80d1dcfe89cc65e9b1fbc7947cb21ec2411ae74f93f9b451959",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/CalendarContent.d.ts": {
+        "version": "577b20abf8650597d1e3173af8c2b7d36926fc308fd30cde29ab5d48d7982200",
+        "signature": "577b20abf8650597d1e3173af8c2b7d36926fc308fd30cde29ab5d48d7982200",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/interactions/event-dragging.d.ts": {
+        "version": "db56797aa0eeecc44020d2dac8bfb43c9f4183a20e4b8fc4e588d231519b7735",
+        "signature": "db56797aa0eeecc44020d2dac8bfb43c9f4183a20e4b8fc4e588d231519b7735",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/interactions/date-selecting.d.ts": {
+        "version": "d7d3b4506e888839b324ef79a43e1b2268fca692614982e5dbfe21aaa365b7e4",
+        "signature": "d7d3b4506e888839b324ef79a43e1b2268fca692614982e5dbfe21aaa365b7e4",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/drag-meta.d.ts": {
+        "version": "b244580a9b5baa5e1b2c048c0757c2a2a3703c4274da9bd9474e848db743921d",
+        "signature": "b244580a9b5baa5e1b2c048c0757c2a2a3703c4274da9bd9474e848db743921d",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/interactions/external-element-dragging.d.ts": {
+        "version": "ded41f0a18f7388dbdf1a107fb7c3e317ff70f20fd75bf6954ea6535803b56e2",
+        "signature": "ded41f0a18f7388dbdf1a107fb7c3e317ff70f20fd75bf6954ea6535803b56e2",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/event-sources/func-event-source.d.ts": {
+        "version": "28718deb7511c28a76409aa9dbbdb03b0966a74c711937c0d9142bc9759910b2",
+        "signature": "28718deb7511c28a76409aa9dbbdb03b0966a74c711937c0d9142bc9759910b2",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/event-sources/json-feed-event-source-refiners.d.ts": {
+        "version": "bb9202c17011b7319f167fa5ba27877671fb495a571ae3349d2dd5ab9ef586a6",
+        "signature": "bb9202c17011b7319f167fa5ba27877671fb495a571ae3349d2dd5ab9ef586a6",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/event-source-parse.d.ts": {
+        "version": "32119d0a968e7edb88ba2b937673f4fe1e7345d71c8e6654791d7cf9fb24f72d",
+        "signature": "32119d0a968e7edb88ba2b937673f4fe1e7345d71c8e6654791d7cf9fb24f72d",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/event-source-def.d.ts": {
+        "version": "23df9e9c3bacceaa0716dc434e68362c96aae2ad201218ad21afb0b64ea89d60",
+        "signature": "23df9e9c3bacceaa0716dc434e68362c96aae2ad201218ad21afb0b64ea89d60",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/recurring-event.d.ts": {
+        "version": "4bf1f29b6e57a9e7ff8a1a85aa0cf4d1d173ee7637c65c399b7dc482f827134b",
+        "signature": "4bf1f29b6e57a9e7ff8a1a85aa0cf4d1d173ee7637c65c399b7dc482f827134b",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/timezone.d.ts": {
+        "version": "acc520959ff1228e34d1810a04fe035b4237ede8519ee4936d8b7d4c4d5a4e17",
+        "signature": "acc520959ff1228e34d1810a04fe035b4237ede8519ee4936d8b7d4c4d5a4e17",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/interactions/ElementDragging.d.ts": {
+        "version": "88e962989dd8b3333e4a9cf7ab9828ce71013302728a87c9a83ac53e1beaf4e3",
+        "signature": "88e962989dd8b3333e4a9cf7ab9828ce71013302728a87c9a83ac53e1beaf4e3",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/scrollgrid/util.d.ts": {
+        "version": "32576af5d8b67d1df19529da84d3c674158fdaf5b2150954bdb4c243de72f1de",
+        "signature": "32576af5d8b67d1df19529da84d3c674158fdaf5b2150954bdb4c243de72f1de",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/scrollgrid/ScrollGridImpl.d.ts": {
+        "version": "e0e3e057618e72e80e9bbd427730a6f81d69432d4cbeb2146a583438cdc60f62",
+        "signature": "e0e3e057618e72e80e9bbd427730a6f81d69432d4cbeb2146a583438cdc60f62",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/plugin-system-struct.d.ts": {
+        "version": "ba13bcb6719105999875cdeb9b61ce76c3e7d11b7fbd0f65e8e558ff47b1f4f9",
+        "signature": "ba13bcb6719105999875cdeb9b61ce76c3e7d11b7fbd0f65e8e558ff47b1f4f9",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/CalendarContext.d.ts": {
+        "version": "27e0bf6e90fa1c28754c1697d055c48bcb15ecdfdb296014bace16aa4340ce20",
+        "signature": "27e0bf6e90fa1c28754c1697d055c48bcb15ecdfdb296014bace16aa4340ce20",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/event-store.d.ts": {
+        "version": "9007d3f4de56b155478abf61b856839197528b36c1092a03efbbaffa08730ea4",
+        "signature": "9007d3f4de56b155478abf61b856839197528b36c1092a03efbbaffa08730ea4",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/api/EventApi.d.ts": {
+        "version": "f08cebfd81dfd805887078258d014dc7587bb5fd92144ac6cd09db5264f264b9",
+        "signature": "f08cebfd81dfd805887078258d014dc7587bb5fd92144ac6cd09db5264f264b9",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/component/event-splitting.d.ts": {
+        "version": "b7dd03c63c5be69b994bb6e51ebfd5300940d057aa961bd1817460f9bd5966b3",
+        "signature": "b7dd03c63c5be69b994bb6e51ebfd5300940d057aa961bd1817460f9bd5966b3",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/constraint.d.ts": {
+        "version": "91d1c561f0abfb223e956db9498a696767d16755dc0e7fa9a141e748e78433b0",
+        "signature": "91d1c561f0abfb223e956db9498a696767d16755dc0e7fa9a141e748e78433b0",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/component/event-ui.d.ts": {
+        "version": "bdf1896305b514e0706c644fb90c14ad48dd20b1a85561b9a72403eebbb68f60",
+        "signature": "bdf1896305b514e0706c644fb90c14ad48dd20b1a85561b9a72403eebbb68f60",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/event-def.d.ts": {
+        "version": "d6a25ffb788a02c02f94ec538de73b9846b641dc75bbd680271eb1cabb4715ca",
+        "signature": "d6a25ffb788a02c02f94ec538de73b9846b641dc75bbd680271eb1cabb4715ca",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/component/event-rendering.d.ts": {
+        "version": "70dd782e3dee503511ce691ebd7cc9cd54e829ee015189909278ee1e05896402",
+        "signature": "70dd782e3dee503511ce691ebd7cc9cd54e829ee015189909278ee1e05896402",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/date-span.d.ts": {
+        "version": "f9d1b75800ae4257276ad798d3e55335af472760773c2fdc67edc601ad91ac58",
+        "signature": "f9d1b75800ae4257276ad798d3e55335af472760773c2fdc67edc601ad91ac58",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/business-hours.d.ts": {
+        "version": "4681e5b8abd570889378e5c3fd2850b5169f3bb2a690575d82ce40dfaa5b4339",
+        "signature": "4681e5b8abd570889378e5c3fd2850b5169f3bb2a690575d82ce40dfaa5b4339",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/NowIndicatorRoot.d.ts": {
+        "version": "bb09157874dafcce9c8f84e02c2e1165c9a483ca537a749febb97d9ec68fa52e",
+        "signature": "bb09157874dafcce9c8f84e02c2e1165c9a483ca537a749febb97d9ec68fa52e",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/WeekNumberRoot.d.ts": {
+        "version": "62f2bfd466cd992f403bd34d279b7f32d8ad43ffd46e428c5ef61ac4fc9ac482",
+        "signature": "62f2bfd466cd992f403bd34d279b7f32d8ad43ffd46e428c5ef61ac4fc9ac482",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/MoreLinkRoot.d.ts": {
+        "version": "e766cd1fe7687df461bd36b72d74e5e602a7075affb9beb89549b8d9ed4c0647",
+        "signature": "e766cd1fe7687df461bd36b72d74e5e602a7075affb9beb89549b8d9ed4c0647",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/more-link.d.ts": {
+        "version": "5e8d7e5706886ad55c0e65a9166d964bf6a082f67a2f03a9fe7c03b2268234b6",
+        "signature": "5e8d7e5706886ad55c0e65a9166d964bf6a082f67a2f03a9fe7c03b2268234b6",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/component/date-rendering.d.ts": {
+        "version": "1563120c58242fcc4851cc85666e923581bb28467f7d32086c44a36f1f634dac",
+        "signature": "1563120c58242fcc4851cc85666e923581bb28467f7d32086c44a36f1f634dac",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/render-hook-misc.d.ts": {
+        "version": "f63d4f8acabf55e4b4779de039007456e1b0edcfed3164802b2f2ecc619c7ea0",
+        "signature": "f63d4f8acabf55e4b4779de039007456e1b0edcfed3164802b2f2ecc619c7ea0",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/DayCellContent.d.ts": {
+        "version": "27c72b47fade0484d58f5e93e0eba12a83ac609098f0751d32f007e6689a1c47",
+        "signature": "27c72b47fade0484d58f5e93e0eba12a83ac609098f0751d32f007e6689a1c47",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/DayCellRoot.d.ts": {
+        "version": "a7762e34f8bbda7ec69aaa332cb4e7d1323a211ebe86e8140ae9db17e080264d",
+        "signature": "a7762e34f8bbda7ec69aaa332cb4e7d1323a211ebe86e8140ae9db17e080264d",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/ViewRoot.d.ts": {
+        "version": "f1c21bfd54f8d13c13c7b822e7b49fcb31b0a394cb65dd5e690dc6d03c45ed5b",
+        "signature": "f1c21bfd54f8d13c13c7b822e7b49fcb31b0a394cb65dd5e690dc6d03c45ed5b",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/interactions/EventClicking.d.ts": {
+        "version": "26ec73b2949163f99e0e3a335043b3adfa1360f12443db8c067088451a9fa079",
+        "signature": "26ec73b2949163f99e0e3a335043b3adfa1360f12443db8c067088451a9fa079",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/interactions/EventHovering.d.ts": {
+        "version": "925e681d048c6b0bb0a6a596fd577fd0aded6011af3a6f438c64a1a769452980",
+        "signature": "925e681d048c6b0bb0a6a596fd577fd0aded6011af3a6f438c64a1a769452980",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/toolbar-struct.d.ts": {
+        "version": "ff771d65789af4075699a919160136fa204bb73100bab903ee4c479a70c6ca06",
+        "signature": "ff771d65789af4075699a919160136fa204bb73100bab903ee4c479a70c6ca06",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/dates-set.d.ts": {
+        "version": "8894217582339498bfaac6c2cc34cfde6e19201b85a7ece70259b821b6ef0ca9",
+        "signature": "8894217582339498bfaac6c2cc34cfde6e19201b85a7ece70259b821b6ef0ca9",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/event-crud.d.ts": {
+        "version": "6d2aaefe6516aee1ae376437b4a756034318322a1b64ce9685afd3cb4bb3083d",
+        "signature": "6d2aaefe6516aee1ae376437b4a756034318322a1b64ce9685afd3cb4bb3083d",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/api-type-deps.d.ts": {
+        "version": "5a242427518c0b93f7c243026204908244486a4147730428a5763301c5900f0e",
+        "signature": "5a242427518c0b93f7c243026204908244486a4147730428a5763301c5900f0e",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/options.d.ts": {
+        "version": "d821b39fb0a1ceb918512817a0a689e63a0d4611d532a956ca95c487eb893df7",
+        "signature": "d821b39fb0a1ceb918512817a0a689e63a0d4611d532a956ca95c487eb893df7",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/locale.d.ts": {
+        "version": "6e73b41bad1dca303796797cd79db43d8425d3179cdc206ed8521721f3bc6bf7",
+        "signature": "6e73b41bad1dca303796797cd79db43d8425d3179cdc206ed8521721f3bc6bf7",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/env.d.ts": {
+        "version": "1248c568478f4f591f06c411dc94084af040dda19e40c84900b55b9cc32dc4a5",
+        "signature": "1248c568478f4f591f06c411dc94084af040dda19e40c84900b55b9cc32dc4a5",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/event-parse.d.ts": {
+        "version": "46fdbd6440af90efae5d45a9098ddfdd6cfe286474e9296fdaa197b4cb91b674",
+        "signature": "46fdbd6440af90efae5d45a9098ddfdd6cfe286474e9296fdaa197b4cb91b674",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/event-source.d.ts": {
+        "version": "fbabb7ac4cccbf1577523425e4aed3f58a28bac97c1c10abe52ed6b3fccef959",
+        "signature": "fbabb7ac4cccbf1577523425e4aed3f58a28bac97c1c10abe52ed6b3fccef959",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/api/EventSourceApi.d.ts": {
+        "version": "47df06e51acbc140b521d87034db66238eb69f9d41006320dbcbe0d09639d710",
+        "signature": "47df06e51acbc140b521d87034db66238eb69f9d41006320dbcbe0d09639d710",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/formatting-api.d.ts": {
+        "version": "a4e45f42f0383a3d8dc0bd261578f6be326567dbc130c14840c5fc085dc7e444",
+        "signature": "a4e45f42f0383a3d8dc0bd261578f6be326567dbc130c14840c5fc085dc7e444",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/date.d.ts": {
+        "version": "8e3973ca10dae5b3672aeebe941b90689f8151bbeab0d33d8dee1229dac304b0",
+        "signature": "8e3973ca10dae5b3672aeebe941b90689f8151bbeab0d33d8dee1229dac304b0",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/array.d.ts": {
+        "version": "a14ed94671752321e8ef788707472c537f664c7d231023f8d476dad4b0765131",
+        "signature": "a14ed94671752321e8ef788707472c537f664c7d231023f8d476dad4b0765131",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/memoize.d.ts": {
+        "version": "bff2fa08b397a8e0f7369a0f077aaa4184be98805a354219d49512d334d93bc5",
+        "signature": "bff2fa08b397a8e0f7369a0f077aaa4184be98805a354219d49512d334d93bc5",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/dom-manip.d.ts": {
+        "version": "bdb790ad707571c85d7fb6d5411d027be387822c1e2c7897085afadd2cc8bd3e",
+        "signature": "bdb790ad707571c85d7fb6d5411d027be387822c1e2c7897085afadd2cc8bd3e",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/table-styling.d.ts": {
+        "version": "0fd85bfbe03f8a4ca5c06014053d726332eea7499c04e713b084341bc52d9bee",
+        "signature": "0fd85bfbe03f8a4ca5c06014053d726332eea7499c04e713b084341bc52d9bee",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/nav-link.d.ts": {
+        "version": "d7836f1ec8f2312d286d3fd86d35625fd60506dd564ed89642d891a68f1f85cf",
+        "signature": "d7836f1ec8f2312d286d3fd86d35625fd60506dd564ed89642d891a68f1f85cf",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/dom-event.d.ts": {
+        "version": "b0cf5d5c75ddbd88d7b3e379e6fd51be694f26e864f26507e87407c80db1e91d",
+        "signature": "b0cf5d5c75ddbd88d7b3e379e6fd51be694f26e864f26507e87407c80db1e91d",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/dom-geom.d.ts": {
+        "version": "09c26dd8a4a8b0648dbd286a2ed7f7ea666753ca48fa5e581b4731393a6c1b44",
+        "signature": "09c26dd8a4a8b0648dbd286a2ed7f7ea666753ca48fa5e581b4731393a6c1b44",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/promise.d.ts": {
+        "version": "66ee28b735d0ef60a3e77669c7cb6b7af934750fd2c27a5d0d0f904e47737ea0",
+        "signature": "66ee28b735d0ef60a3e77669c7cb6b7af934750fd2c27a5d0d0f904e47737ea0",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/PositionCache.d.ts": {
+        "version": "2705f702708002fb3cdfdf8121b77721a0ea438a3a0e11b4012394806fe2f830",
+        "signature": "2705f702708002fb3cdfdf8121b77721a0ea438a3a0e11b4012394806fe2f830",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/scroll-controller.d.ts": {
+        "version": "77d342868bdce465ec98bd841476870d597e8835e759fefe7d96b6dd1ae5431e",
+        "signature": "77d342868bdce465ec98bd841476870d597e8835e759fefe7d96b6dd1ae5431e",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/component/CalendarDataProvider.d.ts": {
+        "version": "d9c894ff9d1da38251e9596f23534323f55649c8fd4c2f99f6eb84ab3e65dbc1",
+        "signature": "d9c894ff9d1da38251e9596f23534323f55649c8fd4c2f99f6eb84ab3e65dbc1",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/structs/view-def.d.ts": {
+        "version": "75e78a56ba40a7d45b1624c8400ae569b24f6eb643f553155fb2a7a45c7828e7",
+        "signature": "75e78a56ba40a7d45b1624c8400ae569b24f6eb643f553155fb2a7a45c7828e7",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/formatting-utils.d.ts": {
+        "version": "cca4f8ac1e7102ce52268ee218b4e609cb94565b5c7aad93110180ca58d43a77",
+        "signature": "cca4f8ac1e7102ce52268ee218b4e609cb94565b5c7aad93110180ca58d43a77",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/datelib/parsing.d.ts": {
+        "version": "2f490b1b3aa2bc23875c73292c6ee702662e35a3575c1b5b18ca020d862ba223",
+        "signature": "2f490b1b3aa2bc23875c73292c6ee702662e35a3575c1b5b18ca020d862ba223",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/event-placement.d.ts": {
+        "version": "bedab9b13302e5791d5a9ba7377e9965d8677caeffe8b59efe040329d5301ed0",
+        "signature": "bedab9b13302e5791d5a9ba7377e9965d8677caeffe8b59efe040329d5301ed0",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/global-config.d.ts": {
+        "version": "5d65c5b9cb7c58ad6a342242db9abc5d8650d564a1b76cb0a4ee16840a6626e8",
+        "signature": "5d65c5b9cb7c58ad6a342242db9abc5d8650d564a1b76cb0a4ee16840a6626e8",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/global-locales.d.ts": {
+        "version": "409d796a8d0f1746412ce977de239ade2779dfed124618e08eeff677cfd968ab",
+        "signature": "409d796a8d0f1746412ce977de239ade2779dfed124618e08eeff677cfd968ab",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/plugin-system.d.ts": {
+        "version": "f644ccb6666ea3fbcdacaa620350d31980a90df2ae5c3a2e3fa175aa40e2ccfe",
+        "signature": "f644ccb6666ea3fbcdacaa620350d31980a90df2ae5c3a2e3fa175aa40e2ccfe",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/CalendarRoot.d.ts": {
+        "version": "50d087105c7042faaf0251a01265b3be0e360d9e71524196736480d8640e19c9",
+        "signature": "50d087105c7042faaf0251a01265b3be0e360d9e71524196736480d8640e19c9",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/DayHeader.d.ts": {
+        "version": "411d0aa426edb18e0309e7208834727f644fedacd667ddcc7dae5e9d3ca092f2",
+        "signature": "411d0aa426edb18e0309e7208834727f644fedacd667ddcc7dae5e9d3ca092f2",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/table-utils.d.ts": {
+        "version": "a50ba0ed96c38b85f5388c01f04d0727b11d9909fb2e3b9ee3f63ca0a8a8ae3f",
+        "signature": "a50ba0ed96c38b85f5388c01f04d0727b11d9909fb2e3b9ee3f63ca0a8a8ae3f",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/TableDateCell.d.ts": {
+        "version": "e08a2da5794d1e6f39daea5ae794e34a1111a2aa7be1b329f6722e490567e2ed",
+        "signature": "e08a2da5794d1e6f39daea5ae794e34a1111a2aa7be1b329f6722e490567e2ed",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/TableDowCell.d.ts": {
+        "version": "8b3914148a9a9a4e9d5254a9cb372b2b62c898fc926a7aed2450583dcdca52ba",
+        "signature": "8b3914148a9a9a4e9d5254a9cb372b2b62c898fc926a7aed2450583dcdca52ba",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/DaySeriesModel.d.ts": {
+        "version": "6c947623a8570b4951b71b8cf1c0ec64fbfed2aafccdd51496f294d164a8e9dd",
+        "signature": "6c947623a8570b4951b71b8cf1c0ec64fbfed2aafccdd51496f294d164a8e9dd",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/DayTableModel.d.ts": {
+        "version": "8fb054b2b442d36f8f9a6d13ca9be34903deab9b5261b2349324cd11d6fe7693",
+        "signature": "8fb054b2b442d36f8f9a6d13ca9be34903deab9b5261b2349324cd11d6fe7693",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/slicing-utils.d.ts": {
+        "version": "0ab450e9bfb19785adcd16c563e9e1467c70f6376791da3435ca4a512c07363d",
+        "signature": "0ab450e9bfb19785adcd16c563e9e1467c70f6376791da3435ca4a512c07363d",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/validation.d.ts": {
+        "version": "b66e53d882f0c4ff9c8ccfca24339e1f76beb3cf8f53e84937a85a020cf6d016",
+        "signature": "b66e53d882f0c4ff9c8ccfca24339e1f76beb3cf8f53e84937a85a020cf6d016",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/requestJson.d.ts": {
+        "version": "ac9951a55d5e80805c2e0d484121551a9fe4eb466b359833b4cdb8c1e8b3f698",
+        "signature": "ac9951a55d5e80805c2e0d484121551a9fe4eb466b359833b4cdb8c1e8b3f698",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/scrollgrid/Scroller.d.ts": {
+        "version": "e9ec4f01464230f21d6f77500d082ece822a3fce78d3eb43370d37ec03106592",
+        "signature": "e9ec4f01464230f21d6f77500d082ece822a3fce78d3eb43370d37ec03106592",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/RefMap.d.ts": {
+        "version": "796527226ac7cd74c8dd964ac439667a374848134ce5b5ab34d984c9713cafce",
+        "signature": "796527226ac7cd74c8dd964ac439667a374848134ce5b5ab34d984c9713cafce",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/scrollgrid/SimpleScrollGrid.d.ts": {
+        "version": "62f87851ba5fdc6a6ce1273612d192ad58b16ff9477b2b90e4ad8064068c9c9b",
+        "signature": "62f87851ba5fdc6a6ce1273612d192ad58b16ff9477b2b90e4ad8064068c9c9b",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/scrollbar-width.d.ts": {
+        "version": "755fd11d1990fb9c1b9885a5b7c7200ba3595f630b5bdb486aeb6e37472f6463",
+        "signature": "755fd11d1990fb9c1b9885a5b7c7200ba3595f630b5bdb486aeb6e37472f6463",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/util/scrollbar-side.d.ts": {
+        "version": "7b25713aec74f5a1444eb171f5968d4ec4dedf496b036a9b2d7db46a4421f9bb",
+        "signature": "7b25713aec74f5a1444eb171f5968d4ec4dedf496b036a9b2d7db46a4421f9bb",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/NowTimer.d.ts": {
+        "version": "385a22e437f8828c2231c0239119b17636fb47d1c1a4ec34b634f1b0cea11fe5",
+        "signature": "385a22e437f8828c2231c0239119b17636fb47d1c1a4ec34b634f1b0cea11fe5",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/global-plugins.d.ts": {
+        "version": "74e9cb0af6648d56fe0bd45ea46a1795c517f88caff6484a3817c7c12f4c7b8c",
+        "signature": "74e9cb0af6648d56fe0bd45ea46a1795c517f88caff6484a3817c7c12f4c7b8c",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/EventRoot.d.ts": {
+        "version": "a185efd1919659186178d998ea94ed3d977702c446b17b9afcbda42b695e39c4",
+        "signature": "a185efd1919659186178d998ea94ed3d977702c446b17b9afcbda42b695e39c4",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/StandardEvent.d.ts": {
+        "version": "29ad297ca8111671145d1663d34d719d3f19cbac8043779201fc716c0c395ecc",
+        "signature": "29ad297ca8111671145d1663d34d719d3f19cbac8043779201fc716c0c395ecc",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/common/bg-fill.d.ts": {
+        "version": "a606a5485136d88868673c5ac900418b31a08f6c1dabc98969c83591626bbe34",
+        "signature": "a606a5485136d88868673c5ac900418b31a08f6c1dabc98969c83591626bbe34",
+        "affectsGlobalScope": false
+      },
+      "../common/tsc/main.d.ts": {
+        "version": "11100877c8354644bdc0258d31aaf37d757826c4ed21adb848c01eca1398d2b4",
+        "signature": "11100877c8354644bdc0258d31aaf37d757826c4ed21adb848c01eca1398d2b4",
+        "affectsGlobalScope": false
+      },
+      "../core/tsc/Calendar.d.ts": {
+        "version": "278c66389e09b66743d474b754c0acb7846a24b652747842103772269c92fb3f",
+        "signature": "278c66389e09b66743d474b754c0acb7846a24b652747842103772269c92fb3f",
+        "affectsGlobalScope": false
+      },
+      "../core/tsc/main.d.ts": {
+        "version": "42c6dc1e9fd30b3901c2e4f025ff2cc79b15fb925b89712ce3972343cfc1747b",
+        "signature": "42c6dc1e9fd30b3901c2e4f025ff2cc79b15fb925b89712ce3972343cfc1747b",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/dnd/PointerDragging.d.ts": {
+        "version": "c62b85bd7dcc8e592ff2b25e7f3aa4b8f67a10b1d4fc618592d9cc537cb0696b",
+        "signature": "c62b85bd7dcc8e592ff2b25e7f3aa4b8f67a10b1d4fc618592d9cc537cb0696b",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/dnd/ElementMirror.d.ts": {
+        "version": "f0938905556418c7d3bdfdd71cedf041d844616f5544b44f41fb9ce22b149a18",
+        "signature": "f0938905556418c7d3bdfdd71cedf041d844616f5544b44f41fb9ce22b149a18",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/ScrollGeomCache.d.ts": {
+        "version": "edfc3bb09bdb6f15a7cf10fa2feff38c0c023230b5f8e8d17bc09fce77cdb0a4",
+        "signature": "edfc3bb09bdb6f15a7cf10fa2feff38c0c023230b5f8e8d17bc09fce77cdb0a4",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/dnd/AutoScroller.d.ts": {
+        "version": "347c8f3983cfc0b1d59579c1fe77d53cc1778f8f413b2a8eb23744e52b71d0ed",
+        "signature": "347c8f3983cfc0b1d59579c1fe77d53cc1778f8f413b2a8eb23744e52b71d0ed",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts": {
+        "version": "e081ed05ea1a3094412ae09c92acab1de68a7485f92d35896a056cc6f3a7c459",
+        "signature": "e081ed05ea1a3094412ae09c92acab1de68a7485f92d35896a056cc6f3a7c459",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/ElementScrollGeomCache.d.ts": {
+        "version": "05b41cf2cb561b930bac5f3504bef425bdd9be63e42512ef2245b38369b7ae2f",
+        "signature": "05b41cf2cb561b930bac5f3504bef425bdd9be63e42512ef2245b38369b7ae2f",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/OffsetTracker.d.ts": {
+        "version": "1abf7867d7063cee067936a0da7c4304c922a65a3ceea5f48bb085830eba091e",
+        "signature": "1abf7867d7063cee067936a0da7c4304c922a65a3ceea5f48bb085830eba091e",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/interactions/HitDragging.d.ts": {
+        "version": "f48ecaf00899a4838fc90d88e361cae9ec2d1738df38efc4e3c1cb1eb9006539",
+        "signature": "f48ecaf00899a4838fc90d88e361cae9ec2d1738df38efc4e3c1cb1eb9006539",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/interactions/DateClicking.d.ts": {
+        "version": "2ddfe4e1568c0bc4b4def6f9bf4f347e776cf5b130fd4219117ec4f67d698fb5",
+        "signature": "2ddfe4e1568c0bc4b4def6f9bf4f347e776cf5b130fd4219117ec4f67d698fb5",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/interactions/EventDragging.d.ts": {
+        "version": "3f90d071635f4213d9f33bb44c8cd525c7627868ffc2ae4ef91596501c1a3aa8",
+        "signature": "3f90d071635f4213d9f33bb44c8cd525c7627868ffc2ae4ef91596501c1a3aa8",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/interactions/EventResizing.d.ts": {
+        "version": "5f54a8a48a96cc16b6006c4a579d67c0c352c4fa9a1da2c46c8d58228909135e",
+        "signature": "5f54a8a48a96cc16b6006c4a579d67c0c352c4fa9a1da2c46c8d58228909135e",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/utils.d.ts": {
+        "version": "b057d5145da158eb31b373b8e5c5dd4096692a29c01c825085ae67aca6c8a466",
+        "signature": "b057d5145da158eb31b373b8e5c5dd4096692a29c01c825085ae67aca6c8a466",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/api-type-deps.d.ts": {
+        "version": "06b14fcc64ad1d7d8cbcfde00337792958e2caeae9291c57d248457cb0d20d8c",
+        "signature": "06b14fcc64ad1d7d8cbcfde00337792958e2caeae9291c57d248457cb0d20d8c",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/options.d.ts": {
+        "version": "9aea9d6f8d40c3a4a40c468f3028c1a6b409fd2926ae394ceba3c24a54f0a2c1",
+        "signature": "9aea9d6f8d40c3a4a40c468f3028c1a6b409fd2926ae394ceba3c24a54f0a2c1",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/options-declare.d.ts": {
+        "version": "193b04d5b502f69e46219e7a5c704dbb8d725aa88f9fd9237755f5055bd1012b",
+        "signature": "193b04d5b502f69e46219e7a5c704dbb8d725aa88f9fd9237755f5055bd1012b",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/interactions-external/ExternalElementDragging.d.ts": {
+        "version": "e5fe1e1216fee80651a007c6c0c697529f3d03359431f9cc658fd603609b44ba",
+        "signature": "e5fe1e1216fee80651a007c6c0c697529f3d03359431f9cc658fd603609b44ba",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/interactions-external/ExternalDraggable.d.ts": {
+        "version": "0a7c0abffe9e2e483d3ba2bcfcb80e506e60931fe23e693e390babbecf2f4e20",
+        "signature": "0a7c0abffe9e2e483d3ba2bcfcb80e506e60931fe23e693e390babbecf2f4e20",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/interactions-external/InferredElementDragging.d.ts": {
+        "version": "5ff0e6752900bd873e98c831208512acbf217a3bb5cda028d52a9199baab6b6c",
+        "signature": "5ff0e6752900bd873e98c831208512acbf217a3bb5cda028d52a9199baab6b6c",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/interactions-external/ThirdPartyDraggable.d.ts": {
+        "version": "0ee7409d92692911413198de697cf516cce49ca5a1d82153a1cfd005c1abade6",
+        "signature": "0ee7409d92692911413198de697cf516cce49ca5a1d82153a1cfd005c1abade6",
+        "affectsGlobalScope": false
+      },
+      "../interaction/tsc/main.d.ts": {
+        "version": "874f4317148bacd6c634454bdbc16c9f05aa6b86d27facadc642b9cfed94f3ed",
+        "signature": "874f4317148bacd6c634454bdbc16c9f05aa6b86d27facadc642b9cfed94f3ed",
+        "affectsGlobalScope": false
+      },
+      "../daygrid/tsc/TableView.d.ts": {
+        "version": "83190b091e84df4697b6ab93857844fbf753b823af68e7b70c1016401bff958d",
+        "signature": "83190b091e84df4697b6ab93857844fbf753b823af68e7b70c1016401bff958d",
+        "affectsGlobalScope": false
+      },
+      "../daygrid/tsc/DayTableView.d.ts": {
+        "version": "4d2ceb4c949f3314f76ddf93c650b31316e03c93cf75a85f5bbd1ce6f0e33fd9",
+        "signature": "4d2ceb4c949f3314f76ddf93c650b31316e03c93cf75a85f5bbd1ce6f0e33fd9",
+        "affectsGlobalScope": false
+      },
+      "../daygrid/tsc/DayTable.d.ts": {
+        "version": "d04e9e4d59ab3620836616109d3b5feaca071a07154d4dc1fb6f13de6f38dc13",
+        "signature": "d04e9e4d59ab3620836616109d3b5feaca071a07154d4dc1fb6f13de6f38dc13",
+        "affectsGlobalScope": false
+      },
+      "../daygrid/tsc/TableSeg.d.ts": {
+        "version": "378092cbb0f6054ef9fdc0f69a177db186ca4571c20e29b62d4a3754cd28e787",
+        "signature": "378092cbb0f6054ef9fdc0f69a177db186ca4571c20e29b62d4a3754cd28e787",
+        "affectsGlobalScope": false
+      },
+      "../daygrid/tsc/DayTableSlicer.d.ts": {
+        "version": "adda98981d7728c46e2e39cd74e3be5a9ff977eb7f327f313bb4feb1feb29301",
+        "signature": "adda98981d7728c46e2e39cd74e3be5a9ff977eb7f327f313bb4feb1feb29301",
+        "affectsGlobalScope": false
+      },
+      "../daygrid/tsc/Table.d.ts": {
+        "version": "9096976df2fbab01f744c3c502bc5a2c4b3ed74ade9b90549dee3212fd8e42cb",
+        "signature": "9096976df2fbab01f744c3c502bc5a2c4b3ed74ade9b90549dee3212fd8e42cb",
+        "affectsGlobalScope": false
+      },
+      "../daygrid/tsc/main.d.ts": {
+        "version": "f4435d3b9a3f265523b2de5fb3fcb19d2dc1d438c3208678bb2f64bf3247d193",
+        "signature": "f4435d3b9a3f265523b2de5fb3fcb19d2dc1d438c3208678bb2f64bf3247d193",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/AllDaySplitter.d.ts": {
+        "version": "99d38dd7279433d52a24a0d49273bef558bffc9ec7a9c31f6d6f26d19776eccb",
+        "signature": "99d38dd7279433d52a24a0d49273bef558bffc9ec7a9c31f6d6f26d19776eccb",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/time-slat-meta.d.ts": {
+        "version": "cce0f5ce79887c7233c869b85819c4183f1ae1d503f4beb0de00c1d3069270e4",
+        "signature": "cce0f5ce79887c7233c869b85819c4183f1ae1d503f4beb0de00c1d3069270e4",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/TimeColsSlatsCoords.d.ts": {
+        "version": "d7218abac8935a4af6e31ca7540e7a7ca32caba28e6554254663e4c443f0384d",
+        "signature": "d7218abac8935a4af6e31ca7540e7a7ca32caba28e6554254663e4c443f0384d",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/TimeColsView.d.ts": {
+        "version": "bfc40f85746ed99bdfc5e2fb919b3b5c206513a19e16496801228d79140e0000",
+        "signature": "bfc40f85746ed99bdfc5e2fb919b3b5c206513a19e16496801228d79140e0000",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/DayTimeColsView.d.ts": {
+        "version": "b974c61f0eb3ba92cdc4080447e4dfaf087a8e50c4aad9c26dbbb113d9db025c",
+        "signature": "b974c61f0eb3ba92cdc4080447e4dfaf087a8e50c4aad9c26dbbb113d9db025c",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/TimeColsSeg.d.ts": {
+        "version": "0f5d56be9682bef9b867a9d10f777bcd7f072ca7e629ab2df44c91b15177d717",
+        "signature": "0f5d56be9682bef9b867a9d10f777bcd7f072ca7e629ab2df44c91b15177d717",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/DayTimeCols.d.ts": {
+        "version": "ba2ff30439903335e4edf9dec506129f19ae88f4d230a8e1ff52b6133323e136",
+        "signature": "ba2ff30439903335e4edf9dec506129f19ae88f4d230a8e1ff52b6133323e136",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/DayTimeColsSlicer.d.ts": {
+        "version": "10506ccf9b1524e5519ee3451e3226ffc10d2bee504b51787812f42cb59a9363",
+        "signature": "10506ccf9b1524e5519ee3451e3226ffc10d2bee504b51787812f42cb59a9363",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/options.d.ts": {
+        "version": "7744f8c64195ea9e822c5262340f375b3aec4f0122c70b5513872e6fb524a6d2",
+        "signature": "7744f8c64195ea9e822c5262340f375b3aec4f0122c70b5513872e6fb524a6d2",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/options-declare.d.ts": {
+        "version": "b227fdc11ef2dc38904b7b4c9169bd4af487a179a5b66d5e37ff786674081cb9",
+        "signature": "b227fdc11ef2dc38904b7b4c9169bd4af487a179a5b66d5e37ff786674081cb9",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/TimeCols.d.ts": {
+        "version": "e2c3c03bc539b12968136acb257d9ff302adbcea53391edd90356064eb95619a",
+        "signature": "e2c3c03bc539b12968136acb257d9ff302adbcea53391edd90356064eb95619a",
+        "affectsGlobalScope": false
+      },
+      "../timegrid/tsc/main.d.ts": {
+        "version": "c634b26eea0e7def36711a7a8dd0f12410acf793ef0e6d36447f522fdc31a0c2",
+        "signature": "c634b26eea0e7def36711a7a8dd0f12410acf793ef0e6d36447f522fdc31a0c2",
+        "affectsGlobalScope": false
+      },
+      "../list/tsc/ListView.d.ts": {
+        "version": "6b22772d6608d08a1770af77e13db8486b1348ccb8e947f9866ea605c0621d7c",
+        "signature": "6b22772d6608d08a1770af77e13db8486b1348ccb8e947f9866ea605c0621d7c",
+        "affectsGlobalScope": false
+      },
+      "../list/tsc/api-type-deps.d.ts": {
+        "version": "0e428f6a4701d1eaf680871be8fbd3b7fce3d553ea5f20bdef5cb0dc2301f7fe",
+        "signature": "0e428f6a4701d1eaf680871be8fbd3b7fce3d553ea5f20bdef5cb0dc2301f7fe",
+        "affectsGlobalScope": false
+      },
+      "../list/tsc/options.d.ts": {
+        "version": "9fca9adb29e8421367aed04577c56e00d1f3aebc7c26d6ca75a79e74855f74e1",
+        "signature": "9fca9adb29e8421367aed04577c56e00d1f3aebc7c26d6ca75a79e74855f74e1",
+        "affectsGlobalScope": false
+      },
+      "../list/tsc/options-declare.d.ts": {
+        "version": "b227fdc11ef2dc38904b7b4c9169bd4af487a179a5b66d5e37ff786674081cb9",
+        "signature": "b227fdc11ef2dc38904b7b4c9169bd4af487a179a5b66d5e37ff786674081cb9",
+        "affectsGlobalScope": false
+      },
+      "../list/tsc/main.d.ts": {
+        "version": "da37201aff158b1f9645e978dc0d0f05bd57da079d1ef3c36114bdf13e7eaef2",
+        "signature": "da37201aff158b1f9645e978dc0d0f05bd57da079d1ef3c36114bdf13e7eaef2",
+        "affectsGlobalScope": false
+      },
+      "../bootstrap/tsc/main.d.ts": {
+        "version": "496e9a3a7ac4bcf3d23daaa89a5df9399f02004688da7bdd2d54e68536b5f77d",
+        "signature": "496e9a3a7ac4bcf3d23daaa89a5df9399f02004688da7bdd2d54e68536b5f77d",
+        "affectsGlobalScope": false
+      },
+      "../google-calendar/tsc/options-refiners.d.ts": {
+        "version": "b8ea8c5796f0f9f5f2ca1551d1c51594ec8f8d0b43f6718fc0e2666e9a1e8cd4",
+        "signature": "b8ea8c5796f0f9f5f2ca1551d1c51594ec8f8d0b43f6718fc0e2666e9a1e8cd4",
+        "affectsGlobalScope": false
+      },
+      "../google-calendar/tsc/options-declare.d.ts": {
+        "version": "68a493222a8108f414d83d992eb14318958de46634a5a438c53865932f98373e",
+        "signature": "68a493222a8108f414d83d992eb14318958de46634a5a438c53865932f98373e",
+        "affectsGlobalScope": false
+      },
+      "../google-calendar/tsc/event-source-refiners.d.ts": {
+        "version": "9234153f6eba4c270dbacc8c49f5c25e8214e54ecd1c4126af4b123ca32a8460",
+        "signature": "9234153f6eba4c270dbacc8c49f5c25e8214e54ecd1c4126af4b123ca32a8460",
+        "affectsGlobalScope": false
+      },
+      "../google-calendar/tsc/event-source-declare.d.ts": {
+        "version": "7ff89e83f9e2ceb46443b5685f65c46677818e05cc9cb7d0128c2d42c5790d52",
+        "signature": "7ff89e83f9e2ceb46443b5685f65c46677818e05cc9cb7d0128c2d42c5790d52",
+        "affectsGlobalScope": false
+      },
+      "../google-calendar/tsc/main.d.ts": {
+        "version": "bc31f79371025d9c576d795bd1a9556050eec9e7b6a871fd5d295746b50ea065",
+        "signature": "bc31f79371025d9c576d795bd1a9556050eec9e7b6a871fd5d295746b50ea065",
+        "affectsGlobalScope": false
+      },
+      "./src/main.ts": {
+        "version": "853c526b559322d3b45c4aac3f542466517ac9dee1f1e0fa4e8fcb01e0d863d6",
+        "signature": "0eb8fa260f2e9c2c935484cbd41b12ec580429890d5fac932f5fd4ca78c62e51",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "composite": true,
+      "declaration": true,
+      "declarationMap": true,
+      "sourceMap": true,
+      "target": 1,
+      "module": 5,
+      "moduleResolution": 2,
+      "esModuleInterop": true,
+      "lib": [
+        "lib.dom.d.ts",
+        "lib.es2015.d.ts",
+        "lib.scripthost.d.ts"
+      ],
+      "noUnusedLocals": true,
+      "noImplicitUseStrict": true,
+      "importHelpers": true,
+      "resolveJsonModule": true,
+      "jsx": 2,
+      "jsxFactory": "createElement",
+      "strictBindCallApply": true,
+      "rootDir": "./src",
+      "outDir": "./tsc",
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx-csstype.d.ts"
+      ],
+      "../bootstrap/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "./src/main.ts": [
+        "../bootstrap/tsc/main.d.ts",
+        "../core/tsc/main.d.ts",
+        "../daygrid/tsc/main.d.ts",
+        "../google-calendar/tsc/main.d.ts",
+        "../interaction/tsc/main.d.ts",
+        "../list/tsc/main.d.ts",
+        "../timegrid/tsc/main.d.ts"
+      ],
+      "../common/tsc/CalendarApi.d.ts": [
+        "../common/tsc/api-type-deps.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/interactions/pointer.d.ts",
+        "../common/tsc/main.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/reducers/CalendarDataManager.d.ts"
+      ],
+      "../common/tsc/CalendarContent.d.ts": [
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/interactions/interaction.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/util/DelayedRunner.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/CalendarContext.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/reducers/data-types.d.ts"
+      ],
+      "../common/tsc/CalendarRoot.d.ts": [
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/theme/Theme.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/DateProfileGenerator.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/NowTimer.d.ts": [
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/ScrollResponder.d.ts": [
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/View.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/ViewApi.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/reducers/data-types.d.ts"
+      ],
+      "../common/tsc/ViewContext.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ScrollResponder.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/interactions/interaction.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/structs/view-spec.d.ts",
+        "../common/tsc/theme/Theme.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/api-type-deps.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/api/EventSourceApi.d.ts",
+        "../common/tsc/calendar-utils.d.ts",
+        "../common/tsc/common/DayCellRoot.d.ts",
+        "../common/tsc/common/MoreLinkRoot.d.ts",
+        "../common/tsc/common/NowIndicatorRoot.d.ts",
+        "../common/tsc/common/ViewRoot.d.ts",
+        "../common/tsc/common/WeekNumberRoot.d.ts",
+        "../common/tsc/common/more-link.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/formatting.d.ts",
+        "../common/tsc/datelib/locale.d.ts",
+        "../common/tsc/dates-set.d.ts",
+        "../common/tsc/event-crud.d.ts",
+        "../common/tsc/event-sources/func-event-source.d.ts",
+        "../common/tsc/interactions/EventClicking.d.ts",
+        "../common/tsc/interactions/EventHovering.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/render-hook-misc.d.ts",
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/structs/business-hours.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source-parse.d.ts",
+        "../common/tsc/structs/view-config.d.ts",
+        "../common/tsc/toolbar-struct.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/api/EventApi.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/api-type-deps.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-instance.d.ts",
+        "../common/tsc/structs/event-mutation.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/api/EventSourceApi.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/calendar-utils.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/interactions/pointer.d.ts",
+        "../common/tsc/structs/date-span.d.ts"
+      ],
+      "../common/tsc/common/DayCellContent.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/component/date-rendering.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/DayCellRoot.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/DayCellContent.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/component/date-rendering.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/DayHeader.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/DaySeriesModel.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/common/DayTableModel.d.ts": [
+        "../common/tsc/common/DaySeriesModel.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/common/EventRoot.d.ts": [
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/MoreLinkRoot.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/NowIndicatorRoot.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/StandardEvent.d.ts": [
+        "../common/tsc/common/EventRoot.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/TableDateCell.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/TableDowCell.d.ts": [
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/ViewRoot.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/structs/view-spec.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/WeekNumberRoot.d.ts": [
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/bg-fill.d.ts": [
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/more-link.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/nav-link.d.ts": [
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/common/render-hook.d.ts": [
+        "../common/tsc/util/html.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/slicing-utils.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/common/table-utils.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../common/tsc/component/CalendarDataProvider.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/reducers/CalendarDataManager.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/component/DateComponent.d.ts": [
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/interactions/hit.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/event-instance.d.ts",
+        "../common/tsc/vdom-util.d.ts"
+      ],
+      "../common/tsc/component/date-rendering.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/theme/Theme.d.ts"
+      ],
+      "../common/tsc/component/event-rendering.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-store.d.ts",
+        "../common/tsc/util/misc.d.ts"
+      ],
+      "../common/tsc/component/event-splitting.d.ts": [
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/component/event-ui.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/util/html.d.ts"
+      ],
+      "../common/tsc/datelib/DateFormatter.d.ts": [
+        "../common/tsc/datelib/calendar-system.d.ts",
+        "../common/tsc/datelib/locale.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/datelib/zoned-marker.d.ts"
+      ],
+      "../common/tsc/datelib/calendar-system.d.ts": [
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/datelib/date-range.d.ts": [
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/datelib/env.d.ts": [
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/calendar-system.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/locale.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/datelib/timezone.d.ts"
+      ],
+      "../common/tsc/datelib/formatting-func.d.ts": [
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/zoned-marker.d.ts"
+      ],
+      "../common/tsc/datelib/formatting-native.d.ts": [
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/zoned-marker.d.ts"
+      ],
+      "../common/tsc/datelib/formatting-utils.d.ts": [
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/datelib/formatting.d.ts": [
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/formatting-func.d.ts",
+        "../common/tsc/datelib/formatting-native.d.ts"
+      ],
+      "../common/tsc/datelib/locale.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/datelib/marker.d.ts": [
+        "../common/tsc/datelib/duration.d.ts"
+      ],
+      "../common/tsc/datelib/zoned-marker.d.ts": [
+        "../common/tsc/datelib/calendar-system.d.ts",
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/dates-set.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/structs/date-span.d.ts"
+      ],
+      "../common/tsc/event-crud.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/event-sources/func-event-source.d.ts": [
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/event-sources/json-feed-event-source-refiners.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/formatting-api.d.ts": [
+        "../common/tsc/api-type-deps.d.ts",
+        "../common/tsc/datelib/formatting-native.d.ts"
+      ],
+      "../common/tsc/global-locales.d.ts": [
+        "../common/tsc/datelib/locale.d.ts"
+      ],
+      "../common/tsc/global-plugins.d.ts": [
+        "../common/tsc/plugin-system-struct.d.ts"
+      ],
+      "../common/tsc/interactions/ElementDragging.d.ts": [
+        "../common/tsc/common/Emitter.d.ts"
+      ],
+      "../common/tsc/interactions/EventClicking.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/interactions/interaction.d.ts"
+      ],
+      "../common/tsc/interactions/EventHovering.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/interactions/interaction.d.ts"
+      ],
+      "../common/tsc/interactions/date-selecting.d.ts": [
+        "../common/tsc/interactions/hit.d.ts"
+      ],
+      "../common/tsc/interactions/event-dragging.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/interactions/hit.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-mutation.d.ts"
+      ],
+      "../common/tsc/interactions/event-interaction-state.d.ts": [
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/interactions/external-element-dragging.d.ts": [
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/drag-meta.d.ts"
+      ],
+      "../common/tsc/interactions/hit.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/util/geom.d.ts"
+      ],
+      "../common/tsc/interactions/interaction.d.ts": [
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/interactions/hit.d.ts"
+      ],
+      "../common/tsc/main.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/CalendarContent.d.ts",
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/CalendarRoot.d.ts",
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/NowTimer.d.ts",
+        "../common/tsc/ScrollResponder.d.ts",
+        "../common/tsc/View.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/api-type-deps.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/api/EventSourceApi.d.ts",
+        "../common/tsc/calendar-utils.d.ts",
+        "../common/tsc/common/DayCellContent.d.ts",
+        "../common/tsc/common/DayCellRoot.d.ts",
+        "../common/tsc/common/DayHeader.d.ts",
+        "../common/tsc/common/DaySeriesModel.d.ts",
+        "../common/tsc/common/DayTableModel.d.ts",
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/common/EventRoot.d.ts",
+        "../common/tsc/common/MoreLinkRoot.d.ts",
+        "../common/tsc/common/NowIndicatorRoot.d.ts",
+        "../common/tsc/common/PositionCache.d.ts",
+        "../common/tsc/common/StandardEvent.d.ts",
+        "../common/tsc/common/TableDateCell.d.ts",
+        "../common/tsc/common/TableDowCell.d.ts",
+        "../common/tsc/common/ViewRoot.d.ts",
+        "../common/tsc/common/WeekNumberRoot.d.ts",
+        "../common/tsc/common/bg-fill.d.ts",
+        "../common/tsc/common/nav-link.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/common/scroll-controller.d.ts",
+        "../common/tsc/common/slicing-utils.d.ts",
+        "../common/tsc/common/table-utils.d.ts",
+        "../common/tsc/component/CalendarDataProvider.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/component/date-rendering.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/component/event-splitting.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/formatting-utils.d.ts",
+        "../common/tsc/datelib/formatting.d.ts",
+        "../common/tsc/datelib/locale.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/datelib/parsing.d.ts",
+        "../common/tsc/datelib/timezone.d.ts",
+        "../common/tsc/event-placement.d.ts",
+        "../common/tsc/formatting-api.d.ts",
+        "../common/tsc/global-config.d.ts",
+        "../common/tsc/global-locales.d.ts",
+        "../common/tsc/global-plugins.d.ts",
+        "../common/tsc/interactions/ElementDragging.d.ts",
+        "../common/tsc/interactions/date-selecting.d.ts",
+        "../common/tsc/interactions/event-dragging.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/interactions/hit.d.ts",
+        "../common/tsc/interactions/interaction.d.ts",
+        "../common/tsc/interactions/pointer.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/plugin-system.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/reducers/CalendarDataManager.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/scrollgrid/ScrollGridImpl.d.ts",
+        "../common/tsc/scrollgrid/Scroller.d.ts",
+        "../common/tsc/scrollgrid/SimpleScrollGrid.d.ts",
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/structs/business-hours.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/drag-meta.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-instance.d.ts",
+        "../common/tsc/structs/event-mutation.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source-def.d.ts",
+        "../common/tsc/structs/event-source-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts",
+        "../common/tsc/structs/event-store.d.ts",
+        "../common/tsc/structs/recurring-event.d.ts",
+        "../common/tsc/structs/view-def.d.ts",
+        "../common/tsc/structs/view-spec.d.ts",
+        "../common/tsc/theme/Theme.d.ts",
+        "../common/tsc/util/DelayedRunner.d.ts",
+        "../common/tsc/util/RefMap.d.ts",
+        "../common/tsc/util/array.d.ts",
+        "../common/tsc/util/date.d.ts",
+        "../common/tsc/util/dom-event.d.ts",
+        "../common/tsc/util/dom-geom.d.ts",
+        "../common/tsc/util/dom-manip.d.ts",
+        "../common/tsc/util/geom.d.ts",
+        "../common/tsc/util/html.d.ts",
+        "../common/tsc/util/memoize.d.ts",
+        "../common/tsc/util/misc.d.ts",
+        "../common/tsc/util/object.d.ts",
+        "../common/tsc/util/promise.d.ts",
+        "../common/tsc/util/requestJson.d.ts",
+        "../common/tsc/util/scrollbar-side.d.ts",
+        "../common/tsc/util/scrollbar-width.d.ts",
+        "../common/tsc/util/table-styling.d.ts",
+        "../common/tsc/validation.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/options.d.ts": [
+        "../common/tsc/api-type-deps.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/formatting-func.d.ts",
+        "../common/tsc/datelib/formatting-native.d.ts",
+        "../common/tsc/datelib/formatting.d.ts",
+        "../common/tsc/main.d.ts",
+        "../common/tsc/util/misc.d.ts"
+      ],
+      "../common/tsc/plugin-system-struct.d.ts": [
+        "../common/tsc/CalendarContent.d.ts",
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/View.d.ts",
+        "../common/tsc/calendar-utils.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/timezone.d.ts",
+        "../common/tsc/interactions/ElementDragging.d.ts",
+        "../common/tsc/interactions/date-selecting.d.ts",
+        "../common/tsc/interactions/event-dragging.d.ts",
+        "../common/tsc/interactions/external-element-dragging.d.ts",
+        "../common/tsc/interactions/interaction.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/reducers/CalendarDataManager.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/scrollgrid/ScrollGridImpl.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/structs/event-mutation.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source-def.d.ts",
+        "../common/tsc/structs/recurring-event.d.ts",
+        "../common/tsc/structs/view-config.d.ts",
+        "../common/tsc/theme/Theme.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/plugin-system.d.ts": [
+        "../common/tsc/plugin-system-struct.d.ts"
+      ],
+      "../common/tsc/reducers/Action.d.ts": [
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/reducers/CalendarDataManager.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/datelib/locale.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/structs/view-spec.d.ts"
+      ],
+      "../common/tsc/reducers/data-types.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-source.d.ts",
+        "../common/tsc/structs/event-store.d.ts",
+        "../common/tsc/structs/view-spec.d.ts",
+        "../common/tsc/theme/Theme.d.ts"
+      ],
+      "../common/tsc/render-hook-misc.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/component/date-rendering.d.ts",
+        "../common/tsc/datelib/duration.d.ts"
+      ],
+      "../common/tsc/scrollgrid/ScrollGridImpl.d.ts": [
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/scrollgrid/Scroller.d.ts": [
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/scrollgrid/SimpleScrollGrid.d.ts": [
+        "../common/tsc/scrollgrid/Scroller.d.ts",
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/util/RefMap.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/scrollgrid/util.d.ts": [
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/structs/business-hours.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/structs/constraint.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/component/event-splitting.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/structs/date-span.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts"
+      ],
+      "../common/tsc/structs/drag-meta.d.ts": [
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/structs/event-def.d.ts": [
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/structs/event-instance.d.ts": [
+        "../common/tsc/datelib/date-range.d.ts"
+      ],
+      "../common/tsc/structs/event-mutation.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/structs/event-parse.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/main.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-instance.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/structs/event-source-def.d.ts": [
+        "../common/tsc/structs/event-source-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/structs/event-source-parse.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/event-sources/func-event-source.d.ts",
+        "../common/tsc/event-sources/json-feed-event-source-refiners.d.ts",
+        "../common/tsc/main.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/structs/event-source.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/event-parse.d.ts"
+      ],
+      "../common/tsc/structs/event-store.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-instance.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/structs/recurring-event.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/structs/view-config.d.ts": [
+        "../common/tsc/View.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/structs/view-def.d.ts": [
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/view-config.d.ts"
+      ],
+      "../common/tsc/structs/view-spec.d.ts": [
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/view-config.d.ts"
+      ],
+      "../common/tsc/theme/Theme.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/util/date.d.ts": [
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/util/dom-event.d.ts": [
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/util/dom-geom.d.ts": [
+        "../common/tsc/util/geom.d.ts"
+      ],
+      "../common/tsc/util/dom-manip.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/util/memoize.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/util/requestJson.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/validation.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/component/event-splitting.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/structs/date-span.d.ts"
+      ],
+      "../common/tsc/vdom-util.d.ts": [
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/util/object.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/vdom.d.ts": [
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../core-preact/tsc/vdom.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../core/tsc/Calendar.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../core/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core/tsc/Calendar.d.ts",
+        "../core/tsc/vdom.d.ts"
+      ],
+      "../core/tsc/vdom.d.ts": [
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../daygrid/tsc/DayTable.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../daygrid/tsc/DayTableSlicer.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../daygrid/tsc/TableSeg.d.ts"
+      ],
+      "../daygrid/tsc/DayTableView.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../daygrid/tsc/TableView.d.ts"
+      ],
+      "../daygrid/tsc/Table.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts",
+        "../daygrid/tsc/TableSeg.d.ts"
+      ],
+      "../daygrid/tsc/TableSeg.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../daygrid/tsc/TableView.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../daygrid/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../daygrid/tsc/DayTable.d.ts",
+        "../daygrid/tsc/DayTableSlicer.d.ts",
+        "../daygrid/tsc/DayTableView.d.ts",
+        "../daygrid/tsc/Table.d.ts",
+        "../daygrid/tsc/TableSeg.d.ts",
+        "../daygrid/tsc/TableView.d.ts"
+      ],
+      "../google-calendar/tsc/event-source-declare.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-refiners.d.ts",
+        "../google-calendar/tsc/options-declare.d.ts",
+        "../interaction/tsc/options-declare.d.ts",
+        "../list/tsc/options-declare.d.ts",
+        "../timegrid/tsc/options-declare.d.ts"
+      ],
+      "../google-calendar/tsc/event-source-refiners.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../google-calendar/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-declare.d.ts",
+        "../google-calendar/tsc/options-declare.d.ts"
+      ],
+      "../google-calendar/tsc/options-declare.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-declare.d.ts",
+        "../google-calendar/tsc/options-refiners.d.ts",
+        "../interaction/tsc/options-declare.d.ts",
+        "../list/tsc/options-declare.d.ts",
+        "../timegrid/tsc/options-declare.d.ts"
+      ],
+      "../interaction/tsc/ElementScrollGeomCache.d.ts": [
+        "../interaction/tsc/ScrollGeomCache.d.ts"
+      ],
+      "../interaction/tsc/OffsetTracker.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/ElementScrollGeomCache.d.ts"
+      ],
+      "../interaction/tsc/ScrollGeomCache.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../interaction/tsc/api-type-deps.d.ts": [
+        "../interaction/tsc/interactions/DateClicking.d.ts",
+        "../interaction/tsc/interactions/EventDragging.d.ts",
+        "../interaction/tsc/interactions/EventResizing.d.ts",
+        "../interaction/tsc/utils.d.ts"
+      ],
+      "../interaction/tsc/dnd/AutoScroller.d.ts": [
+        "../interaction/tsc/ScrollGeomCache.d.ts"
+      ],
+      "../interaction/tsc/dnd/ElementMirror.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/AutoScroller.d.ts",
+        "../interaction/tsc/dnd/ElementMirror.d.ts",
+        "../interaction/tsc/dnd/PointerDragging.d.ts"
+      ],
+      "../interaction/tsc/dnd/PointerDragging.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../interaction/tsc/interactions-external/ExternalDraggable.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts",
+        "../interaction/tsc/interactions-external/ExternalElementDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions-external/ExternalElementDragging.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/interactions/HitDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions-external/InferredElementDragging.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/PointerDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions-external/ThirdPartyDraggable.d.ts": [
+        "../interaction/tsc/interactions-external/ExternalElementDragging.d.ts",
+        "../interaction/tsc/interactions-external/InferredElementDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions/DateClicking.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts",
+        "../interaction/tsc/interactions/HitDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions/EventDragging.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts",
+        "../interaction/tsc/interactions/HitDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions/EventResizing.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts",
+        "../interaction/tsc/interactions/HitDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions/HitDragging.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/OffsetTracker.d.ts"
+      ],
+      "../interaction/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/api-type-deps.d.ts",
+        "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts",
+        "../interaction/tsc/dnd/PointerDragging.d.ts",
+        "../interaction/tsc/interactions-external/ExternalDraggable.d.ts",
+        "../interaction/tsc/interactions-external/ThirdPartyDraggable.d.ts",
+        "../interaction/tsc/options-declare.d.ts"
+      ],
+      "../interaction/tsc/options-declare.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-declare.d.ts",
+        "../google-calendar/tsc/options-declare.d.ts",
+        "../interaction/tsc/options.d.ts",
+        "../list/tsc/options-declare.d.ts",
+        "../timegrid/tsc/options-declare.d.ts"
+      ],
+      "../interaction/tsc/options.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/api-type-deps.d.ts"
+      ],
+      "../interaction/tsc/utils.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../list/tsc/ListView.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../list/tsc/api-type-deps.d.ts": [
+        "../list/tsc/ListView.d.ts"
+      ],
+      "../list/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../list/tsc/ListView.d.ts",
+        "../list/tsc/api-type-deps.d.ts",
+        "../list/tsc/options-declare.d.ts"
+      ],
+      "../list/tsc/options-declare.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-declare.d.ts",
+        "../google-calendar/tsc/options-declare.d.ts",
+        "../interaction/tsc/options-declare.d.ts",
+        "../list/tsc/options.d.ts",
+        "../timegrid/tsc/options-declare.d.ts"
+      ],
+      "../list/tsc/options.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../list/tsc/api-type-deps.d.ts"
+      ],
+      "../timegrid/tsc/AllDaySplitter.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../timegrid/tsc/DayTimeCols.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts",
+        "../timegrid/tsc/TimeColsSlatsCoords.d.ts",
+        "../timegrid/tsc/time-slat-meta.d.ts"
+      ],
+      "../timegrid/tsc/DayTimeColsSlicer.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../timegrid/tsc/TimeColsSeg.d.ts"
+      ],
+      "../timegrid/tsc/DayTimeColsView.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../timegrid/tsc/TimeColsView.d.ts"
+      ],
+      "../timegrid/tsc/TimeCols.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts",
+        "../timegrid/tsc/TimeColsSeg.d.ts",
+        "../timegrid/tsc/TimeColsSlatsCoords.d.ts",
+        "../timegrid/tsc/time-slat-meta.d.ts"
+      ],
+      "../timegrid/tsc/TimeColsSeg.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../timegrid/tsc/TimeColsSlatsCoords.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../timegrid/tsc/TimeColsView.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts",
+        "../timegrid/tsc/AllDaySplitter.d.ts",
+        "../timegrid/tsc/TimeColsSlatsCoords.d.ts",
+        "../timegrid/tsc/time-slat-meta.d.ts"
+      ],
+      "../timegrid/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../timegrid/tsc/DayTimeCols.d.ts",
+        "../timegrid/tsc/DayTimeColsSlicer.d.ts",
+        "../timegrid/tsc/DayTimeColsView.d.ts",
+        "../timegrid/tsc/TimeCols.d.ts",
+        "../timegrid/tsc/TimeColsSeg.d.ts",
+        "../timegrid/tsc/TimeColsSlatsCoords.d.ts",
+        "../timegrid/tsc/TimeColsView.d.ts",
+        "../timegrid/tsc/options-declare.d.ts",
+        "../timegrid/tsc/time-slat-meta.d.ts"
+      ],
+      "../timegrid/tsc/options-declare.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-declare.d.ts",
+        "../google-calendar/tsc/options-declare.d.ts",
+        "../interaction/tsc/options-declare.d.ts",
+        "../list/tsc/options-declare.d.ts",
+        "../timegrid/tsc/options.d.ts"
+      ],
+      "../timegrid/tsc/time-slat-meta.d.ts": [
+        "../common/tsc/main.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx-csstype.d.ts"
+      ],
+      "../bootstrap/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "./src/main.ts": [
+        "../bootstrap/tsc/main.d.ts",
+        "../core/tsc/main.d.ts",
+        "../daygrid/tsc/main.d.ts",
+        "../google-calendar/tsc/main.d.ts",
+        "../interaction/tsc/main.d.ts",
+        "../list/tsc/main.d.ts",
+        "../timegrid/tsc/main.d.ts"
+      ],
+      "../common/tsc/CalendarApi.d.ts": [
+        "../common/tsc/api-type-deps.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/interactions/pointer.d.ts",
+        "../common/tsc/main.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/reducers/CalendarDataManager.d.ts"
+      ],
+      "../common/tsc/CalendarContent.d.ts": [
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/interactions/interaction.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/util/DelayedRunner.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/CalendarContext.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/reducers/data-types.d.ts"
+      ],
+      "../common/tsc/CalendarRoot.d.ts": [
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/theme/Theme.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/DateProfileGenerator.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/NowTimer.d.ts": [
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/ScrollResponder.d.ts": [
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/View.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/ViewApi.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/reducers/data-types.d.ts"
+      ],
+      "../common/tsc/ViewContext.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ScrollResponder.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/interactions/interaction.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/structs/view-spec.d.ts",
+        "../common/tsc/theme/Theme.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/api-type-deps.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/api/EventSourceApi.d.ts",
+        "../common/tsc/calendar-utils.d.ts",
+        "../common/tsc/common/DayCellRoot.d.ts",
+        "../common/tsc/common/MoreLinkRoot.d.ts",
+        "../common/tsc/common/NowIndicatorRoot.d.ts",
+        "../common/tsc/common/ViewRoot.d.ts",
+        "../common/tsc/common/WeekNumberRoot.d.ts",
+        "../common/tsc/common/more-link.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/formatting.d.ts",
+        "../common/tsc/datelib/locale.d.ts",
+        "../common/tsc/dates-set.d.ts",
+        "../common/tsc/event-crud.d.ts",
+        "../common/tsc/event-sources/func-event-source.d.ts",
+        "../common/tsc/interactions/EventClicking.d.ts",
+        "../common/tsc/interactions/EventHovering.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/render-hook-misc.d.ts",
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/structs/business-hours.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source-parse.d.ts",
+        "../common/tsc/structs/view-config.d.ts",
+        "../common/tsc/toolbar-struct.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/api/EventApi.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/api-type-deps.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-instance.d.ts",
+        "../common/tsc/structs/event-mutation.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/api/EventSourceApi.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/calendar-utils.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/interactions/pointer.d.ts",
+        "../common/tsc/structs/date-span.d.ts"
+      ],
+      "../common/tsc/common/DayCellContent.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/component/date-rendering.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/DayCellRoot.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/DayCellContent.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/component/date-rendering.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/DayHeader.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/DaySeriesModel.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/common/DayTableModel.d.ts": [
+        "../common/tsc/common/DaySeriesModel.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/common/EventRoot.d.ts": [
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/MoreLinkRoot.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/NowIndicatorRoot.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/StandardEvent.d.ts": [
+        "../common/tsc/common/EventRoot.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/TableDateCell.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/TableDowCell.d.ts": [
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/ViewRoot.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/structs/view-spec.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/WeekNumberRoot.d.ts": [
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/bg-fill.d.ts": [
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/more-link.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/nav-link.d.ts": [
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/common/render-hook.d.ts": [
+        "../common/tsc/util/html.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/common/slicing-utils.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/common/table-utils.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../common/tsc/component/CalendarDataProvider.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/reducers/CalendarDataManager.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/component/DateComponent.d.ts": [
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/interactions/hit.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/event-instance.d.ts",
+        "../common/tsc/vdom-util.d.ts"
+      ],
+      "../common/tsc/component/date-rendering.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/theme/Theme.d.ts"
+      ],
+      "../common/tsc/component/event-rendering.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-store.d.ts",
+        "../common/tsc/util/misc.d.ts"
+      ],
+      "../common/tsc/component/event-splitting.d.ts": [
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/component/event-ui.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/util/html.d.ts"
+      ],
+      "../common/tsc/datelib/DateFormatter.d.ts": [
+        "../common/tsc/datelib/calendar-system.d.ts",
+        "../common/tsc/datelib/locale.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/datelib/zoned-marker.d.ts"
+      ],
+      "../common/tsc/datelib/calendar-system.d.ts": [
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/datelib/date-range.d.ts": [
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/datelib/env.d.ts": [
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/calendar-system.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/locale.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/datelib/timezone.d.ts"
+      ],
+      "../common/tsc/datelib/formatting-func.d.ts": [
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/zoned-marker.d.ts"
+      ],
+      "../common/tsc/datelib/formatting-native.d.ts": [
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/zoned-marker.d.ts"
+      ],
+      "../common/tsc/datelib/formatting-utils.d.ts": [
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/datelib/formatting.d.ts": [
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/formatting-func.d.ts",
+        "../common/tsc/datelib/formatting-native.d.ts"
+      ],
+      "../common/tsc/datelib/locale.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/datelib/marker.d.ts": [
+        "../common/tsc/datelib/duration.d.ts"
+      ],
+      "../common/tsc/datelib/zoned-marker.d.ts": [
+        "../common/tsc/datelib/calendar-system.d.ts",
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/dates-set.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/structs/date-span.d.ts"
+      ],
+      "../common/tsc/event-crud.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/event-sources/func-event-source.d.ts": [
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/event-sources/json-feed-event-source-refiners.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/formatting-api.d.ts": [
+        "../common/tsc/api-type-deps.d.ts",
+        "../common/tsc/datelib/formatting-native.d.ts"
+      ],
+      "../common/tsc/global-locales.d.ts": [
+        "../common/tsc/datelib/locale.d.ts"
+      ],
+      "../common/tsc/global-plugins.d.ts": [
+        "../common/tsc/plugin-system-struct.d.ts"
+      ],
+      "../common/tsc/interactions/ElementDragging.d.ts": [
+        "../common/tsc/common/Emitter.d.ts"
+      ],
+      "../common/tsc/interactions/EventClicking.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/interactions/interaction.d.ts"
+      ],
+      "../common/tsc/interactions/EventHovering.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/interactions/interaction.d.ts"
+      ],
+      "../common/tsc/interactions/date-selecting.d.ts": [
+        "../common/tsc/interactions/hit.d.ts"
+      ],
+      "../common/tsc/interactions/event-dragging.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/interactions/hit.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-mutation.d.ts"
+      ],
+      "../common/tsc/interactions/event-interaction-state.d.ts": [
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/interactions/external-element-dragging.d.ts": [
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/drag-meta.d.ts"
+      ],
+      "../common/tsc/interactions/hit.d.ts": [
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/util/geom.d.ts"
+      ],
+      "../common/tsc/interactions/interaction.d.ts": [
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/interactions/hit.d.ts"
+      ],
+      "../common/tsc/main.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/CalendarContent.d.ts",
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/CalendarRoot.d.ts",
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/NowTimer.d.ts",
+        "../common/tsc/ScrollResponder.d.ts",
+        "../common/tsc/View.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/api-type-deps.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/api/EventSourceApi.d.ts",
+        "../common/tsc/calendar-utils.d.ts",
+        "../common/tsc/common/DayCellContent.d.ts",
+        "../common/tsc/common/DayCellRoot.d.ts",
+        "../common/tsc/common/DayHeader.d.ts",
+        "../common/tsc/common/DaySeriesModel.d.ts",
+        "../common/tsc/common/DayTableModel.d.ts",
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/common/EventRoot.d.ts",
+        "../common/tsc/common/MoreLinkRoot.d.ts",
+        "../common/tsc/common/NowIndicatorRoot.d.ts",
+        "../common/tsc/common/PositionCache.d.ts",
+        "../common/tsc/common/StandardEvent.d.ts",
+        "../common/tsc/common/TableDateCell.d.ts",
+        "../common/tsc/common/TableDowCell.d.ts",
+        "../common/tsc/common/ViewRoot.d.ts",
+        "../common/tsc/common/WeekNumberRoot.d.ts",
+        "../common/tsc/common/bg-fill.d.ts",
+        "../common/tsc/common/nav-link.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/common/scroll-controller.d.ts",
+        "../common/tsc/common/slicing-utils.d.ts",
+        "../common/tsc/common/table-utils.d.ts",
+        "../common/tsc/component/CalendarDataProvider.d.ts",
+        "../common/tsc/component/DateComponent.d.ts",
+        "../common/tsc/component/date-rendering.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/component/event-splitting.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/formatting-utils.d.ts",
+        "../common/tsc/datelib/formatting.d.ts",
+        "../common/tsc/datelib/locale.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/datelib/parsing.d.ts",
+        "../common/tsc/datelib/timezone.d.ts",
+        "../common/tsc/event-placement.d.ts",
+        "../common/tsc/formatting-api.d.ts",
+        "../common/tsc/global-config.d.ts",
+        "../common/tsc/global-locales.d.ts",
+        "../common/tsc/global-plugins.d.ts",
+        "../common/tsc/interactions/ElementDragging.d.ts",
+        "../common/tsc/interactions/date-selecting.d.ts",
+        "../common/tsc/interactions/event-dragging.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/interactions/hit.d.ts",
+        "../common/tsc/interactions/interaction.d.ts",
+        "../common/tsc/interactions/pointer.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/plugin-system.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/reducers/CalendarDataManager.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/scrollgrid/ScrollGridImpl.d.ts",
+        "../common/tsc/scrollgrid/Scroller.d.ts",
+        "../common/tsc/scrollgrid/SimpleScrollGrid.d.ts",
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/structs/business-hours.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/drag-meta.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-instance.d.ts",
+        "../common/tsc/structs/event-mutation.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source-def.d.ts",
+        "../common/tsc/structs/event-source-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts",
+        "../common/tsc/structs/event-store.d.ts",
+        "../common/tsc/structs/recurring-event.d.ts",
+        "../common/tsc/structs/view-def.d.ts",
+        "../common/tsc/structs/view-spec.d.ts",
+        "../common/tsc/theme/Theme.d.ts",
+        "../common/tsc/util/DelayedRunner.d.ts",
+        "../common/tsc/util/RefMap.d.ts",
+        "../common/tsc/util/array.d.ts",
+        "../common/tsc/util/date.d.ts",
+        "../common/tsc/util/dom-event.d.ts",
+        "../common/tsc/util/dom-geom.d.ts",
+        "../common/tsc/util/dom-manip.d.ts",
+        "../common/tsc/util/geom.d.ts",
+        "../common/tsc/util/html.d.ts",
+        "../common/tsc/util/memoize.d.ts",
+        "../common/tsc/util/misc.d.ts",
+        "../common/tsc/util/object.d.ts",
+        "../common/tsc/util/promise.d.ts",
+        "../common/tsc/util/requestJson.d.ts",
+        "../common/tsc/util/scrollbar-side.d.ts",
+        "../common/tsc/util/scrollbar-width.d.ts",
+        "../common/tsc/util/table-styling.d.ts",
+        "../common/tsc/validation.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/options.d.ts": [
+        "../common/tsc/api-type-deps.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/formatting-func.d.ts",
+        "../common/tsc/datelib/formatting-native.d.ts",
+        "../common/tsc/datelib/formatting.d.ts",
+        "../common/tsc/main.d.ts",
+        "../common/tsc/util/misc.d.ts"
+      ],
+      "../common/tsc/plugin-system-struct.d.ts": [
+        "../common/tsc/CalendarContent.d.ts",
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/View.d.ts",
+        "../common/tsc/calendar-utils.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/datelib/DateFormatter.d.ts",
+        "../common/tsc/datelib/timezone.d.ts",
+        "../common/tsc/interactions/ElementDragging.d.ts",
+        "../common/tsc/interactions/date-selecting.d.ts",
+        "../common/tsc/interactions/event-dragging.d.ts",
+        "../common/tsc/interactions/external-element-dragging.d.ts",
+        "../common/tsc/interactions/interaction.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/reducers/CalendarDataManager.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/scrollgrid/ScrollGridImpl.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/structs/event-mutation.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source-def.d.ts",
+        "../common/tsc/structs/recurring-event.d.ts",
+        "../common/tsc/structs/view-config.d.ts",
+        "../common/tsc/theme/Theme.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/plugin-system.d.ts": [
+        "../common/tsc/plugin-system-struct.d.ts"
+      ],
+      "../common/tsc/reducers/Action.d.ts": [
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/reducers/CalendarDataManager.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/datelib/locale.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/reducers/data-types.d.ts",
+        "../common/tsc/structs/view-spec.d.ts"
+      ],
+      "../common/tsc/reducers/data-types.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/Emitter.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/plugin-system-struct.d.ts",
+        "../common/tsc/reducers/Action.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-source.d.ts",
+        "../common/tsc/structs/event-store.d.ts",
+        "../common/tsc/structs/view-spec.d.ts",
+        "../common/tsc/theme/Theme.d.ts"
+      ],
+      "../common/tsc/render-hook-misc.d.ts": [
+        "../common/tsc/ViewApi.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/component/date-rendering.d.ts",
+        "../common/tsc/datelib/duration.d.ts"
+      ],
+      "../common/tsc/scrollgrid/ScrollGridImpl.d.ts": [
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/scrollgrid/Scroller.d.ts": [
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/scrollgrid/SimpleScrollGrid.d.ts": [
+        "../common/tsc/scrollgrid/Scroller.d.ts",
+        "../common/tsc/scrollgrid/util.d.ts",
+        "../common/tsc/util/RefMap.d.ts",
+        "../common/tsc/vdom-util.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/scrollgrid/util.d.ts": [
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/structs/business-hours.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/structs/constraint.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/api/EventApi.d.ts",
+        "../common/tsc/component/event-splitting.d.ts",
+        "../common/tsc/structs/date-span.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/structs/date-span.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-rendering.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts"
+      ],
+      "../common/tsc/structs/drag-meta.d.ts": [
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/structs/event-def.d.ts": [
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/structs/event-instance.d.ts": [
+        "../common/tsc/datelib/date-range.d.ts"
+      ],
+      "../common/tsc/structs/event-mutation.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/structs/event-parse.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/main.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-instance.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/structs/event-source-def.d.ts": [
+        "../common/tsc/structs/event-source-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/structs/event-source-parse.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/event-sources/func-event-source.d.ts",
+        "../common/tsc/event-sources/json-feed-event-source-refiners.d.ts",
+        "../common/tsc/main.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/constraint.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/structs/event-source.d.ts": [
+        "../common/tsc/CalendarApi.d.ts",
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/component/event-ui.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/event-parse.d.ts"
+      ],
+      "../common/tsc/structs/event-store.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/structs/event-def.d.ts",
+        "../common/tsc/structs/event-instance.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-source.d.ts"
+      ],
+      "../common/tsc/structs/recurring-event.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts",
+        "../common/tsc/structs/event-parse.d.ts",
+        "../common/tsc/structs/event-store.d.ts"
+      ],
+      "../common/tsc/structs/view-config.d.ts": [
+        "../common/tsc/View.d.ts",
+        "../common/tsc/common/render-hook.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/structs/view-def.d.ts": [
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/view-config.d.ts"
+      ],
+      "../common/tsc/structs/view-spec.d.ts": [
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/structs/view-config.d.ts"
+      ],
+      "../common/tsc/theme/Theme.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/util/date.d.ts": [
+        "../common/tsc/datelib/date-range.d.ts",
+        "../common/tsc/datelib/duration.d.ts",
+        "../common/tsc/datelib/env.d.ts",
+        "../common/tsc/datelib/marker.d.ts"
+      ],
+      "../common/tsc/util/dom-event.d.ts": [
+        "../common/tsc/vdom.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/util/dom-geom.d.ts": [
+        "../common/tsc/util/geom.d.ts"
+      ],
+      "../common/tsc/util/dom-manip.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/util/memoize.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/util/requestJson.d.ts": [
+        "../common/tsc/options.d.ts"
+      ],
+      "../common/tsc/validation.d.ts": [
+        "../common/tsc/CalendarContext.d.ts",
+        "../common/tsc/DateProfileGenerator.d.ts",
+        "../common/tsc/component/event-splitting.d.ts",
+        "../common/tsc/interactions/event-interaction-state.d.ts",
+        "../common/tsc/structs/date-span.d.ts"
+      ],
+      "../common/tsc/vdom-util.d.ts": [
+        "../common/tsc/ViewContext.d.ts",
+        "../common/tsc/options.d.ts",
+        "../common/tsc/util/object.d.ts",
+        "../common/tsc/vdom.d.ts"
+      ],
+      "../common/tsc/vdom.d.ts": [
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../core-preact/tsc/vdom.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../core/tsc/Calendar.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../core/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core/tsc/Calendar.d.ts",
+        "../core/tsc/vdom.d.ts"
+      ],
+      "../core/tsc/vdom.d.ts": [
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../daygrid/tsc/DayTable.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../daygrid/tsc/DayTableSlicer.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../daygrid/tsc/TableSeg.d.ts"
+      ],
+      "../daygrid/tsc/DayTableView.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../daygrid/tsc/TableView.d.ts"
+      ],
+      "../daygrid/tsc/Table.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts",
+        "../daygrid/tsc/TableSeg.d.ts"
+      ],
+      "../daygrid/tsc/TableSeg.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../daygrid/tsc/TableView.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../daygrid/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../daygrid/tsc/DayTable.d.ts",
+        "../daygrid/tsc/DayTableSlicer.d.ts",
+        "../daygrid/tsc/DayTableView.d.ts",
+        "../daygrid/tsc/Table.d.ts",
+        "../daygrid/tsc/TableSeg.d.ts",
+        "../daygrid/tsc/TableView.d.ts"
+      ],
+      "../google-calendar/tsc/event-source-declare.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-refiners.d.ts",
+        "../google-calendar/tsc/options-declare.d.ts",
+        "../interaction/tsc/options-declare.d.ts",
+        "../list/tsc/options-declare.d.ts",
+        "../timegrid/tsc/options-declare.d.ts"
+      ],
+      "../google-calendar/tsc/event-source-refiners.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../google-calendar/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-declare.d.ts",
+        "../google-calendar/tsc/options-declare.d.ts"
+      ],
+      "../google-calendar/tsc/options-declare.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-declare.d.ts",
+        "../google-calendar/tsc/options-refiners.d.ts",
+        "../interaction/tsc/options-declare.d.ts",
+        "../list/tsc/options-declare.d.ts",
+        "../timegrid/tsc/options-declare.d.ts"
+      ],
+      "../interaction/tsc/ElementScrollGeomCache.d.ts": [
+        "../interaction/tsc/ScrollGeomCache.d.ts"
+      ],
+      "../interaction/tsc/OffsetTracker.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/ElementScrollGeomCache.d.ts"
+      ],
+      "../interaction/tsc/ScrollGeomCache.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../interaction/tsc/api-type-deps.d.ts": [
+        "../interaction/tsc/interactions/DateClicking.d.ts",
+        "../interaction/tsc/interactions/EventDragging.d.ts",
+        "../interaction/tsc/interactions/EventResizing.d.ts",
+        "../interaction/tsc/utils.d.ts"
+      ],
+      "../interaction/tsc/dnd/AutoScroller.d.ts": [
+        "../interaction/tsc/ScrollGeomCache.d.ts"
+      ],
+      "../interaction/tsc/dnd/ElementMirror.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/AutoScroller.d.ts",
+        "../interaction/tsc/dnd/ElementMirror.d.ts",
+        "../interaction/tsc/dnd/PointerDragging.d.ts"
+      ],
+      "../interaction/tsc/dnd/PointerDragging.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../interaction/tsc/interactions-external/ExternalDraggable.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts",
+        "../interaction/tsc/interactions-external/ExternalElementDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions-external/ExternalElementDragging.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/interactions/HitDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions-external/InferredElementDragging.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/PointerDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions-external/ThirdPartyDraggable.d.ts": [
+        "../interaction/tsc/interactions-external/ExternalElementDragging.d.ts",
+        "../interaction/tsc/interactions-external/InferredElementDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions/DateClicking.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts",
+        "../interaction/tsc/interactions/HitDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions/EventDragging.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts",
+        "../interaction/tsc/interactions/HitDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions/EventResizing.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts",
+        "../interaction/tsc/interactions/HitDragging.d.ts"
+      ],
+      "../interaction/tsc/interactions/HitDragging.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/OffsetTracker.d.ts"
+      ],
+      "../interaction/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/api-type-deps.d.ts",
+        "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts",
+        "../interaction/tsc/dnd/PointerDragging.d.ts",
+        "../interaction/tsc/interactions-external/ExternalDraggable.d.ts",
+        "../interaction/tsc/interactions-external/ThirdPartyDraggable.d.ts",
+        "../interaction/tsc/options-declare.d.ts"
+      ],
+      "../interaction/tsc/options-declare.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-declare.d.ts",
+        "../google-calendar/tsc/options-declare.d.ts",
+        "../interaction/tsc/options.d.ts",
+        "../list/tsc/options-declare.d.ts",
+        "../timegrid/tsc/options-declare.d.ts"
+      ],
+      "../interaction/tsc/options.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../interaction/tsc/api-type-deps.d.ts"
+      ],
+      "../interaction/tsc/utils.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../list/tsc/ListView.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../list/tsc/api-type-deps.d.ts": [
+        "../list/tsc/ListView.d.ts"
+      ],
+      "../list/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../list/tsc/ListView.d.ts",
+        "../list/tsc/api-type-deps.d.ts",
+        "../list/tsc/options-declare.d.ts"
+      ],
+      "../list/tsc/options-declare.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-declare.d.ts",
+        "../google-calendar/tsc/options-declare.d.ts",
+        "../interaction/tsc/options-declare.d.ts",
+        "../list/tsc/options.d.ts",
+        "../timegrid/tsc/options-declare.d.ts"
+      ],
+      "../list/tsc/options.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../list/tsc/api-type-deps.d.ts"
+      ],
+      "../timegrid/tsc/AllDaySplitter.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../timegrid/tsc/DayTimeCols.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts",
+        "../timegrid/tsc/TimeColsSlatsCoords.d.ts",
+        "../timegrid/tsc/time-slat-meta.d.ts"
+      ],
+      "../timegrid/tsc/DayTimeColsSlicer.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../timegrid/tsc/TimeColsSeg.d.ts"
+      ],
+      "../timegrid/tsc/DayTimeColsView.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../timegrid/tsc/TimeColsView.d.ts"
+      ],
+      "../timegrid/tsc/TimeCols.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts",
+        "../timegrid/tsc/TimeColsSeg.d.ts",
+        "../timegrid/tsc/TimeColsSlatsCoords.d.ts",
+        "../timegrid/tsc/time-slat-meta.d.ts"
+      ],
+      "../timegrid/tsc/TimeColsSeg.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../timegrid/tsc/TimeColsSlatsCoords.d.ts": [
+        "../common/tsc/main.d.ts"
+      ],
+      "../timegrid/tsc/TimeColsView.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../core-preact/tsc/vdom.d.ts",
+        "../timegrid/tsc/AllDaySplitter.d.ts",
+        "../timegrid/tsc/TimeColsSlatsCoords.d.ts",
+        "../timegrid/tsc/time-slat-meta.d.ts"
+      ],
+      "../timegrid/tsc/main.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../timegrid/tsc/DayTimeCols.d.ts",
+        "../timegrid/tsc/DayTimeColsSlicer.d.ts",
+        "../timegrid/tsc/DayTimeColsView.d.ts",
+        "../timegrid/tsc/TimeCols.d.ts",
+        "../timegrid/tsc/TimeColsSeg.d.ts",
+        "../timegrid/tsc/TimeColsSlatsCoords.d.ts",
+        "../timegrid/tsc/TimeColsView.d.ts",
+        "../timegrid/tsc/options-declare.d.ts",
+        "../timegrid/tsc/time-slat-meta.d.ts"
+      ],
+      "../timegrid/tsc/options-declare.d.ts": [
+        "../common/tsc/main.d.ts",
+        "../google-calendar/tsc/event-source-declare.d.ts",
+        "../google-calendar/tsc/options-declare.d.ts",
+        "../interaction/tsc/options-declare.d.ts",
+        "../list/tsc/options-declare.d.ts",
+        "../timegrid/tsc/options.d.ts"
+      ],
+      "../timegrid/tsc/time-slat-meta.d.ts": [
+        "../common/tsc/main.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx-csstype.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../bootstrap/tsc/main.d.ts",
+      "./src/main.ts",
+      "../common/tsc/CalendarApi.d.ts",
+      "../common/tsc/CalendarContent.d.ts",
+      "../common/tsc/CalendarContext.d.ts",
+      "../common/tsc/CalendarRoot.d.ts",
+      "../common/tsc/DateProfileGenerator.d.ts",
+      "../common/tsc/NowTimer.d.ts",
+      "../common/tsc/ScrollResponder.d.ts",
+      "../common/tsc/View.d.ts",
+      "../common/tsc/ViewApi.d.ts",
+      "../common/tsc/ViewContext.d.ts",
+      "../common/tsc/api-type-deps.d.ts",
+      "../common/tsc/api/EventApi.d.ts",
+      "../common/tsc/api/EventSourceApi.d.ts",
+      "../common/tsc/calendar-utils.d.ts",
+      "../common/tsc/common/DayCellContent.d.ts",
+      "../common/tsc/common/DayCellRoot.d.ts",
+      "../common/tsc/common/DayHeader.d.ts",
+      "../common/tsc/common/DaySeriesModel.d.ts",
+      "../common/tsc/common/DayTableModel.d.ts",
+      "../common/tsc/common/Emitter.d.ts",
+      "../common/tsc/common/EventRoot.d.ts",
+      "../common/tsc/common/MoreLinkRoot.d.ts",
+      "../common/tsc/common/NowIndicatorRoot.d.ts",
+      "../common/tsc/common/PositionCache.d.ts",
+      "../common/tsc/common/StandardEvent.d.ts",
+      "../common/tsc/common/TableDateCell.d.ts",
+      "../common/tsc/common/TableDowCell.d.ts",
+      "../common/tsc/common/ViewRoot.d.ts",
+      "../common/tsc/common/WeekNumberRoot.d.ts",
+      "../common/tsc/common/bg-fill.d.ts",
+      "../common/tsc/common/more-link.d.ts",
+      "../common/tsc/common/nav-link.d.ts",
+      "../common/tsc/common/render-hook.d.ts",
+      "../common/tsc/common/scroll-controller.d.ts",
+      "../common/tsc/common/slicing-utils.d.ts",
+      "../common/tsc/common/table-utils.d.ts",
+      "../common/tsc/component/CalendarDataProvider.d.ts",
+      "../common/tsc/component/DateComponent.d.ts",
+      "../common/tsc/component/date-rendering.d.ts",
+      "../common/tsc/component/event-rendering.d.ts",
+      "../common/tsc/component/event-splitting.d.ts",
+      "../common/tsc/component/event-ui.d.ts",
+      "../common/tsc/datelib/DateFormatter.d.ts",
+      "../common/tsc/datelib/calendar-system.d.ts",
+      "../common/tsc/datelib/date-range.d.ts",
+      "../common/tsc/datelib/duration.d.ts",
+      "../common/tsc/datelib/env.d.ts",
+      "../common/tsc/datelib/formatting-func.d.ts",
+      "../common/tsc/datelib/formatting-native.d.ts",
+      "../common/tsc/datelib/formatting-utils.d.ts",
+      "../common/tsc/datelib/formatting.d.ts",
+      "../common/tsc/datelib/locale.d.ts",
+      "../common/tsc/datelib/marker.d.ts",
+      "../common/tsc/datelib/parsing.d.ts",
+      "../common/tsc/datelib/timezone.d.ts",
+      "../common/tsc/datelib/zoned-marker.d.ts",
+      "../common/tsc/dates-set.d.ts",
+      "../common/tsc/event-crud.d.ts",
+      "../common/tsc/event-placement.d.ts",
+      "../common/tsc/event-sources/func-event-source.d.ts",
+      "../common/tsc/event-sources/json-feed-event-source-refiners.d.ts",
+      "../common/tsc/formatting-api.d.ts",
+      "../common/tsc/global-config.d.ts",
+      "../common/tsc/global-locales.d.ts",
+      "../common/tsc/global-plugins.d.ts",
+      "../common/tsc/interactions/ElementDragging.d.ts",
+      "../common/tsc/interactions/EventClicking.d.ts",
+      "../common/tsc/interactions/EventHovering.d.ts",
+      "../common/tsc/interactions/date-selecting.d.ts",
+      "../common/tsc/interactions/event-dragging.d.ts",
+      "../common/tsc/interactions/event-interaction-state.d.ts",
+      "../common/tsc/interactions/external-element-dragging.d.ts",
+      "../common/tsc/interactions/hit.d.ts",
+      "../common/tsc/interactions/interaction.d.ts",
+      "../common/tsc/interactions/pointer.d.ts",
+      "../common/tsc/main.d.ts",
+      "../common/tsc/options.d.ts",
+      "../common/tsc/plugin-system-struct.d.ts",
+      "../common/tsc/plugin-system.d.ts",
+      "../common/tsc/reducers/Action.d.ts",
+      "../common/tsc/reducers/CalendarDataManager.d.ts",
+      "../common/tsc/reducers/data-types.d.ts",
+      "../common/tsc/render-hook-misc.d.ts",
+      "../common/tsc/scrollgrid/ScrollGridImpl.d.ts",
+      "../common/tsc/scrollgrid/Scroller.d.ts",
+      "../common/tsc/scrollgrid/SimpleScrollGrid.d.ts",
+      "../common/tsc/scrollgrid/util.d.ts",
+      "../common/tsc/structs/business-hours.d.ts",
+      "../common/tsc/structs/constraint.d.ts",
+      "../common/tsc/structs/date-span.d.ts",
+      "../common/tsc/structs/drag-meta.d.ts",
+      "../common/tsc/structs/event-def.d.ts",
+      "../common/tsc/structs/event-instance.d.ts",
+      "../common/tsc/structs/event-mutation.d.ts",
+      "../common/tsc/structs/event-parse.d.ts",
+      "../common/tsc/structs/event-source-def.d.ts",
+      "../common/tsc/structs/event-source-parse.d.ts",
+      "../common/tsc/structs/event-source.d.ts",
+      "../common/tsc/structs/event-store.d.ts",
+      "../common/tsc/structs/recurring-event.d.ts",
+      "../common/tsc/structs/view-config.d.ts",
+      "../common/tsc/structs/view-def.d.ts",
+      "../common/tsc/structs/view-spec.d.ts",
+      "../common/tsc/theme/Theme.d.ts",
+      "../common/tsc/toolbar-struct.d.ts",
+      "../common/tsc/util/DelayedRunner.d.ts",
+      "../common/tsc/util/RefMap.d.ts",
+      "../common/tsc/util/array.d.ts",
+      "../common/tsc/util/date.d.ts",
+      "../common/tsc/util/dom-event.d.ts",
+      "../common/tsc/util/dom-geom.d.ts",
+      "../common/tsc/util/dom-manip.d.ts",
+      "../common/tsc/util/geom.d.ts",
+      "../common/tsc/util/html.d.ts",
+      "../common/tsc/util/memoize.d.ts",
+      "../common/tsc/util/misc.d.ts",
+      "../common/tsc/util/object.d.ts",
+      "../common/tsc/util/promise.d.ts",
+      "../common/tsc/util/requestJson.d.ts",
+      "../common/tsc/util/scrollbar-side.d.ts",
+      "../common/tsc/util/scrollbar-width.d.ts",
+      "../common/tsc/util/table-styling.d.ts",
+      "../common/tsc/validation.d.ts",
+      "../common/tsc/vdom-util.d.ts",
+      "../common/tsc/vdom.d.ts",
+      "../core-preact/tsc/vdom.d.ts",
+      "../core/tsc/Calendar.d.ts",
+      "../core/tsc/main.d.ts",
+      "../core/tsc/vdom.d.ts",
+      "../daygrid/tsc/DayTable.d.ts",
+      "../daygrid/tsc/DayTableSlicer.d.ts",
+      "../daygrid/tsc/DayTableView.d.ts",
+      "../daygrid/tsc/Table.d.ts",
+      "../daygrid/tsc/TableSeg.d.ts",
+      "../daygrid/tsc/TableView.d.ts",
+      "../daygrid/tsc/main.d.ts",
+      "../google-calendar/tsc/event-source-declare.d.ts",
+      "../google-calendar/tsc/event-source-refiners.d.ts",
+      "../google-calendar/tsc/main.d.ts",
+      "../google-calendar/tsc/options-declare.d.ts",
+      "../google-calendar/tsc/options-refiners.d.ts",
+      "../interaction/tsc/ElementScrollGeomCache.d.ts",
+      "../interaction/tsc/OffsetTracker.d.ts",
+      "../interaction/tsc/ScrollGeomCache.d.ts",
+      "../interaction/tsc/api-type-deps.d.ts",
+      "../interaction/tsc/dnd/AutoScroller.d.ts",
+      "../interaction/tsc/dnd/ElementMirror.d.ts",
+      "../interaction/tsc/dnd/FeaturefulElementDragging.d.ts",
+      "../interaction/tsc/dnd/PointerDragging.d.ts",
+      "../interaction/tsc/interactions-external/ExternalDraggable.d.ts",
+      "../interaction/tsc/interactions-external/ExternalElementDragging.d.ts",
+      "../interaction/tsc/interactions-external/InferredElementDragging.d.ts",
+      "../interaction/tsc/interactions-external/ThirdPartyDraggable.d.ts",
+      "../interaction/tsc/interactions/DateClicking.d.ts",
+      "../interaction/tsc/interactions/EventDragging.d.ts",
+      "../interaction/tsc/interactions/EventResizing.d.ts",
+      "../interaction/tsc/interactions/HitDragging.d.ts",
+      "../interaction/tsc/main.d.ts",
+      "../interaction/tsc/options-declare.d.ts",
+      "../interaction/tsc/options.d.ts",
+      "../interaction/tsc/utils.d.ts",
+      "../list/tsc/ListView.d.ts",
+      "../list/tsc/api-type-deps.d.ts",
+      "../list/tsc/main.d.ts",
+      "../list/tsc/options-declare.d.ts",
+      "../list/tsc/options.d.ts",
+      "../timegrid/tsc/AllDaySplitter.d.ts",
+      "../timegrid/tsc/DayTimeCols.d.ts",
+      "../timegrid/tsc/DayTimeColsSlicer.d.ts",
+      "../timegrid/tsc/DayTimeColsView.d.ts",
+      "../timegrid/tsc/TimeCols.d.ts",
+      "../timegrid/tsc/TimeColsSeg.d.ts",
+      "../timegrid/tsc/TimeColsSlatsCoords.d.ts",
+      "../timegrid/tsc/TimeColsView.d.ts",
+      "../timegrid/tsc/main.d.ts",
+      "../timegrid/tsc/options-declare.d.ts",
+      "../timegrid/tsc/options.d.ts",
+      "../timegrid/tsc/time-slat-meta.d.ts"
+    ]
+  },
+  "version": "4.0.5"
+}

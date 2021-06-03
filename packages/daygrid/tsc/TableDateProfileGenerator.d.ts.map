@@ -1,0 +1,1 @@
+{"version":3,"file":"TableDateProfileGenerator.d.ts","sourceRoot":"","sources":["../src/TableDateProfileGenerator.ts"],"names":[],"mappings":"AAAA,OAAO,EACL,oBAAoB,EAEpB,SAAS,EACV,MAAM,sBAAsB,CAAA;AAE7B,qBAAa,yBAA0B,SAAQ,oBAAoB;IAEjE,gBAAgB,CAAC,YAAY,KAAA,EAAE,gBAAgB,KAAA,EAAE,aAAa,KAAA,GAAG,SAAS;CA+B3E"}

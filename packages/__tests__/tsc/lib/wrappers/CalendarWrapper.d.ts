@@ -1,0 +1,50 @@
+import { Calendar } from '@fullcalendar/core';
+import { ToolbarWrapper } from './ToolbarWrapper';
+export declare class CalendarWrapper {
+    private calendar;
+    static EVENT_CLASSNAME: string;
+    static EVENT_IS_START_CLASSNAME: string;
+    static EVENT_IS_END_CLASSNAME: string;
+    static EVENT_TIME_CLASSNAME: string;
+    static EVENT_TITLE_CLASSNAME: string;
+    static EVENT_RESIZER_CLASSNAME: string;
+    static EVENT_START_RESIZER_CLASSNAME: string;
+    static EVENT_END_RESIZER_CLASSNAME: string;
+    static BG_EVENT_CLASSNAME: string;
+    static DAY_PAST_CLASSNAME: string;
+    static DAY_FUTURE_CLASSNAME: string;
+    static SLOT_PAST_CLASSNAME: string;
+    static SLOT_FUTURE_CLASSNAME: string;
+    static TODAY_CLASSNAME: string;
+    static SLOT_TODAY_CLASSNAME: string;
+    static DOW_CLASSNAMES: string[];
+    static DOW_SLOT_CLASSNAMES: string[];
+    static LTR_CLASSNAME: string;
+    static RTL_CLASSNAME: string;
+    static BOOTSTRAP_CLASSNAME: string;
+    static UNTHEMED_CLASSNAME: string;
+    static ROOT_CLASSNAME: string;
+    constructor(calendar: Calendar);
+    get toolbar(): ToolbarWrapper;
+    get footerToolbar(): ToolbarWrapper;
+    getViewContainerEl(): HTMLElement;
+    getViewEl(): HTMLElement;
+    getViewName(): string;
+    getNonBusinessDayEls(): HTMLElement[];
+    getEventEls(): HTMLElement[];
+    getFirstEventEl(): HTMLElement;
+    getTodayEls(): HTMLElement[];
+    getEventElInfo(eventEl: HTMLElement): {
+        isStart: boolean;
+        isEnd: boolean;
+        timeText: string;
+        titleEl: Element;
+        resizerEl: Element;
+    };
+    getBgEventEls(): HTMLElement[];
+    getFirstDateEl(): Element;
+    getDateCellEl(dateStr: string): Element;
+    getLicenseMessage(): string;
+    isAllowingDragging(): boolean;
+}
+//# sourceMappingURL=CalendarWrapper.d.ts.map

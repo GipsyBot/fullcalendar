@@ -1,0 +1,1 @@
+{"version":3,"file":"event-interaction-state.d.ts","sourceRoot":"","sources":["../../src/interactions/event-interaction-state.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,wBAAwB,CAAA;AAEnD,MAAM,WAAW,qBAAqB;IACpC,cAAc,EAAE,UAAU,CAAA;IAC1B,aAAa,EAAE,UAAU,CAAA;IACzB,OAAO,EAAE,OAAO,CAAA;CACjB"}

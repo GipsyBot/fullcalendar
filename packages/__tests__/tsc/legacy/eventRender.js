@@ -1,0 +1,98 @@
+import { CalendarWrapper } from '../lib/wrappers/CalendarWrapper';
+import { DayGridViewWrapper } from '../lib/wrappers/DayGridViewWrapper';
+describe('eventDidMount+eventContent', function () {
+    pushOptions({
+        initialDate: '2014-11-12',
+        scrollTime: '00:00:00',
+        events: [{
+                title: 'my event',
+                start: '2014-11-12T09:00:00',
+            }],
+    });
+    describeOptions('initialView', {
+        'when in day-grid': 'dayGridMonth',
+        'when in time-grid': 'timeGridWeek',
+    }, function () {
+        describe('with foreground event', function () {
+            it('receives correct args AND can modify the element', function () {
+                var options = {
+                    eventContent: function (arg) {
+                        expect(typeof arg.event).toBe('object');
+                        expect(arg.event.display).toBe('auto');
+                        expect(arg.event.start).toBeDefined();
+                        expect(typeof arg.view).toBe('object');
+                        expect(arg.isMirror).toBe(false);
+                    },
+                    eventDidMount: function (arg) {
+                        $(arg.el).css('font-size', '20px');
+                    },
+                };
+                spyOn(options, 'eventContent').and.callThrough();
+                spyOn(options, 'eventDidMount').and.callThrough();
+                var calendar = initCalendar(options);
+                var calendarWrapper = new CalendarWrapper(calendar);
+                var eventEl = calendarWrapper.getFirstEventEl();
+                expect(options.eventContent).toHaveBeenCalled();
+                expect(options.eventDidMount).toHaveBeenCalled();
+                expect($(eventEl).css('font-size')).toBe('20px');
+            });
+        });
+    });
+    describe('when in month view', function () {
+        pushOptions({
+            initialView: 'dayGridMonth',
+            events: [{
+                    title: 'my event',
+                    start: '2014-11-12',
+                }],
+        });
+        describe('with a foreground event', function () {
+            it('can return a new element', function () {
+                var options = {
+                    eventContent: function () {
+                        var domNodes = $('<div class="sup" style="background-color:green">sup g</div>').get();
+                        return { domNodes: domNodes };
+                    },
+                };
+                spyOn(options, 'eventContent').and.callThrough();
+                var calendar = initCalendar(options);
+                var dayGridWrapper = new DayGridViewWrapper(calendar).dayGrid;
+                var eventEl = dayGridWrapper.getFirstEventEl();
+                expect(eventEl.querySelector('.sup')).toBeTruthy();
+                expect(options.eventContent).toHaveBeenCalled();
+            });
+        });
+        describe('with an all-day background event', function () {
+            pushOptions({
+                events: [{
+                        title: 'my event',
+                        start: '2014-11-12',
+                        display: 'background',
+                    }],
+            });
+            it('receives correct args AND can modify the element', function () {
+                var options = {
+                    eventContent: function (arg) {
+                        expect(typeof arg.event).toBe('object');
+                        expect(arg.event.display).toBe('background');
+                        expect(arg.event.start).toBeDefined();
+                        expect(typeof arg.view).toBe('object');
+                    },
+                    eventDidMount: function (arg) {
+                        $(arg.el).css('font-size', '20px');
+                    },
+                };
+                spyOn(options, 'eventContent').and.callThrough();
+                spyOn(options, 'eventDidMount').and.callThrough();
+                var calendar = initCalendar(options);
+                var dayGridWrapper = new DayGridViewWrapper(calendar).dayGrid;
+                var bgEventEls = dayGridWrapper.getBgEventEls();
+                expect(bgEventEls.length).toBe(1);
+                expect(options.eventContent).toHaveBeenCalled();
+                expect(options.eventDidMount).toHaveBeenCalled();
+                expect($(bgEventEls).css('font-size')).toBe('20px');
+            });
+        });
+    });
+});
+//# sourceMappingURL=eventRender.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"options-declare.d.ts","sourceRoot":"","sources":["../src/options-declare.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,iBAAiB,EAAE,MAAM,WAAW,CAAA;AAE9D,aAAK,mBAAmB,GAAG,OAAO,eAAe,CAAA;AACjD,aAAK,qBAAqB,GAAG,OAAO,iBAAiB,CAAA;AAErD,OAAO,QAAQ,sBAAsB,CAAC;IACpC,UAAU,kBAAmB,SAAQ,mBAAmB;KAAG;IAC3D,UAAU,wBAAyB,SAAQ,qBAAqB;KAAG;CACpE"}

@@ -1,0 +1,3222 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "signature": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "signature": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../../.yarn/cache/tslib-npm-2.0.3-62a2b3751d-447bfca5de.zip/node_modules/tslib/tslib.d.ts": {
+        "version": "9eb0ae9fa333acfc2dcbe6a7eaa2ab8be46b97ca259982c797c39167823235d5",
+        "signature": "9eb0ae9fa333acfc2dcbe6a7eaa2ab8be46b97ca259982c797c39167823235d5",
+        "affectsGlobalScope": false
+      },
+      "./src/util/object.ts": {
+        "version": "cd79ea541da0cc1679bfbc70fc8d9f6f6eb8d30e93c953f0cab42b336c9d0cf8",
+        "signature": "1e4e2fcb4bfa4e6adfe1ea93d78a682d84f10d525caa9cb196f107965c2c3ca0",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/calendar-system.ts": {
+        "version": "4849f22241f19a424516586c2cc77d7e534aa0c6b519440f624eb5ad54bf80b1",
+        "signature": "7d41e9fa1a573c7585d885c7c008193a56f994e37183fdf61599ae44121ae5a9",
+        "affectsGlobalScope": false
+      },
+      "./src/global-locales.ts": {
+        "version": "93d6f13affd366c6f39ec8066d655b711b0f6d689d9c1cd2262ffab77993848f",
+        "signature": "409d796a8d0f1746412ce977de239ade2779dfed124618e08eeff677cfd968ab",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/locale.ts": {
+        "version": "02bea150d77e5ea9c0757b80da4810c9e0c45605c3aeb59ca3e76b2aea45cdd6",
+        "signature": "6e73b41bad1dca303796797cd79db43d8425d3179cdc206ed8521721f3bc6bf7",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/zoned-marker.ts": {
+        "version": "18efd402bf85b7cf41d9c3ffc71078dfdbbf885eb2b32c008f861c9b70859a88",
+        "signature": "6ce8f34f23bcc3120a381d97b649ac754da764cde1e948238097f164c629430d",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/DateFormatter.ts": {
+        "version": "28ce1b6418421fb835223203c557147cd324dc85c74afceccd87d69cefd01f59",
+        "signature": "eda3052826dd67f11221dc5af0f574139f703b58e237cb841332c8f4e492fea8",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/formatting-utils.ts": {
+        "version": "69a19f7c4bac6e71f4aedbf69feedda29285390f9e079e64eefac87b5c306382",
+        "signature": "cca4f8ac1e7102ce52268ee218b4e609cb94565b5c7aad93110180ca58d43a77",
+        "affectsGlobalScope": false
+      },
+      "./src/util/array.ts": {
+        "version": "4d3d023ef0c385855930e9d4365251ecfc85c8a3cf200caab1af03bd4ea720c0",
+        "signature": "a14ed94671752321e8ef788707472c537f664c7d231023f8d476dad4b0765131",
+        "affectsGlobalScope": false
+      },
+      "./src/util/memoize.ts": {
+        "version": "e1d8879b0cd2d77398df1b0cb4d674bcc2c966b384f9b1a18773cdb79ce018a9",
+        "signature": "bff2fa08b397a8e0f7369a0f077aaa4184be98805a354219d49512d334d93bc5",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/formatting-native.ts": {
+        "version": "a1a6c852aad113381dc8b6d31c257dd7989f6b0d09eca1fa1381f0b89eb82b91",
+        "signature": "e142a6f59a1fed58677fb3c1c8b25c44152db37199120b8655b8e7bbe847b128",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/formatting-cmd.ts": {
+        "version": "9d3ab66950e79c481cc7b4900b9007ea8d8d9e74766e2d83e0457313054b8952",
+        "signature": "5090010ea696095bff6849180635e0d82afcfc5ad24d0422539edd07ea7917d2",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/formatting-func.ts": {
+        "version": "f017af90b4423b17643aa20604c2a69e45f7a65b93c3ea0966bae9cf9e4b603c",
+        "signature": "c0c05f7cfab0945e062db4e2941b55030cfceb8f9ac12e6710584dd9e66a58b0",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/formatting.ts": {
+        "version": "e3f1dfb73aa0a296df8df95fc6493c77dfd991c0cc85822690b80b6aaaf4ab07",
+        "signature": "618c6c138e46c4ba5b47e155589a7328f821efe045180637e25e32e35b86257a",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/timezone.ts": {
+        "version": "948d58193ed9cfe7945f96243dc594cf6f27bbae3a1ba404831a95665c766e3c",
+        "signature": "acc520959ff1228e34d1810a04fe035b4237ede8519ee4936d8b7d4c4d5a4e17",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/parsing.ts": {
+        "version": "2175b84fb96050e64d4551e7376f414470dc4b60085db3e07de1abda626e1c11",
+        "signature": "2f490b1b3aa2bc23875c73292c6ee702662e35a3575c1b5b18ca020d862ba223",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/env.ts": {
+        "version": "1cd15cb5a5f4fb17d78ae7f46d5fffb79a739d5a1baef14a70945b06c675fc12",
+        "signature": "1248c568478f4f591f06c411dc94084af040dda19e40c84900b55b9cc32dc4a5",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/date-range.ts": {
+        "version": "1a292373f15a9f25891880de8c5cc5a786aacedcbbf4721107ce6e9cc2a45b78",
+        "signature": "20902833f40550904ce103de6bb4eef27e31de724ed53c6320cbf7e2e20da869",
+        "affectsGlobalScope": false
+      },
+      "./src/util/date.ts": {
+        "version": "b0a675c4a5a6cb5d790acf677f79446613cf6f39255d4d40d805f10de0135e56",
+        "signature": "8e3973ca10dae5b3672aeebe941b90689f8151bbeab0d33d8dee1229dac304b0",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/event-instance.ts": {
+        "version": "74f12a4867510eb1278b8e63d023b06d1241e14ab4dcc77db0423225c6054a08",
+        "signature": "a023fbcefb708839839332da14a28872debd441766d106f03b68fd0236e7254c",
+        "affectsGlobalScope": false
+      },
+      "./src/plugin-system.ts": {
+        "version": "b306d62fadc91a33b03b2b76da7f17ae2147ae2115ecd1b9bc737ad6124d4f18",
+        "signature": "f644ccb6666ea3fbcdacaa620350d31980a90df2ae5c3a2e3fa175aa40e2ccfe",
+        "affectsGlobalScope": false
+      },
+      "./src/theme/Theme.ts": {
+        "version": "0d5ceb89a2b493a55524d89d9cb993caa8b7ffd684d1ad49726f9ca2bc1e6f25",
+        "signature": "f505303e9eb5a5ffdde4f68629f48388a347e491b7f0357fbcc4d8c42c9d069f",
+        "affectsGlobalScope": false
+      },
+      "./src/theme/StandardTheme.ts": {
+        "version": "f3427a662559c4f0817acdd58f2e49203e5c9682a06b703f528aac2fbddf78fb",
+        "signature": "167a8845bbb563dd602414655f52deff332d8ca5f2e297adefa3ff83a4522d34",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/event-source.ts": {
+        "version": "9c2d073f8e8f8e743beddc82a599bf3d1667eba4d7dc626396b73c13d889aa54",
+        "signature": "fbabb7ac4cccbf1577523425e4aed3f58a28bac97c1c10abe52ed6b3fccef959",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx-csstype.d.ts": {
+        "version": "389ff64c4d75538171782c347554a2cb6328ffb2e838e9b012da3bda94e0767b",
+        "signature": "389ff64c4d75538171782c347554a2cb6328ffb2e838e9b012da3bda94e0767b",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts": {
+        "version": "f79005b95606fe37ee36a6cc58e40fe3e7b14fa18dde59bb95f48f38cc52045f",
+        "signature": "f79005b95606fe37ee36a6cc58e40fe3e7b14fa18dde59bb95f48f38cc52045f",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts": {
+        "version": "416aa5c3a94faf516ee2ad78e570142ec749085fa7fe42fd8f770aa2562538cb",
+        "signature": "416aa5c3a94faf516ee2ad78e570142ec749085fa7fe42fd8f770aa2562538cb",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts": {
+        "version": "c405ed0b2c7156d552b198b93442d893772c6d273cde8f1e475670cbbcf2f3b3",
+        "signature": "c405ed0b2c7156d552b198b93442d893772c6d273cde8f1e475670cbbcf2f3b3",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts": {
+        "version": "f7894d4fab60e711bd2e39116dfaa5fd19207e194d6d3074277567226cf41e9f",
+        "signature": "f7894d4fab60e711bd2e39116dfaa5fd19207e194d6d3074277567226cf41e9f",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts": {
+        "version": "3ae6c652df33965879e607a73051b932dbbafb5558f7c5a9ac68121f75294b23",
+        "signature": "3ae6c652df33965879e607a73051b932dbbafb5558f7c5a9ac68121f75294b23",
+        "affectsGlobalScope": false
+      },
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts": {
+        "version": "098a68df7ca3cfa76f0a8e5032745327d41dea796c211f6daf9bacc5b1d1524f",
+        "signature": "098a68df7ca3cfa76f0a8e5032745327d41dea796c211f6daf9bacc5b1d1524f",
+        "affectsGlobalScope": false
+      },
+      "../core-preact/tsc/vdom.d.ts": {
+        "version": "dc3e98a8b10725cd4715628b82945bf0d6a7d855cb14958a8a58fae312c864ad",
+        "signature": "dc3e98a8b10725cd4715628b82945bf0d6a7d855cb14958a8a58fae312c864ad",
+        "affectsGlobalScope": true
+      },
+      "./src/vdom.ts": {
+        "version": "26281393c537783cb091b81f21900d331761c64223dddabe933595c273e4d47e",
+        "signature": "ba11d78a793b43ecd6466288a94d4573fb81340dfae019107f6291345b3f8349",
+        "affectsGlobalScope": false
+      },
+      "./src/common/Emitter.ts": {
+        "version": "6f0b91b9335cee264bb4a549de7a0ed6bf0e9376b356b32f9f17a55d2ff0e6e7",
+        "signature": "02735f6b42c9972c53d4e4e655ba330e28c82da3f9997019b740c2bbe0783dfa",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/date-span.ts": {
+        "version": "8ccee196afd6da78d2de830999ab4c75c92b5efd33f8d72026a998cda34bef03",
+        "signature": "f9d1b75800ae4257276ad798d3e55335af472760773c2fdc67edc601ad91ac58",
+        "affectsGlobalScope": false
+      },
+      "./src/interactions/event-interaction-state.ts": {
+        "version": "8b8352b27ad0d08dd35fbbf5311ca4f0bdbc37cc036f49f1933036b07a6f0b04",
+        "signature": "b5434735c3f6795b4f1900f7f710e3b445dec52e3577656e6974002966992325",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/data-types.ts": {
+        "version": "84b013354664a27f7ae3076e53b4e8928a984bf0bdcb354905d62a93779f3374",
+        "signature": "d8e27157e3ced0b2917981c7f8e3641761cb43f5395fa9c071bf28e521cf40bb",
+        "affectsGlobalScope": false
+      },
+      "./src/ViewApi.ts": {
+        "version": "4ad565555b56d06e362e8a4971946d98ab8764daf4cbd277b0e5452a5c6ba17a",
+        "signature": "ebca9862f14da23288c9997e740ae654a08af7e6f2f5a389e6f1428d10a6dc6a",
+        "affectsGlobalScope": false
+      },
+      "./src/ScrollResponder.ts": {
+        "version": "1dd219cf11ce61c8cbf97444a548aab517af12f0af70bfa690973bc261272248",
+        "signature": "b08120101cd8f2c6be0088b5b7c7af3d5cf8a39f783ba2431dfaf247d482a077",
+        "affectsGlobalScope": false
+      },
+      "./src/util/geom.ts": {
+        "version": "122b239e49fca086661d26b78a3537f72905b06843d8174d7e8c9803514b3645",
+        "signature": "f6095384bf14843590907aeaf5de66aad64d552a91cd8b3c7640ac129e21982a",
+        "affectsGlobalScope": false
+      },
+      "./src/interactions/hit.ts": {
+        "version": "59a9d3d95f3ad7a402180b6dc9f8456030f5bd019615636c3ff4b930eef9f6db",
+        "signature": "58a15133b6cdf6af044da55a7b5da69602a739300f63885a7a5f9627a1ce735d",
+        "affectsGlobalScope": false
+      },
+      "./src/interactions/interaction.ts": {
+        "version": "446cd4f3a8bc41d7adcd7e4fc9d090e1a88a15b1de3c4dcbeb9f90b972a8f0a3",
+        "signature": "61c064d8adbab9a12c40902638b89c9fb85249bcb57d7a40c887dbee7ccd54f0",
+        "affectsGlobalScope": false
+      },
+      "./src/ViewContext.ts": {
+        "version": "9f7ad9fbaec0f8974ebdf8003e0b19c15d1172f94f68a6151c979a0cfff7ff0c",
+        "signature": "85482558af5acf2dac24df2b1d43d95ee6f6458eeb83ab296e9c6e05622e8b7a",
+        "affectsGlobalScope": false
+      },
+      "./src/vdom-util.tsx": {
+        "version": "db7a525bfa007b21a517f70c23d968697f054dac9ccba8958cc8af04a0857ed1",
+        "signature": "ea10b0dd3b9c0672f0692f419215cec74ca9a3cd46b610fb80731e0d018acf5d",
+        "affectsGlobalScope": false
+      },
+      "./src/component/DateComponent.ts": {
+        "version": "e54d9f34f01d9f3b8ea6ed8cfb331afa0aa72d9bcc05698d0c59e0af5a13cd3f",
+        "signature": "a4bc105eb8c6dc5d75f565ad1e9c8debd429139940abe83bfd0b80db4709700e",
+        "affectsGlobalScope": false
+      },
+      "./src/interactions/pointer.ts": {
+        "version": "cc40e89e25b70b412a515ddcc8f4c3aab9926b2a456b81a8c99baa922d3da616",
+        "signature": "338e4be64597f71bccebe6cd67f7432c70f5e38057e9bef467531e093203097d",
+        "affectsGlobalScope": false
+      },
+      "./src/calendar-utils.ts": {
+        "version": "f7dd863aa2caed543e343dcabd7284aa2052de11067cf5332f5683fb7a2d941a",
+        "signature": "b597427a43d979f98a7b85787afe3b55ced2ef9b8d943298639533a4aa00dd70",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/event-mutation.ts": {
+        "version": "10d15c191173d5321ec3b34dc754d6c4c7266b1d77cafb018ee3c1669febc4d1",
+        "signature": "345bbcb053c3cce30d9c7be3c3c29c4f1bb41d36ec6963bbd0c6cd2d79add15b",
+        "affectsGlobalScope": false
+      },
+      "./src/util/promise.ts": {
+        "version": "0aa288216ea9bcadda503ad68b6bd92c513efc668de272885f28a9d9dff1c791",
+        "signature": "66ee28b735d0ef60a3e77669c7cb6b7af934750fd2c27a5d0d0f904e47737ea0",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/event-source-def.ts": {
+        "version": "e4938fc2996d3a37be1c9f5fdbe534fed66cc04480db00811c979541f856e740",
+        "signature": "23df9e9c3bacceaa0716dc434e68362c96aae2ad201218ad21afb0b64ea89d60",
+        "affectsGlobalScope": false
+      },
+      "./src/event-sources/func-event-source.ts": {
+        "version": "bc93a0641fa7526ddeae2ce9d2598fe8221ebc06c56b4d507e0a05b8e32c29ff",
+        "signature": "28718deb7511c28a76409aa9dbbdb03b0966a74c711937c0d9142bc9759910b2",
+        "affectsGlobalScope": false
+      },
+      "./src/event-sources/json-feed-event-source-refiners.ts": {
+        "version": "3e941bcadb2acf25b336abb385f7106bf6606cbdb0afe9c84ed9cd921816d43e",
+        "signature": "bb9202c17011b7319f167fa5ba27877671fb495a571ae3349d2dd5ab9ef586a6",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/event-source-parse.ts": {
+        "version": "cb6e64d85a7fe5e3ad1884fd3a1c61f437687752759f7f2f0755f753d578f1f7",
+        "signature": "32119d0a968e7edb88ba2b937673f4fe1e7345d71c8e6654791d7cf9fb24f72d",
+        "affectsGlobalScope": false
+      },
+      "./src/api/EventSourceApi.ts": {
+        "version": "c82133a7bdc6e8b12ef06fb1ca14d67febbabd71a3ef56c4c016bdb47e3e5be8",
+        "signature": "47df06e51acbc140b521d87034db66238eb69f9d41006320dbcbe0d09639d710",
+        "affectsGlobalScope": false
+      },
+      "./src/scrollgrid/util.tsx": {
+        "version": "5e0611c9502ecde2cdda0d49ca1d7e9bd5a447371470699297e883c2a8f4f07a",
+        "signature": "32576af5d8b67d1df19529da84d3c674158fdaf5b2150954bdb4c243de72f1de",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/business-hours.ts": {
+        "version": "0a469ab3581b3e35740da3effdb1bf5444bf6e7f24cb899557976cf033bb7446",
+        "signature": "4681e5b8abd570889378e5c3fd2850b5169f3bb2a690575d82ce40dfaa5b4339",
+        "affectsGlobalScope": false
+      },
+      "./src/util/html.ts": {
+        "version": "77494ce6d7995ff6dee3d5a5416e542de6f0209116c9f3811371f869b5e074c4",
+        "signature": "accc89e6f24d56710b847bf78e5986cad632857205adee30d252a567c924d938",
+        "affectsGlobalScope": false
+      },
+      "./src/common/render-hook.tsx": {
+        "version": "8ff09ce2e4f4c3e6a7944316537448c3f5dda6dd4d7efc0092d82b089e26f85e",
+        "signature": "85ac4d06a374bf7c7e58a3bf1064885a6db98fa9a2b9605dc798ef7795e10b48",
+        "affectsGlobalScope": false
+      },
+      "./src/common/NowIndicatorRoot.tsx": {
+        "version": "ed16887fb952a492c193cd1ef5824f520598324eddd58b1099597c16e8944ca9",
+        "signature": "bb09157874dafcce9c8f84e02c2e1165c9a483ca537a749febb97d9ec68fa52e",
+        "affectsGlobalScope": false
+      },
+      "./src/common/WeekNumberRoot.tsx": {
+        "version": "67046f17fadb6d8d3c4b2bbcd7b2e75c9bb0576583db46d1a1c015a6ecb82d8b",
+        "signature": "62f2bfd466cd992f403bd34d279b7f32d8ad43ffd46e428c5ef61ac4fc9ac482",
+        "affectsGlobalScope": false
+      },
+      "./src/component/date-rendering.tsx": {
+        "version": "c5c447ffb135f223ab680e20106dc0f68fa9ea3459b4281eb97bf045d2c6b385",
+        "signature": "1563120c58242fcc4851cc85666e923581bb28467f7d32086c44a36f1f634dac",
+        "affectsGlobalScope": false
+      },
+      "./src/common/DayCellContent.tsx": {
+        "version": "56d371c62c2c2b54d4fda6d99e18ba32ebb3c5d6446da4246f2fd9f2aec68c53",
+        "signature": "27c72b47fade0484d58f5e93e0eba12a83ac609098f0751d32f007e6689a1c47",
+        "affectsGlobalScope": false
+      },
+      "./src/common/DayCellRoot.tsx": {
+        "version": "7088285bb8c5311ca193cb5b90ae74af3b1f5dee8fec20c8d369d74f76ea1f71",
+        "signature": "a7762e34f8bbda7ec69aaa332cb4e7d1323a211ebe86e8140ae9db17e080264d",
+        "affectsGlobalScope": false
+      },
+      "./src/util/scrollbar-side.ts": {
+        "version": "b5c5e6261f660379e4bd6387d05cb59d238b6a1e550aeb5cecb12cf2783f5d39",
+        "signature": "7b25713aec74f5a1444eb171f5968d4ec4dedf496b036a9b2d7db46a4421f9bb",
+        "affectsGlobalScope": false
+      },
+      "./src/util/scrollbar-width.ts": {
+        "version": "904e7697e861937563753d363dffe66c7ef1d5100bc838e393e7e921a3063d4d",
+        "signature": "755fd11d1990fb9c1b9885a5b7c7200ba3595f630b5bdb486aeb6e37472f6463",
+        "affectsGlobalScope": false
+      },
+      "./src/util/dom-geom.ts": {
+        "version": "5178e52b9146a5992db6b34fa48b309ef348c36b40c86dc19b4384661e307d7b",
+        "signature": "09c26dd8a4a8b0648dbd286a2ed7f7ea666753ca48fa5e581b4731393a6c1b44",
+        "affectsGlobalScope": false
+      },
+      "./src/common/Popover.tsx": {
+        "version": "11d20c081e9e17fe527baf779b4a78b3d329a17cdd1e1171717cefe1505dbc1b",
+        "signature": "5f9be71168a16e2bd448e22742c0f77b8eb1f3b2eae576021f33ab66a8e6047d",
+        "affectsGlobalScope": false
+      },
+      "./src/common/MorePopover.tsx": {
+        "version": "358bc2da54da02f7dc407446c09924d0c04c2297b7cf2bf9ded1fe98b64e2e11",
+        "signature": "ac8f708d1a9b565eb59c7920ad9f248a990d21fc9b5c6761aeafbf563022b448",
+        "affectsGlobalScope": false
+      },
+      "./src/common/MoreLinkRoot.tsx": {
+        "version": "d5a6ceac69e75e01138f819e453f97554f353c1494460e94a061831133d39c60",
+        "signature": "e766cd1fe7687df461bd36b72d74e5e602a7075affb9beb89549b8d9ed4c0647",
+        "affectsGlobalScope": false
+      },
+      "./src/common/more-link.ts": {
+        "version": "9f71f7f38bfbb5edda6e3bd64b94f9bb783d6b3b4f6f39bddb3f06fd3f616e80",
+        "signature": "5e8d7e5706886ad55c0e65a9166d964bf6a082f67a2f03a9fe7c03b2268234b6",
+        "affectsGlobalScope": false
+      },
+      "./src/render-hook-misc.ts": {
+        "version": "cdadcf59796e22e0dfc2d8c76bcb5d5286a48f034c805716bda95a41048d5d7b",
+        "signature": "f63d4f8acabf55e4b4779de039007456e1b0edcfed3164802b2f2ecc619c7ea0",
+        "affectsGlobalScope": false
+      },
+      "./src/common/ViewRoot.tsx": {
+        "version": "7d8908c025095c1e4f24c7f59b087daf82bd30d8d92f034959de2423800566b3",
+        "signature": "f1c21bfd54f8d13c13c7b822e7b49fcb31b0a394cb65dd5e690dc6d03c45ed5b",
+        "affectsGlobalScope": false
+      },
+      "./src/interactions/EventClicking.ts": {
+        "version": "343ef5a51cbaf8e268042c4520eb6e5be7a06f9e178787b4022d2c29455f3563",
+        "signature": "26ec73b2949163f99e0e3a335043b3adfa1360f12443db8c067088451a9fa079",
+        "affectsGlobalScope": false
+      },
+      "./src/interactions/EventHovering.ts": {
+        "version": "ea61e6da79555d946ad6ef8e103e7a35c99bd6ca03aba413fc86c620ed0b1369",
+        "signature": "925e681d048c6b0bb0a6a596fd577fd0aded6011af3a6f438c64a1a769452980",
+        "affectsGlobalScope": false
+      },
+      "./src/toolbar-struct.ts": {
+        "version": "a512ba79331e6268fb693ec6a58ce72d104568267127ebccbd1f47771a264924",
+        "signature": "ff771d65789af4075699a919160136fa204bb73100bab903ee4c479a70c6ca06",
+        "affectsGlobalScope": false
+      },
+      "./src/dates-set.ts": {
+        "version": "da7d893aada6d96d2076ec19dd7bc1032bcb21afa8fb31671901fccfefc39615",
+        "signature": "8894217582339498bfaac6c2cc34cfde6e19201b85a7ece70259b821b6ef0ca9",
+        "affectsGlobalScope": false
+      },
+      "./src/event-crud.ts": {
+        "version": "ea4c102ae47ef496ddf3d89d326344ec31fa0cb4b74f85bc51d671ae46c157a3",
+        "signature": "6d2aaefe6516aee1ae376437b4a756034318322a1b64ce9685afd3cb4bb3083d",
+        "affectsGlobalScope": false
+      },
+      "./src/api-type-deps.ts": {
+        "version": "a2d400a934c5cf1a0acaa9946711ea7da10b2f47bb205935cfb537685ad9f9a4",
+        "signature": "5a242427518c0b93f7c243026204908244486a4147730428a5763301c5900f0e",
+        "affectsGlobalScope": false
+      },
+      "./src/api/EventApi.ts": {
+        "version": "aeffeb9ccf13ff6cf087272eba6fb35ee7afcd9b1c9c5607a930b10aaab87c62",
+        "signature": "f08cebfd81dfd805887078258d014dc7587bb5fd92144ac6cd09db5264f264b9",
+        "affectsGlobalScope": false
+      },
+      "./src/component/event-rendering.ts": {
+        "version": "b043679990c6f169fae9be275137883740afedb7e27fc8f2647e967723cb1997",
+        "signature": "70dd782e3dee503511ce691ebd7cc9cd54e829ee015189909278ee1e05896402",
+        "affectsGlobalScope": false
+      },
+      "./src/View.ts": {
+        "version": "788acda8cf46c1413cab59bda17fa64ed93a0be4aa1342e0abceb35a022bb207",
+        "signature": "d9f0b75b666681d21e8947a535b2f43a811d739abc1f92a1bc2242206ec28205",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/view-config.tsx": {
+        "version": "0c9efc7c4a13aaf02ab628efc91dabb5039ee94f4f7a3fad9cf8b68193f12123",
+        "signature": "9fe1fbe3640685f309e5321d2921e44d153bec4c59e77764ebf39857dde61389",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/view-def.ts": {
+        "version": "c5acf056e9db491fa557d957547c06e1e9aea2b67eccd94cff6d1f40bebf9e85",
+        "signature": "75e78a56ba40a7d45b1624c8400ae569b24f6eb643f553155fb2a7a45c7828e7",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/view-spec.ts": {
+        "version": "77c1a10e573ffb660bb4fd083b36424280548da74aec863be0506b046812ee1c",
+        "signature": "1fe991e36132582bf65542dcf9f1110dbb20b5920f3279d3253f16835354a646",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/view-type.ts": {
+        "version": "980e38fc0d8e002c8964be85d452aa3dac4ad6e90b6432094f37bc68f651fa2b",
+        "signature": "2da69fe3d55882d04d4ce02540d699f48b4ab2f8055a8d2ac5b324344d145940",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/options.ts": {
+        "version": "0d75956e31d7ee93d55704d6aaf247fbf29126081e805cb37c9f9970cc2ade55",
+        "signature": "762135e1535c3046be3602dbdb69fc149df324a1dc71abc1dbfacf6a5c989664",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/date-profile.ts": {
+        "version": "ef1009fafe1ee88fb761c71d2150d093834f5441c6b86ede050a5a9ac91c25ce",
+        "signature": "de37085211378c950fb2c7e09e0583f7053356606b129cf86e5760d453574c6e",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/eventSources.ts": {
+        "version": "924bfc0e92cb9abfc770b43d6dd0210ca1c9603e03504dfff91cdcdc565b1a33",
+        "signature": "fe1bc4aa47eb6827e5c41225aa645f4b06e8b6815e7adaf34e1aab60ce2dd162",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/eventStore.ts": {
+        "version": "86bdc263615efa9fd2a900142b5babf4d154dbc3b98d1e74cf8193e8ca9fe755",
+        "signature": "a0eddda131e5297e0b1a4b030f0ddda2e92e01b4665544d779dcc1355f4b7c25",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/date-selection.ts": {
+        "version": "b3342bb4568eab2f4aa68ea70d2b84f281e8d2a8bf23070ef422921f7439b4dd",
+        "signature": "c5691c695798bb4c6ad6f66236f40d892e87957b3005aef457129a4ab11c6190",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/selected-event.ts": {
+        "version": "2a3f35916afd4a841bc0ef8c98483ba267b2f548806c315e13da3bde440e54a5",
+        "signature": "df8228f0109276c8ef29492df4943b706762209c0a6e8863c8ad62acb9fad914",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/event-drag.ts": {
+        "version": "a71e402514d83dda37af08d4ea541d650acdf4e61f295f58b05a9945b62e6383",
+        "signature": "bdd403d483e70b81f0a712c1fa96a397eda875bd229c8b25053426a63cbbf4cb",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/event-resize.ts": {
+        "version": "4d77d618eea72a8d6f79590bbf46c7e911137615c628acf30f4fddafaf5e70a8",
+        "signature": "4b5a87a00e3f3bbf5a38888c7d637705a1036d9d13f40e301cf29de6b0b9fff4",
+        "affectsGlobalScope": false
+      },
+      "./src/toolbar-parse.ts": {
+        "version": "0ae65a6569cdd9abc624a955b7f68c10804053fb3964b1b903d0b1c8a76ed9d9",
+        "signature": "a2ce81de99740f3e4307ac725345d03dbd9eea7b9638f147f6d075c15b2b3909",
+        "affectsGlobalScope": false
+      },
+      "./src/event-sources/array-event-source.ts": {
+        "version": "0ce284c07f48923b188b6aafca2af3b0c060f8300955f4daeb5e077e332f0f2a",
+        "signature": "d3d4881986a867f31c171f647353de8fd903db2eb9bf28d78637be431789cd05",
+        "affectsGlobalScope": false
+      },
+      "./src/util/requestJson.ts": {
+        "version": "f32882266097c4c20e10a869134b17dd3a67d0293f4d004f86b3444ff386e6e5",
+        "signature": "ac9951a55d5e80805c2e0d484121551a9fe4eb466b359833b4cdb8c1e8b3f698",
+        "affectsGlobalScope": false
+      },
+      "./src/event-sources/json-feed-event-source.ts": {
+        "version": "6c803b6e70e17e20c74fd83f5a0365f514954679f515dbfa1e3b454fa57d878d",
+        "signature": "509539332c342b33c155426157433f8d5da4a8930d73664d05e7dcdf30aac6de",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/recurring-event-simple-refiners.ts": {
+        "version": "261b1024ee4b4f546a060bb389fc8de8fef22f975dd43b56254825f4b15e7a9a",
+        "signature": "ed2ac0058dad0a1c024afb3f4ec4f02ad5c767da2a33f21bb0c5521d3aa4a084",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/recurring-event-simple-declare.ts": {
+        "version": "4211ad0184dce257d7c1f3b62bc5125ecadef3d636d28240e58035bbbddbeccd",
+        "signature": "3d6a2f2ce5755ba763bf5e088038b782b2dcedbec6e9e4f20fdf3d6f580da3f7",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/recurring-event-simple.ts": {
+        "version": "89f78c50a7f992ca98cd3647257c38e7ef15650bcfd09779b28bd9c9da8e69f4",
+        "signature": "e11df42bbcbaac2a7e333aafd7e19243aedd76ab68fa0f8c000b980323d5b211",
+        "affectsGlobalScope": false
+      },
+      "./src/option-change-handlers.ts": {
+        "version": "9159fb202b7d74621845f54187d1a5ada083bafa52398c6a6b2a1fa6fae700c6",
+        "signature": "01095a508445d5197b6748dc8b0541f18dfa61c05ba52e71b8af6fe3aada19be",
+        "affectsGlobalScope": false
+      },
+      "./src/global-plugins.ts": {
+        "version": "8bf4b989228c3cb41afc2945fc3f056899924e4fa2f08772b9c304d935992472",
+        "signature": "74e9cb0af6648d56fe0bd45ea46a1795c517f88caff6484a3817c7c12f4c7b8c",
+        "affectsGlobalScope": false
+      },
+      "./src/util/DelayedRunner.ts": {
+        "version": "058979aead1768e9d3723eb70edc1ab3ef1ccd18c24b63213b7066315767161f",
+        "signature": "dd6b1eddbb45b80d1dcfe89cc65e9b1fbc7947cb21ec2411ae74f93f9b451959",
+        "affectsGlobalScope": false
+      },
+      "./src/util/TaskRunner.ts": {
+        "version": "a3fe0b69e0e3823a331f90534546fa613797ca16d16b5c9b6a6ad39601deead0",
+        "signature": "3b6b712c901a218f673224895b476eec591f03b1f2a1c1786e4d01f7773d0556",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/title-formatting.ts": {
+        "version": "6ec025fa7b5d2b7a65720ec37348ef4b71164b12f641976727e55a5236c2a397",
+        "signature": "16d5059fa9b37c4c82c658b0bb1db3dadee454c37843039b16a4b5a4c699d95e",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/CalendarDataManager.ts": {
+        "version": "6d521e9fac5166a6df3801a69e9493ddf6892f08b7d9172f0e4952b75de51858",
+        "signature": "1e788f356082fd1b31f630939a920718c662af4f6565f45e3017093844c94454",
+        "affectsGlobalScope": false
+      },
+      "./src/ToolbarSection.tsx": {
+        "version": "a68f1b0eae5c6efc1fa35d02ac2b5be3b4e9f2bb644b52a5ee173215e7edc499",
+        "signature": "3db5ef978096c4e75e534848d8990a87b195c12ad54a4dcf089390b83400a6d8",
+        "affectsGlobalScope": false
+      },
+      "./src/Toolbar.tsx": {
+        "version": "ccc9a3b37c8994dc92446ea910b1b49ce6bb9d1204e023672156640ff5003af8",
+        "signature": "b27dec1c051b1761ea97bfa2199c33aec2e798caeb1b945078a0d17fa3b44c8b",
+        "affectsGlobalScope": false
+      },
+      "./src/ViewContainer.tsx": {
+        "version": "90ccead7579a868da60f9a4ee498ffb2bf454b9ed1708ab2bb6cec7d201d7aef",
+        "signature": "4ea0c23834172c268b96bb8afde7c34970157dedfe5a5f5deefa93c80125fdeb",
+        "affectsGlobalScope": false
+      },
+      "./src/CalendarContent.tsx": {
+        "version": "6fff5c0b98be84aa458fb82df5e9fb42c1ae113a8db77761a5fd9167d4db58b2",
+        "signature": "577b20abf8650597d1e3173af8c2b7d36926fc308fd30cde29ab5d48d7982200",
+        "affectsGlobalScope": false
+      },
+      "./src/interactions/event-dragging.ts": {
+        "version": "87a9927320a1567d10b7aae401171dc8ccb29f7f126dc84d9c99c0c0833976de",
+        "signature": "db56797aa0eeecc44020d2dac8bfb43c9f4183a20e4b8fc4e588d231519b7735",
+        "affectsGlobalScope": false
+      },
+      "./src/interactions/date-selecting.ts": {
+        "version": "ea68eb1f88eae3add46024ca106bb76c07e61932d1a44bc7a63891a9dbc96cb3",
+        "signature": "d7d3b4506e888839b324ef79a43e1b2268fca692614982e5dbfe21aaa365b7e4",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/drag-meta.ts": {
+        "version": "bfb2c660772a40654ee248b9a3c94ad46a8bb9ffcb70cd324c0dfdcb3ed559f3",
+        "signature": "b244580a9b5baa5e1b2c048c0757c2a2a3703c4274da9bd9474e848db743921d",
+        "affectsGlobalScope": false
+      },
+      "./src/interactions/external-element-dragging.ts": {
+        "version": "953d96e8365c9fa4c8d374a8f171631babbf3bb9a9416247574856a36390e175",
+        "signature": "ded41f0a18f7388dbdf1a107fb7c3e317ff70f20fd75bf6954ea6535803b56e2",
+        "affectsGlobalScope": false
+      },
+      "./src/interactions/ElementDragging.ts": {
+        "version": "2845f3c59ef3602237199655d6c29a193677858c408de654abb8246dd2fccad1",
+        "signature": "88e962989dd8b3333e4a9cf7ab9828ce71013302728a87c9a83ac53e1beaf4e3",
+        "affectsGlobalScope": false
+      },
+      "./src/scrollgrid/ScrollGridImpl.ts": {
+        "version": "576e9ac38de1682cec5fd875c61f3091c2c9d4463a049685f37e78c8c3425b73",
+        "signature": "e0e3e057618e72e80e9bbd427730a6f81d69432d4cbeb2146a583438cdc60f62",
+        "affectsGlobalScope": false
+      },
+      "./src/plugin-system-struct.ts": {
+        "version": "06b0ceed09eaf282e601501b05ce09694ecec212740330a01a5f9c6c3bd81e99",
+        "signature": "ba13bcb6719105999875cdeb9b61ce76c3e7d11b7fbd0f65e8e558ff47b1f4f9",
+        "affectsGlobalScope": false
+      },
+      "./src/CalendarContext.ts": {
+        "version": "2cbbffe7e9a77aa200053116487bc2a86f1fd0048b7c12153019be5ef6feb6b9",
+        "signature": "27e0bf6e90fa1c28754c1697d055c48bcb15ecdfdb296014bace16aa4340ce20",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/event-store.ts": {
+        "version": "8f1f1a4a741122bad0024c33c8fdc368c88e7c83cc0a56ab43e1afc6e12612e3",
+        "signature": "9007d3f4de56b155478abf61b856839197528b36c1092a03efbbaffa08730ea4",
+        "affectsGlobalScope": false
+      },
+      "./src/component/event-splitting.ts": {
+        "version": "a685e879d09179259a5f2e940d3992d48f6ef39b703b167fab101e332ec729c3",
+        "signature": "b7dd03c63c5be69b994bb6e51ebfd5300940d057aa961bd1817460f9bd5966b3",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/constraint.ts": {
+        "version": "33a570520f8e93753093d073b71fa56214f9619c9264356281a07eb43c4d64be",
+        "signature": "91d1c561f0abfb223e956db9498a696767d16755dc0e7fa9a141e748e78433b0",
+        "affectsGlobalScope": false
+      },
+      "./src/component/event-ui.ts": {
+        "version": "2c681909fcb2b90972585ffd3b3a5e0ca5c0c43ebcba08a84f5e12b1dd55036a",
+        "signature": "bdf1896305b514e0706c644fb90c14ad48dd20b1a85561b9a72403eebbb68f60",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/event-def.ts": {
+        "version": "9c4629e07c4faa49be0b26a3a17b2bcd4d734e3521bbec176f6ef9a4c826fc46",
+        "signature": "d6a25ffb788a02c02f94ec538de73b9846b641dc75bbd680271eb1cabb4715ca",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/recurring-event.ts": {
+        "version": "5bd68a8be6eaab754075aa8ad85798bdc87ce930b70a55e48dcc0b0e66a5e793",
+        "signature": "4bf1f29b6e57a9e7ff8a1a85aa0cf4d1d173ee7637c65c399b7dc482f827134b",
+        "affectsGlobalScope": false
+      },
+      "./src/structs/event-parse.ts": {
+        "version": "599716c66726dd074f92ccba27134f2d010f5cd844f9231aca9098278373c072",
+        "signature": "46fdbd6440af90efae5d45a9098ddfdd6cfe286474e9296fdaa197b4cb91b674",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/Action.ts": {
+        "version": "d6c73c92df7715ef8c4c38f12b182bd450d1fe36d3400b3f62f3236017b5d920",
+        "signature": "8424980d66b6b5245647ec1d2043e4aa29e1a290332acb6bfe7d3a9a7f9f9849",
+        "affectsGlobalScope": false
+      },
+      "./src/reducers/current-date.ts": {
+        "version": "3427954582cec52ddbbaf588956d4a427aafe51cd78056d4a4a30f3f55afe8ca",
+        "signature": "3f5ed75cf8ad2f7373c6829d9f1e89d0d8d6539eba568e22193cb320f79786b6",
+        "affectsGlobalScope": false
+      },
+      "./src/DateProfileGenerator.ts": {
+        "version": "bdfb0c998149e4605dbca8a22a73cc0187c2f58462b95ee1715f9b7163c4c5d3",
+        "signature": "2e1045380b9e5b25651982fbce45779520a1031fff7fd2668fc400beb6913acc",
+        "affectsGlobalScope": false
+      },
+      "./src/options.ts": {
+        "version": "baa619c1e03fde25082c7c82b646b668e7845914c70c5c81a8bf93b49861dcd5",
+        "signature": "d821b39fb0a1ceb918512817a0a689e63a0d4611d532a956ca95c487eb893df7",
+        "affectsGlobalScope": false
+      },
+      "./src/util/dom-manip.ts": {
+        "version": "eace0bf6415e91b3de5c4d600773beec10e0941f8dfea4ef89a2e5556613c02e",
+        "signature": "bdb790ad707571c85d7fb6d5411d027be387822c1e2c7897085afadd2cc8bd3e",
+        "affectsGlobalScope": false
+      },
+      "./src/util/dom-event.ts": {
+        "version": "91b6f809e70ed3580435cb2f9e8e7d5d440b423b338794d09f64062b23917174",
+        "signature": "b0cf5d5c75ddbd88d7b3e379e6fd51be694f26e864f26507e87407c80db1e91d",
+        "affectsGlobalScope": false
+      },
+      "./src/util/misc.ts": {
+        "version": "e0d0dd3202524ef93262e8c7d0e9a4816ab9a1570c2c184731441739cb352f03",
+        "signature": "dfef6b10ec49703c06fe78869e4a6ad0d2e1d78f1a748811c27f17ed5d9f1be1",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/duration.ts": {
+        "version": "97627d26d7c17ae0e10cf2f482c1425294273b4baf8885d7fe0315427a38368c",
+        "signature": "fee686dc626e18bddc2e1eede2a529fc6bfbc07a935f349b095e53d4359ad1ba",
+        "affectsGlobalScope": false
+      },
+      "./src/datelib/marker.ts": {
+        "version": "39309fb0dedb55a6b6c9742bffc827b9feb12b01a96084b3c99ef36f04e7526d",
+        "signature": "8d2bcb97faf09cbf2a109b73bdcd54d3aca453e3338ca525d9009e5ee3a54a83",
+        "affectsGlobalScope": false
+      },
+      "./src/CalendarApi.tsx": {
+        "version": "1b5381b71ea2f287a0471d7845c4edc4056f49bc32936bf3223f1b04f6a5ec29",
+        "signature": "78517e87373ac004ea27540c064b1a53469eef248fecf36bf1356dfb33c87aef",
+        "affectsGlobalScope": false
+      },
+      "./src/util/table-styling.tsx": {
+        "version": "e49a00bc553f1c069532c39e053e4e63795b686b942135ee5cd2459d53c8a69c",
+        "signature": "0fd85bfbe03f8a4ca5c06014053d726332eea7499c04e713b084341bc52d9bee",
+        "affectsGlobalScope": false
+      },
+      "./src/CalendarRoot.tsx": {
+        "version": "831b28cb986f9f041d5f2939f071a752c97210a3b3a7e6e7537cf221877ce252",
+        "signature": "50d087105c7042faaf0251a01265b3be0e360d9e71524196736480d8640e19c9",
+        "affectsGlobalScope": false
+      },
+      "./src/NowTimer.ts": {
+        "version": "eab9dcbe08eb0f255fe1d24e3863f9624b41b923af8862ccce12e5f342b46199",
+        "signature": "385a22e437f8828c2231c0239119b17636fb47d1c1a4ec34b634f1b0cea11fe5",
+        "affectsGlobalScope": false
+      },
+      "./src/event-placement.ts": {
+        "version": "4249589bcff116806cf04ac739808869a5b9948454a1f1cc4a32b6c405ef7e22",
+        "signature": "bedab9b13302e5791d5a9ba7377e9965d8677caeffe8b59efe040329d5301ed0",
+        "affectsGlobalScope": false
+      },
+      "./src/formatting-api.ts": {
+        "version": "f71954fc565ff2227f1bce9ba04cff4530ede16b830a96d407bb891f08ffcc05",
+        "signature": "a4e45f42f0383a3d8dc0bd261578f6be326567dbc130c14840c5fc085dc7e444",
+        "affectsGlobalScope": false
+      },
+      "./src/global-config.ts": {
+        "version": "40ab5e1f6819dca5840de83fd006e25a0869847c09cc4aec346695a0c7c685f5",
+        "signature": "5d65c5b9cb7c58ad6a342242db9abc5d8650d564a1b76cb0a4ee16840a6626e8",
+        "affectsGlobalScope": false
+      },
+      "./src/common/nav-link.ts": {
+        "version": "6b937642eeb8e65dd4dba1bcaf55536bd1634a37cc144f4b18e16acf34890f33",
+        "signature": "d7836f1ec8f2312d286d3fd86d35625fd60506dd564ed89642d891a68f1f85cf",
+        "affectsGlobalScope": false
+      },
+      "./src/common/PositionCache.ts": {
+        "version": "6fa933bd9ca5177af2d41207795bee82132ea045873779fb08603ee4288fe460",
+        "signature": "2705f702708002fb3cdfdf8121b77721a0ea438a3a0e11b4012394806fe2f830",
+        "affectsGlobalScope": false
+      },
+      "./src/common/scroll-controller.ts": {
+        "version": "07a689ddc696701c1d5642a54969b3636265f58dc0f264f440934d0390b37043",
+        "signature": "77d342868bdce465ec98bd841476870d597e8835e759fefe7d96b6dd1ae5431e",
+        "affectsGlobalScope": false
+      },
+      "./src/component/CalendarDataProvider.ts": {
+        "version": "f3c9ea34cffb95bc173c02c67afa5495708490b5bd62ec2fc981bd4508362fac",
+        "signature": "d9c894ff9d1da38251e9596f23534323f55649c8fd4c2f99f6eb84ab3e65dbc1",
+        "affectsGlobalScope": false
+      },
+      "./src/common/table-utils.ts": {
+        "version": "b3e9d3cc398abbe2191db79c13b8bb5cc9312da66b586a48c036e4a14ce46d9f",
+        "signature": "a50ba0ed96c38b85f5388c01f04d0727b11d9909fb2e3b9ee3f63ca0a8a8ae3f",
+        "affectsGlobalScope": false
+      },
+      "./src/common/table-cell-util.tsx": {
+        "version": "f2d6cd9cf61c6ec0400b6d699356d02192dc3818b56e173bc8f7067311224f59",
+        "signature": "7586a5c52895166cb106a2a652715f0813dbb6cc9d073f435ab425ed18a7c8da",
+        "affectsGlobalScope": false
+      },
+      "./src/common/TableDateCell.tsx": {
+        "version": "00b3d7a33915a1dbcac6661059b5c1c12756de4f4cd11581d6d2636b5196680e",
+        "signature": "e08a2da5794d1e6f39daea5ae794e34a1111a2aa7be1b329f6722e490567e2ed",
+        "affectsGlobalScope": false
+      },
+      "./src/common/TableDowCell.tsx": {
+        "version": "28ad24303da2d88d02febf16057adc806d57b9fa00fabdcb65044f20a65b07a6",
+        "signature": "8b3914148a9a9a4e9d5254a9cb372b2b62c898fc926a7aed2450583dcdca52ba",
+        "affectsGlobalScope": false
+      },
+      "./src/common/DayHeader.tsx": {
+        "version": "bb888bd560f02c96271a619a57e1f9fc242f2f1f3dc06e852d35b5b4595b8d1e",
+        "signature": "411d0aa426edb18e0309e7208834727f644fedacd667ddcc7dae5e9d3ca092f2",
+        "affectsGlobalScope": false
+      },
+      "./src/common/DaySeriesModel.ts": {
+        "version": "92753ddf870c5f83fca60b243f298705bd3b06dc2603160d3618557c019ed208",
+        "signature": "6c947623a8570b4951b71b8cf1c0ec64fbfed2aafccdd51496f294d164a8e9dd",
+        "affectsGlobalScope": false
+      },
+      "./src/common/DayTableModel.ts": {
+        "version": "cb770d390c4f3abc67f398170abb21c97ff5fa2b3672ed2ff8037d2b887d5c36",
+        "signature": "8fb054b2b442d36f8f9a6d13ca9be34903deab9b5261b2349324cd11d6fe7693",
+        "affectsGlobalScope": false
+      },
+      "./src/common/slicing-utils.ts": {
+        "version": "793a74087f0d41af34d6b25efba48438be7c1c21e1d132fb4aaba0a8858a47d7",
+        "signature": "0ab450e9bfb19785adcd16c563e9e1467c70f6376791da3435ca4a512c07363d",
+        "affectsGlobalScope": false
+      },
+      "./src/validation.ts": {
+        "version": "b4efd69a6ea3ac422e35ae610e93b88484be5db5fd2a06e457e66187afd90801",
+        "signature": "b66e53d882f0c4ff9c8ccfca24339e1f76beb3cf8f53e84937a85a020cf6d016",
+        "affectsGlobalScope": false
+      },
+      "./src/scrollgrid/Scroller.tsx": {
+        "version": "5f89f3c0d4b5dc6c1bed66690ec24e5bfc53c22a378c644e29c2d2185c4c13e6",
+        "signature": "e9ec4f01464230f21d6f77500d082ece822a3fce78d3eb43370d37ec03106592",
+        "affectsGlobalScope": false
+      },
+      "./src/util/RefMap.ts": {
+        "version": "60feafa5427636ddaccfb5d90a044488d5b2097c067fd1cc3c543305dfdbb80b",
+        "signature": "796527226ac7cd74c8dd964ac439667a374848134ce5b5ab34d984c9713cafce",
+        "affectsGlobalScope": false
+      },
+      "./src/scrollgrid/SimpleScrollGrid.tsx": {
+        "version": "9666a155de9951e9e71713b234d8fa9b41aacd3f8ff9e7ac02d207709e9fa997",
+        "signature": "62f87851ba5fdc6a6ce1273612d192ad58b16ff9477b2b90e4ad8064068c9c9b",
+        "affectsGlobalScope": false
+      },
+      "./src/common/EventRoot.tsx": {
+        "version": "f8759db63195d63aac6a193aca3d730ca0b08f466ca3ed576c054644f8c428c8",
+        "signature": "a185efd1919659186178d998ea94ed3d977702c446b17b9afcbda42b695e39c4",
+        "affectsGlobalScope": false
+      },
+      "./src/common/StandardEvent.tsx": {
+        "version": "fdc877a056e9e036566d818f18bfe9cc2b39154eebd6f611c0ca29738e6eb351",
+        "signature": "29ad297ca8111671145d1663d34d719d3f19cbac8043779201fc716c0c395ecc",
+        "affectsGlobalScope": false
+      },
+      "./src/common/bg-fill.tsx": {
+        "version": "253bbbe69277c0753493f086e1b040e66c18edcfa1beb49bb54cc0efb8d6bb8e",
+        "signature": "a606a5485136d88868673c5ac900418b31a08f6c1dabc98969c83591626bbe34",
+        "affectsGlobalScope": false
+      },
+      "./src/main.ts": {
+        "version": "a395e510f6160063b149d873ad50fae8c536e3c68289cd5fa1284d287fd35c61",
+        "signature": "11100877c8354644bdc0258d31aaf37d757826c4ed21adb848c01eca1398d2b4",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "composite": true,
+      "declaration": true,
+      "declarationMap": true,
+      "sourceMap": true,
+      "target": 1,
+      "module": 5,
+      "moduleResolution": 2,
+      "esModuleInterop": true,
+      "lib": [
+        "lib.dom.d.ts",
+        "lib.es2015.d.ts",
+        "lib.scripthost.d.ts"
+      ],
+      "noUnusedLocals": true,
+      "noImplicitUseStrict": true,
+      "importHelpers": true,
+      "resolveJsonModule": true,
+      "jsx": 2,
+      "jsxFactory": "createElement",
+      "strictBindCallApply": true,
+      "rootDir": "./src",
+      "outDir": "./tsc",
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx-csstype.d.ts"
+      ],
+      "./src/CalendarApi.tsx": [
+        "./src/api-type-deps.ts",
+        "./src/api/EventApi.ts",
+        "./src/calendar-utils.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/formatting.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/pointer.ts",
+        "./src/reducers/Action.ts",
+        "./src/reducers/CalendarDataManager.ts",
+        "./src/reducers/current-date.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source-parse.ts",
+        "./src/structs/event-source.ts",
+        "./src/structs/event-store.ts",
+        "./src/structs/view-spec.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/CalendarContent.tsx": [
+        "../../.yarn/cache/tslib-npm-2.0.3-62a2b3751d-447bfca5de.zip/node_modules/tslib/tslib.d.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/Toolbar.tsx",
+        "./src/View.ts",
+        "./src/ViewContainer.tsx",
+        "./src/ViewContext.ts",
+        "./src/calendar-utils.ts",
+        "./src/component/DateComponent.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/EventClicking.ts",
+        "./src/interactions/EventHovering.ts",
+        "./src/interactions/interaction.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/reducers/current-date.ts",
+        "./src/reducers/data-types.ts",
+        "./src/structs/view-spec.ts",
+        "./src/util/DelayedRunner.ts",
+        "./src/util/dom-event.ts",
+        "./src/util/memoize.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/CalendarContext.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/common/Emitter.ts",
+        "./src/datelib/env.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/reducers/Action.ts",
+        "./src/reducers/data-types.ts"
+      ],
+      "./src/CalendarRoot.tsx": [
+        "./src/common/Emitter.ts",
+        "./src/options.ts",
+        "./src/scrollgrid/util.tsx",
+        "./src/theme/Theme.ts",
+        "./src/util/table-styling.tsx",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/DateProfileGenerator.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts",
+        "./src/reducers/current-date.ts",
+        "./src/util/date.ts"
+      ],
+      "./src/NowTimer.ts": [
+        "./src/ViewContext.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/marker.ts",
+        "./src/reducers/current-date.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/ScrollResponder.ts": [
+        "../../.yarn/cache/tslib-npm-2.0.3-62a2b3751d-447bfca5de.zip/node_modules/tslib/tslib.d.ts",
+        "./src/common/Emitter.ts",
+        "./src/datelib/duration.ts",
+        "./src/options.ts"
+      ],
+      "./src/Toolbar.tsx": [
+        "./src/ToolbarSection.tsx",
+        "./src/toolbar-struct.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/ToolbarSection.tsx": [
+        "./src/toolbar-struct.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/View.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/component/event-rendering.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/duration.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/ViewApi.ts": [
+        "./src/datelib/env.ts",
+        "./src/reducers/data-types.ts"
+      ],
+      "./src/ViewContainer.tsx": [
+        "./src/scrollgrid/util.tsx",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/ViewContext.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/CalendarContext.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/ScrollResponder.ts",
+        "./src/ViewApi.ts",
+        "./src/common/Emitter.ts",
+        "./src/component/DateComponent.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/interactions/interaction.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/reducers/Action.ts",
+        "./src/reducers/data-types.ts",
+        "./src/structs/view-spec.ts",
+        "./src/theme/Theme.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/api-type-deps.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/ViewApi.ts",
+        "./src/api/EventApi.ts",
+        "./src/api/EventSourceApi.ts",
+        "./src/calendar-utils.ts",
+        "./src/common/DayCellRoot.tsx",
+        "./src/common/MoreLinkRoot.tsx",
+        "./src/common/NowIndicatorRoot.tsx",
+        "./src/common/ViewRoot.tsx",
+        "./src/common/WeekNumberRoot.tsx",
+        "./src/common/more-link.ts",
+        "./src/common/render-hook.tsx",
+        "./src/component/event-rendering.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/formatting.ts",
+        "./src/datelib/locale.ts",
+        "./src/dates-set.ts",
+        "./src/event-crud.ts",
+        "./src/event-sources/func-event-source.ts",
+        "./src/interactions/EventClicking.ts",
+        "./src/interactions/EventHovering.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/render-hook-misc.ts",
+        "./src/scrollgrid/util.tsx",
+        "./src/structs/business-hours.ts",
+        "./src/structs/constraint.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source-parse.ts",
+        "./src/structs/view-config.tsx",
+        "./src/toolbar-struct.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/api/EventApi.ts": [
+        "../../.yarn/cache/tslib-npm-2.0.3-62a2b3751d-447bfca5de.zip/node_modules/tslib/tslib.d.ts",
+        "./src/CalendarContext.ts",
+        "./src/api-type-deps.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/formatting.ts",
+        "./src/options.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-mutation.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-store.ts",
+        "./src/util/date.ts"
+      ],
+      "./src/api/EventSourceApi.ts": [
+        "./src/CalendarContext.ts",
+        "./src/structs/event-source.ts"
+      ],
+      "./src/calendar-utils.ts": [
+        "../../.yarn/cache/tslib-npm-2.0.3-62a2b3751d-447bfca5de.zip/node_modules/tslib/tslib.d.ts",
+        "./src/CalendarContext.ts",
+        "./src/ViewApi.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/pointer.ts",
+        "./src/structs/date-span.ts"
+      ],
+      "./src/common/DayCellContent.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewApi.ts",
+        "./src/common/render-hook.tsx",
+        "./src/component/date-rendering.tsx",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/formatting.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/DayCellRoot.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewApi.ts",
+        "./src/common/DayCellContent.tsx",
+        "./src/common/render-hook.tsx",
+        "./src/component/date-rendering.tsx",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/formatting-utils.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/util/memoize.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/DayHeader.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/NowTimer.ts",
+        "./src/common/TableDateCell.tsx",
+        "./src/common/TableDowCell.tsx",
+        "./src/common/table-utils.ts",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/util/memoize.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/DaySeriesModel.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts"
+      ],
+      "./src/common/DayTableModel.ts": [
+        "./src/common/DaySeriesModel.ts",
+        "./src/component/DateComponent.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts"
+      ],
+      "./src/common/EventRoot.tsx": [
+        "./src/api/EventApi.ts",
+        "./src/common/render-hook.tsx",
+        "./src/component/DateComponent.ts",
+        "./src/component/event-rendering.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/MoreLinkRoot.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewApi.ts",
+        "./src/ViewContext.ts",
+        "./src/api/EventApi.ts",
+        "./src/common/MorePopover.tsx",
+        "./src/common/render-hook.tsx",
+        "./src/component/DateComponent.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/util/dom-manip.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/MorePopover.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/common/DayCellContent.tsx",
+        "./src/common/DayCellRoot.tsx",
+        "./src/common/Popover.tsx",
+        "./src/component/DateComponent.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/hit.ts",
+        "./src/options.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/common/NowIndicatorRoot.tsx": [
+        "./src/ViewApi.ts",
+        "./src/ViewContext.ts",
+        "./src/common/render-hook.tsx",
+        "./src/datelib/marker.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/common/Popover.tsx": [
+        "./src/options.ts",
+        "./src/util/dom-geom.ts",
+        "./src/util/dom-manip.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/StandardEvent.tsx": [
+        "./src/common/EventRoot.tsx",
+        "./src/component/DateComponent.ts",
+        "./src/component/event-rendering.ts",
+        "./src/datelib/DateFormatter.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/TableDateCell.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/common/nav-link.ts",
+        "./src/common/render-hook.tsx",
+        "./src/common/table-cell-util.tsx",
+        "./src/component/date-rendering.tsx",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/formatting-utils.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/render-hook-misc.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/TableDowCell.tsx": [
+        "./src/common/render-hook.tsx",
+        "./src/common/table-cell-util.tsx",
+        "./src/component/date-rendering.tsx",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/render-hook-misc.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/ViewRoot.tsx": [
+        "./src/ViewApi.ts",
+        "./src/common/render-hook.tsx",
+        "./src/structs/view-spec.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/WeekNumberRoot.tsx": [
+        "./src/ViewContext.ts",
+        "./src/common/render-hook.tsx",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/marker.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/common/bg-fill.tsx": [
+        "./src/common/EventRoot.tsx",
+        "./src/component/DateComponent.ts",
+        "./src/component/event-rendering.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/common/more-link.ts": [
+        "./src/ViewApi.ts",
+        "./src/api/EventApi.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/common/nav-link.ts": [
+        "./src/datelib/formatting-utils.ts",
+        "./src/datelib/marker.ts"
+      ],
+      "./src/common/render-hook.tsx": [
+        "./src/util/html.ts",
+        "./src/util/object.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/slicing-utils.ts": [
+        "./src/CalendarContext.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/component/DateComponent.ts",
+        "./src/component/event-rendering.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-store.ts",
+        "./src/structs/recurring-event.ts",
+        "./src/util/memoize.ts"
+      ],
+      "./src/common/table-cell-util.tsx": [
+        "./src/render-hook-misc.ts"
+      ],
+      "./src/common/table-utils.ts": [
+        "./src/datelib/formatting.ts"
+      ],
+      "./src/component/CalendarDataProvider.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/reducers/CalendarDataManager.ts",
+        "./src/reducers/data-types.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/component/DateComponent.ts": [
+        "./src/component/event-rendering.ts",
+        "./src/interactions/hit.ts",
+        "./src/options.ts",
+        "./src/structs/event-instance.ts",
+        "./src/util/dom-manip.ts",
+        "./src/util/misc.ts",
+        "./src/vdom-util.tsx"
+      ],
+      "./src/component/date-rendering.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/theme/Theme.ts"
+      ],
+      "./src/component/event-rendering.ts": [
+        "./src/ViewApi.ts",
+        "./src/ViewContext.ts",
+        "./src/api/EventApi.ts",
+        "./src/common/render-hook.tsx",
+        "./src/component/DateComponent.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/marker.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-store.ts",
+        "./src/util/date.ts",
+        "./src/util/misc.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/component/event-splitting.ts": [
+        "../../.yarn/cache/tslib-npm-2.0.3-62a2b3751d-447bfca5de.zip/node_modules/tslib/tslib.d.ts",
+        "./src/component/event-ui.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-store.ts",
+        "./src/util/memoize.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/component/event-ui.ts": [
+        "./src/CalendarContext.ts",
+        "./src/options.ts",
+        "./src/structs/constraint.ts",
+        "./src/util/html.ts"
+      ],
+      "./src/datelib/DateFormatter.ts": [
+        "./src/datelib/calendar-system.ts",
+        "./src/datelib/locale.ts",
+        "./src/datelib/marker.ts",
+        "./src/datelib/zoned-marker.ts"
+      ],
+      "./src/datelib/calendar-system.ts": [
+        "./src/datelib/marker.ts"
+      ],
+      "./src/datelib/date-range.ts": [
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts"
+      ],
+      "./src/datelib/duration.ts": [
+        "./src/util/misc.ts"
+      ],
+      "./src/datelib/env.ts": [
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/calendar-system.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/formatting-utils.ts",
+        "./src/datelib/locale.ts",
+        "./src/datelib/marker.ts",
+        "./src/datelib/parsing.ts",
+        "./src/datelib/timezone.ts",
+        "./src/util/misc.ts"
+      ],
+      "./src/datelib/formatting-cmd.ts": [
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/zoned-marker.ts"
+      ],
+      "./src/datelib/formatting-func.ts": [
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/zoned-marker.ts"
+      ],
+      "./src/datelib/formatting-native.ts": [
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/calendar-system.ts",
+        "./src/datelib/formatting-utils.ts",
+        "./src/datelib/locale.ts",
+        "./src/datelib/marker.ts",
+        "./src/datelib/zoned-marker.ts",
+        "./src/util/memoize.ts"
+      ],
+      "./src/datelib/formatting-utils.ts": [
+        "./src/datelib/marker.ts",
+        "./src/util/misc.ts"
+      ],
+      "./src/datelib/formatting.ts": [
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/formatting-cmd.ts",
+        "./src/datelib/formatting-func.ts",
+        "./src/datelib/formatting-native.ts"
+      ],
+      "./src/datelib/locale.ts": [
+        "./src/global-locales.ts",
+        "./src/options.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/datelib/marker.ts": [
+        "./src/datelib/duration.ts"
+      ],
+      "./src/datelib/parsing.ts": [
+        "./src/datelib/marker.ts"
+      ],
+      "./src/datelib/zoned-marker.ts": [
+        "./src/datelib/calendar-system.ts",
+        "./src/datelib/marker.ts"
+      ],
+      "./src/dates-set.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewApi.ts",
+        "./src/reducers/data-types.ts",
+        "./src/structs/date-span.ts"
+      ],
+      "./src/event-crud.ts": [
+        "./src/ViewApi.ts",
+        "./src/api/EventApi.ts",
+        "./src/datelib/duration.ts",
+        "./src/reducers/data-types.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/event-sources/array-event-source.ts": [
+        "./src/plugin-system.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source-def.ts"
+      ],
+      "./src/event-sources/func-event-source.ts": [
+        "./src/plugin-system.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source-def.ts",
+        "./src/structs/event-source.ts",
+        "./src/util/promise.ts"
+      ],
+      "./src/event-sources/json-feed-event-source-refiners.ts": [
+        "./src/options.ts"
+      ],
+      "./src/event-sources/json-feed-event-source.ts": [
+        "../../.yarn/cache/tslib-npm-2.0.3-62a2b3751d-447bfca5de.zip/node_modules/tslib/tslib.d.ts",
+        "./src/CalendarContext.ts",
+        "./src/datelib/date-range.ts",
+        "./src/event-sources/json-feed-event-source-refiners.ts",
+        "./src/plugin-system.ts",
+        "./src/structs/event-source-def.ts",
+        "./src/util/requestJson.ts"
+      ],
+      "./src/formatting-api.ts": [
+        "./src/api-type-deps.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/formatting-native.ts",
+        "./src/datelib/formatting.ts",
+        "./src/datelib/locale.ts",
+        "./src/options.ts"
+      ],
+      "./src/global-locales.ts": [
+        "./src/datelib/locale.ts"
+      ],
+      "./src/global-plugins.ts": [
+        "./src/dates-set.ts",
+        "./src/event-crud.ts",
+        "./src/event-sources/array-event-source.ts",
+        "./src/event-sources/func-event-source.ts",
+        "./src/event-sources/json-feed-event-source.ts",
+        "./src/option-change-handlers.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/plugin-system.ts",
+        "./src/reducers/data-types.ts",
+        "./src/reducers/eventSources.ts",
+        "./src/structs/recurring-event-simple.ts",
+        "./src/util/array.ts",
+        "./src/util/dom-manip.ts"
+      ],
+      "./src/interactions/ElementDragging.ts": [
+        "./src/common/Emitter.ts"
+      ],
+      "./src/interactions/EventClicking.ts": [
+        "./src/ViewApi.ts",
+        "./src/api/EventApi.ts",
+        "./src/component/event-rendering.ts",
+        "./src/interactions/interaction.ts",
+        "./src/util/dom-event.ts",
+        "./src/util/dom-manip.ts"
+      ],
+      "./src/interactions/EventHovering.ts": [
+        "./src/ViewApi.ts",
+        "./src/api/EventApi.ts",
+        "./src/component/event-rendering.ts",
+        "./src/interactions/interaction.ts",
+        "./src/util/dom-event.ts"
+      ],
+      "./src/interactions/date-selecting.ts": [
+        "./src/interactions/hit.ts"
+      ],
+      "./src/interactions/event-dragging.ts": [
+        "./src/CalendarContext.ts",
+        "./src/component/event-ui.ts",
+        "./src/interactions/hit.ts",
+        "./src/options.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-mutation.ts"
+      ],
+      "./src/interactions/event-interaction-state.ts": [
+        "./src/structs/event-store.ts"
+      ],
+      "./src/interactions/external-element-dragging.ts": [
+        "./src/structs/date-span.ts",
+        "./src/structs/drag-meta.ts"
+      ],
+      "./src/interactions/hit.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewContext.ts",
+        "./src/structs/date-span.ts",
+        "./src/util/geom.ts"
+      ],
+      "./src/interactions/interaction.ts": [
+        "./src/component/DateComponent.ts",
+        "./src/interactions/hit.ts"
+      ],
+      "./src/main.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/CalendarContent.tsx",
+        "./src/CalendarContext.ts",
+        "./src/CalendarRoot.tsx",
+        "./src/DateProfileGenerator.ts",
+        "./src/NowTimer.ts",
+        "./src/ScrollResponder.ts",
+        "./src/View.ts",
+        "./src/ViewApi.ts",
+        "./src/ViewContext.ts",
+        "./src/api-type-deps.ts",
+        "./src/api/EventApi.ts",
+        "./src/api/EventSourceApi.ts",
+        "./src/calendar-utils.ts",
+        "./src/common/DayCellContent.tsx",
+        "./src/common/DayCellRoot.tsx",
+        "./src/common/DayHeader.tsx",
+        "./src/common/DaySeriesModel.ts",
+        "./src/common/DayTableModel.ts",
+        "./src/common/Emitter.ts",
+        "./src/common/EventRoot.tsx",
+        "./src/common/MoreLinkRoot.tsx",
+        "./src/common/NowIndicatorRoot.tsx",
+        "./src/common/PositionCache.ts",
+        "./src/common/StandardEvent.tsx",
+        "./src/common/TableDateCell.tsx",
+        "./src/common/TableDowCell.tsx",
+        "./src/common/ViewRoot.tsx",
+        "./src/common/WeekNumberRoot.tsx",
+        "./src/common/bg-fill.tsx",
+        "./src/common/nav-link.ts",
+        "./src/common/render-hook.tsx",
+        "./src/common/scroll-controller.ts",
+        "./src/common/slicing-utils.ts",
+        "./src/common/table-utils.ts",
+        "./src/component/CalendarDataProvider.ts",
+        "./src/component/DateComponent.ts",
+        "./src/component/date-rendering.tsx",
+        "./src/component/event-rendering.ts",
+        "./src/component/event-splitting.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/formatting-utils.ts",
+        "./src/datelib/formatting.ts",
+        "./src/datelib/locale.ts",
+        "./src/datelib/marker.ts",
+        "./src/datelib/parsing.ts",
+        "./src/datelib/timezone.ts",
+        "./src/event-placement.ts",
+        "./src/formatting-api.ts",
+        "./src/global-config.ts",
+        "./src/global-locales.ts",
+        "./src/global-plugins.ts",
+        "./src/interactions/ElementDragging.ts",
+        "./src/interactions/date-selecting.ts",
+        "./src/interactions/event-dragging.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/interactions/hit.ts",
+        "./src/interactions/interaction.ts",
+        "./src/interactions/pointer.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/plugin-system.ts",
+        "./src/reducers/Action.ts",
+        "./src/reducers/CalendarDataManager.ts",
+        "./src/reducers/data-types.ts",
+        "./src/scrollgrid/ScrollGridImpl.ts",
+        "./src/scrollgrid/Scroller.tsx",
+        "./src/scrollgrid/SimpleScrollGrid.tsx",
+        "./src/scrollgrid/util.tsx",
+        "./src/structs/business-hours.ts",
+        "./src/structs/constraint.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/drag-meta.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-mutation.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source-def.ts",
+        "./src/structs/event-source-parse.ts",
+        "./src/structs/event-source.ts",
+        "./src/structs/event-store.ts",
+        "./src/structs/recurring-event.ts",
+        "./src/structs/view-def.ts",
+        "./src/structs/view-spec.ts",
+        "./src/theme/Theme.ts",
+        "./src/util/DelayedRunner.ts",
+        "./src/util/RefMap.ts",
+        "./src/util/array.ts",
+        "./src/util/date.ts",
+        "./src/util/dom-event.ts",
+        "./src/util/dom-geom.ts",
+        "./src/util/dom-manip.ts",
+        "./src/util/geom.ts",
+        "./src/util/html.ts",
+        "./src/util/memoize.ts",
+        "./src/util/misc.ts",
+        "./src/util/object.ts",
+        "./src/util/promise.ts",
+        "./src/util/requestJson.ts",
+        "./src/util/scrollbar-side.ts",
+        "./src/util/scrollbar-width.ts",
+        "./src/util/table-styling.tsx",
+        "./src/validation.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/option-change-handlers.ts": [
+        "./src/CalendarContext.ts",
+        "./src/plugin-system.ts",
+        "./src/structs/event-source.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/options.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/api-type-deps.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/formatting.ts",
+        "./src/util/misc.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/plugin-system-struct.ts": [
+        "./src/CalendarContent.tsx",
+        "./src/CalendarContext.ts",
+        "./src/View.ts",
+        "./src/calendar-utils.ts",
+        "./src/common/render-hook.tsx",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/timezone.ts",
+        "./src/interactions/ElementDragging.ts",
+        "./src/interactions/date-selecting.ts",
+        "./src/interactions/event-dragging.ts",
+        "./src/interactions/external-element-dragging.ts",
+        "./src/interactions/interaction.ts",
+        "./src/options.ts",
+        "./src/reducers/CalendarDataManager.ts",
+        "./src/reducers/data-types.ts",
+        "./src/scrollgrid/ScrollGridImpl.ts",
+        "./src/structs/constraint.ts",
+        "./src/structs/event-mutation.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source-def.ts",
+        "./src/structs/recurring-event.ts",
+        "./src/structs/view-config.tsx",
+        "./src/theme/Theme.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/plugin-system.ts": [
+        "./src/plugin-system-struct.ts",
+        "./src/util/array.ts",
+        "./src/util/misc.ts"
+      ],
+      "./src/reducers/Action.ts": [
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/reducers/CalendarDataManager.ts": [
+        "../../.yarn/cache/tslib-npm-2.0.3-62a2b3751d-447bfca5de.zip/node_modules/tslib/tslib.d.ts",
+        "./src/CalendarApi.tsx",
+        "./src/CalendarContext.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewApi.ts",
+        "./src/common/Emitter.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/locale.ts",
+        "./src/global-plugins.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/plugin-system.ts",
+        "./src/reducers/Action.ts",
+        "./src/reducers/current-date.ts",
+        "./src/reducers/data-types.ts",
+        "./src/reducers/date-profile.ts",
+        "./src/reducers/date-selection.ts",
+        "./src/reducers/event-drag.ts",
+        "./src/reducers/event-resize.ts",
+        "./src/reducers/eventSources.ts",
+        "./src/reducers/eventStore.ts",
+        "./src/reducers/options.ts",
+        "./src/reducers/selected-event.ts",
+        "./src/reducers/title-formatting.ts",
+        "./src/reducers/view-type.ts",
+        "./src/structs/business-hours.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-source.ts",
+        "./src/structs/event-store.ts",
+        "./src/structs/view-spec.ts",
+        "./src/theme/StandardTheme.ts",
+        "./src/toolbar-parse.ts",
+        "./src/util/TaskRunner.ts",
+        "./src/util/memoize.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/reducers/current-date.ts": [
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/data-types.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewApi.ts",
+        "./src/common/Emitter.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/reducers/Action.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-source.ts",
+        "./src/structs/event-store.ts",
+        "./src/structs/view-spec.ts",
+        "./src/theme/Theme.ts"
+      ],
+      "./src/reducers/date-profile.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/date-selection.ts": [
+        "./src/reducers/Action.ts",
+        "./src/structs/date-span.ts"
+      ],
+      "./src/reducers/event-drag.ts": [
+        "./src/interactions/event-interaction-state.ts",
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/event-resize.ts": [
+        "./src/interactions/event-interaction-state.ts",
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/eventSources.ts": [
+        "./src/CalendarContext.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/date-range.ts",
+        "./src/options.ts",
+        "./src/reducers/Action.ts",
+        "./src/structs/event-source-parse.ts",
+        "./src/structs/event-source.ts",
+        "./src/util/misc.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/reducers/eventStore.ts": [
+        "./src/CalendarContext.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/env.ts",
+        "./src/reducers/Action.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source.ts",
+        "./src/structs/event-store.ts",
+        "./src/structs/recurring-event.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/reducers/options.ts": [
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/selected-event.ts": [
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/title-formatting.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/formatting.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts"
+      ],
+      "./src/reducers/view-type.ts": [
+        "./src/reducers/Action.ts"
+      ],
+      "./src/render-hook-misc.ts": [
+        "./src/ViewApi.ts",
+        "./src/common/render-hook.tsx",
+        "./src/component/date-rendering.tsx",
+        "./src/datelib/duration.ts"
+      ],
+      "./src/scrollgrid/ScrollGridImpl.ts": [
+        "./src/ViewContext.ts",
+        "./src/scrollgrid/util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/scrollgrid/Scroller.tsx": [
+        "./src/scrollgrid/util.tsx",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/scrollgrid/SimpleScrollGrid.tsx": [
+        "./src/scrollgrid/Scroller.tsx",
+        "./src/scrollgrid/util.tsx",
+        "./src/util/RefMap.ts",
+        "./src/util/memoize.ts",
+        "./src/util/object.ts",
+        "./src/util/scrollbar-width.ts",
+        "./src/util/table-styling.tsx",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/scrollgrid/util.tsx": [
+        "./src/ViewContext.ts",
+        "./src/options.ts",
+        "./src/util/array.ts",
+        "./src/util/dom-manip.ts",
+        "./src/util/misc.ts",
+        "./src/util/object.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/structs/business-hours.ts": [
+        "./src/CalendarContext.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/structs/constraint.ts": [
+        "./src/CalendarContext.ts",
+        "./src/api/EventApi.ts",
+        "./src/component/event-splitting.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/structs/date-span.ts": [
+        "./src/CalendarContext.ts",
+        "./src/component/event-rendering.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/options.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-parse.ts"
+      ],
+      "./src/structs/drag-meta.ts": [
+        "./src/datelib/duration.ts",
+        "./src/options.ts"
+      ],
+      "./src/structs/event-def.ts": [
+        "./src/component/event-ui.ts",
+        "./src/datelib/duration.ts",
+        "./src/options.ts"
+      ],
+      "./src/structs/event-instance.ts": [
+        "./src/datelib/date-range.ts",
+        "./src/util/misc.ts"
+      ],
+      "./src/structs/event-mutation.ts": [
+        "./src/CalendarContext.ts",
+        "./src/calendar-utils.ts",
+        "./src/component/event-rendering.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/marker.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-store.ts",
+        "./src/util/date.ts"
+      ],
+      "./src/structs/event-parse.ts": [
+        "../../.yarn/cache/tslib-npm-2.0.3-62a2b3751d-447bfca5de.zip/node_modules/tslib/tslib.d.ts",
+        "./src/CalendarContext.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-source.ts",
+        "./src/structs/recurring-event.ts",
+        "./src/util/misc.ts"
+      ],
+      "./src/structs/event-source-def.ts": [
+        "./src/structs/event-source-parse.ts",
+        "./src/structs/event-source.ts"
+      ],
+      "./src/structs/event-source-parse.ts": [
+        "./src/CalendarContext.ts",
+        "./src/component/event-ui.ts",
+        "./src/event-sources/func-event-source.ts",
+        "./src/event-sources/json-feed-event-source-refiners.ts",
+        "./src/options.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source.ts",
+        "./src/util/misc.ts"
+      ],
+      "./src/structs/event-source.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/CalendarContext.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/date-range.ts",
+        "./src/options.ts",
+        "./src/structs/event-parse.ts"
+      ],
+      "./src/structs/event-store.ts": [
+        "./src/CalendarContext.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/structs/recurring-event-simple-declare.ts": [
+        "./src/structs/event-parse.ts",
+        "./src/structs/recurring-event-simple-refiners.ts"
+      ],
+      "./src/structs/recurring-event-simple-refiners.ts": [
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/options.ts"
+      ],
+      "./src/structs/recurring-event-simple.ts": [
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts",
+        "./src/plugin-system.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/recurring-event-simple-declare.ts",
+        "./src/structs/recurring-event-simple-refiners.ts",
+        "./src/structs/recurring-event.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/structs/recurring-event.ts": [
+        "./src/CalendarContext.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-store.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/structs/view-config.tsx": [
+        "./src/View.ts",
+        "./src/ViewContext.ts",
+        "./src/common/ViewRoot.tsx",
+        "./src/common/render-hook.tsx",
+        "./src/datelib/duration.ts",
+        "./src/options.ts",
+        "./src/util/object.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/structs/view-def.ts": [
+        "./src/options.ts",
+        "./src/structs/view-config.tsx"
+      ],
+      "./src/structs/view-spec.ts": [
+        "./src/datelib/duration.ts",
+        "./src/options.ts",
+        "./src/structs/view-config.tsx",
+        "./src/structs/view-def.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/theme/StandardTheme.ts": [
+        "./src/theme/Theme.ts"
+      ],
+      "./src/theme/Theme.ts": [
+        "./src/options.ts"
+      ],
+      "./src/toolbar-parse.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/options.ts",
+        "./src/structs/view-spec.ts",
+        "./src/theme/Theme.ts",
+        "./src/toolbar-struct.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/util/RefMap.ts": [
+        "./src/util/object.ts"
+      ],
+      "./src/util/TaskRunner.ts": [
+        "./src/util/DelayedRunner.ts"
+      ],
+      "./src/util/date.ts": [
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts"
+      ],
+      "./src/util/dom-event.ts": [
+        "./src/util/dom-manip.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/util/dom-geom.ts": [
+        "./src/util/geom.ts",
+        "./src/util/scrollbar-side.ts",
+        "./src/util/scrollbar-width.ts"
+      ],
+      "./src/util/dom-manip.ts": [
+        "./src/options.ts"
+      ],
+      "./src/util/memoize.ts": [
+        "./src/options.ts",
+        "./src/util/array.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/util/misc.ts": [
+        "./src/util/dom-event.ts"
+      ],
+      "./src/util/requestJson.ts": [
+        "./src/options.ts"
+      ],
+      "./src/util/scrollbar-side.ts": [
+        "./src/util/dom-manip.ts"
+      ],
+      "./src/validation.ts": [
+        "./src/CalendarContext.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/api/EventApi.ts",
+        "./src/calendar-utils.ts",
+        "./src/component/event-rendering.ts",
+        "./src/component/event-splitting.ts",
+        "./src/datelib/date-range.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/reducers/eventStore.ts",
+        "./src/structs/constraint.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-store.ts",
+        "./src/structs/recurring-event.ts",
+        "./src/util/object.ts"
+      ],
+      "./src/vdom-util.tsx": [
+        "../../.yarn/cache/tslib-npm-2.0.3-62a2b3751d-447bfca5de.zip/node_modules/tslib/tslib.d.ts",
+        "./src/ViewContext.ts",
+        "./src/options.ts",
+        "./src/util/object.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/vdom.ts": [
+        "../core-preact/tsc/vdom.d.ts"
+      ],
+      "../core-preact/tsc/vdom.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts"
+      ],
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx-csstype.d.ts"
+      ],
+      "./src/CalendarApi.tsx": [
+        "./src/api-type-deps.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/pointer.ts",
+        "./src/main.ts",
+        "./src/reducers/Action.ts",
+        "./src/reducers/CalendarDataManager.ts"
+      ],
+      "./src/CalendarContent.tsx": [
+        "./src/component/DateComponent.ts",
+        "./src/interactions/interaction.ts",
+        "./src/reducers/data-types.ts",
+        "./src/util/DelayedRunner.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/CalendarContext.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/common/Emitter.ts",
+        "./src/datelib/env.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/reducers/Action.ts",
+        "./src/reducers/data-types.ts"
+      ],
+      "./src/CalendarRoot.tsx": [
+        "./src/common/Emitter.ts",
+        "./src/options.ts",
+        "./src/scrollgrid/util.tsx",
+        "./src/theme/Theme.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/DateProfileGenerator.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts"
+      ],
+      "./src/NowTimer.ts": [
+        "./src/ViewContext.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/ScrollResponder.ts": [
+        "./src/common/Emitter.ts",
+        "./src/datelib/duration.ts",
+        "./src/options.ts"
+      ],
+      "./src/Toolbar.tsx": [
+        "./src/ToolbarSection.tsx",
+        "./src/toolbar-struct.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/ToolbarSection.tsx": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts",
+        "./src/toolbar-struct.ts",
+        "./src/vdom-util.tsx"
+      ],
+      "./src/View.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/component/event-rendering.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/duration.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/ViewApi.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/datelib/env.ts",
+        "./src/reducers/data-types.ts"
+      ],
+      "./src/ViewContainer.tsx": [
+        "./src/scrollgrid/util.tsx",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/ViewContext.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/CalendarContext.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/ScrollResponder.ts",
+        "./src/ViewApi.ts",
+        "./src/common/Emitter.ts",
+        "./src/component/DateComponent.ts",
+        "./src/datelib/env.ts",
+        "./src/interactions/interaction.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/reducers/Action.ts",
+        "./src/reducers/data-types.ts",
+        "./src/structs/view-spec.ts",
+        "./src/theme/Theme.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/api-type-deps.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/ViewApi.ts",
+        "./src/api/EventApi.ts",
+        "./src/api/EventSourceApi.ts",
+        "./src/calendar-utils.ts",
+        "./src/common/DayCellRoot.tsx",
+        "./src/common/MoreLinkRoot.tsx",
+        "./src/common/NowIndicatorRoot.tsx",
+        "./src/common/ViewRoot.tsx",
+        "./src/common/WeekNumberRoot.tsx",
+        "./src/common/more-link.ts",
+        "./src/common/render-hook.tsx",
+        "./src/component/event-rendering.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/formatting.ts",
+        "./src/datelib/locale.ts",
+        "./src/dates-set.ts",
+        "./src/event-crud.ts",
+        "./src/event-sources/func-event-source.ts",
+        "./src/interactions/EventClicking.ts",
+        "./src/interactions/EventHovering.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/render-hook-misc.ts",
+        "./src/scrollgrid/util.tsx",
+        "./src/structs/business-hours.ts",
+        "./src/structs/constraint.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source-parse.ts",
+        "./src/structs/view-config.tsx",
+        "./src/toolbar-struct.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/api/EventApi.ts": [
+        "./src/CalendarContext.ts",
+        "./src/api-type-deps.ts",
+        "./src/options.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-mutation.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/api/EventSourceApi.ts": [
+        "./src/CalendarContext.ts",
+        "./src/structs/event-source.ts"
+      ],
+      "./src/calendar-utils.ts": [
+        "./src/CalendarContext.ts",
+        "./src/ViewApi.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/pointer.ts",
+        "./src/structs/date-span.ts"
+      ],
+      "./src/common/DayCellContent.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewApi.ts",
+        "./src/component/date-rendering.tsx",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/DayCellRoot.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewApi.ts",
+        "./src/common/DayCellContent.tsx",
+        "./src/common/render-hook.tsx",
+        "./src/component/date-rendering.tsx",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/DayHeader.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/marker.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/DaySeriesModel.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts"
+      ],
+      "./src/common/DayTableModel.ts": [
+        "./src/common/DaySeriesModel.ts",
+        "./src/component/DateComponent.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts"
+      ],
+      "./src/common/EventRoot.tsx": [
+        "./src/component/DateComponent.ts",
+        "./src/component/event-rendering.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/MoreLinkRoot.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewApi.ts",
+        "./src/common/render-hook.tsx",
+        "./src/component/DateComponent.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/MorePopover.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/component/DateComponent.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/hit.ts",
+        "./src/options.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/common/NowIndicatorRoot.tsx": [
+        "./src/ViewApi.ts",
+        "./src/common/render-hook.tsx",
+        "./src/datelib/marker.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/common/Popover.tsx": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts",
+        "./src/options.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/StandardEvent.tsx": [
+        "./src/common/EventRoot.tsx",
+        "./src/component/event-rendering.ts",
+        "./src/datelib/DateFormatter.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/TableDateCell.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/TableDowCell.tsx": [
+        "./src/datelib/DateFormatter.ts",
+        "./src/options.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/ViewRoot.tsx": [
+        "./src/ViewApi.ts",
+        "./src/common/render-hook.tsx",
+        "./src/structs/view-spec.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/WeekNumberRoot.tsx": [
+        "./src/common/render-hook.tsx",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/marker.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/common/bg-fill.tsx": [
+        "./src/component/DateComponent.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/common/more-link.ts": [
+        "./src/ViewApi.ts",
+        "./src/api/EventApi.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/common/nav-link.ts": [
+        "./src/datelib/marker.ts"
+      ],
+      "./src/common/render-hook.tsx": [
+        "./src/util/html.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/common/slicing-utils.ts": [
+        "./src/CalendarContext.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/component/DateComponent.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/common/table-cell-util.tsx": [
+        "./src/render-hook-misc.ts"
+      ],
+      "./src/common/table-utils.ts": [
+        "./src/main.ts"
+      ],
+      "./src/component/CalendarDataProvider.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/reducers/CalendarDataManager.ts",
+        "./src/reducers/data-types.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/component/DateComponent.ts": [
+        "./src/component/event-rendering.ts",
+        "./src/interactions/hit.ts",
+        "./src/options.ts",
+        "./src/structs/event-instance.ts",
+        "./src/vdom-util.tsx"
+      ],
+      "./src/component/date-rendering.tsx": [
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/theme/Theme.ts"
+      ],
+      "./src/component/event-rendering.ts": [
+        "./src/ViewApi.ts",
+        "./src/ViewContext.ts",
+        "./src/api/EventApi.ts",
+        "./src/common/render-hook.tsx",
+        "./src/component/DateComponent.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/marker.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-store.ts",
+        "./src/util/misc.ts"
+      ],
+      "./src/component/event-splitting.ts": [
+        "./src/component/event-ui.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/component/event-ui.ts": [
+        "./src/CalendarContext.ts",
+        "./src/options.ts",
+        "./src/structs/constraint.ts",
+        "./src/util/html.ts"
+      ],
+      "./src/datelib/DateFormatter.ts": [
+        "./src/datelib/calendar-system.ts",
+        "./src/datelib/locale.ts",
+        "./src/datelib/marker.ts",
+        "./src/datelib/zoned-marker.ts"
+      ],
+      "./src/datelib/calendar-system.ts": [
+        "./src/datelib/marker.ts"
+      ],
+      "./src/datelib/date-range.ts": [
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts"
+      ],
+      "./src/datelib/env.ts": [
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/calendar-system.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/locale.ts",
+        "./src/datelib/marker.ts",
+        "./src/datelib/timezone.ts"
+      ],
+      "./src/datelib/formatting-cmd.ts": [
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/zoned-marker.ts"
+      ],
+      "./src/datelib/formatting-func.ts": [
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/zoned-marker.ts"
+      ],
+      "./src/datelib/formatting-native.ts": [
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/zoned-marker.ts"
+      ],
+      "./src/datelib/formatting-utils.ts": [
+        "./src/datelib/marker.ts"
+      ],
+      "./src/datelib/formatting.ts": [
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/formatting-func.ts",
+        "./src/datelib/formatting-native.ts"
+      ],
+      "./src/datelib/locale.ts": [
+        "./src/options.ts"
+      ],
+      "./src/datelib/marker.ts": [
+        "./src/datelib/duration.ts"
+      ],
+      "./src/datelib/zoned-marker.ts": [
+        "./src/datelib/calendar-system.ts",
+        "./src/datelib/marker.ts"
+      ],
+      "./src/dates-set.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewApi.ts",
+        "./src/reducers/data-types.ts",
+        "./src/structs/date-span.ts"
+      ],
+      "./src/event-crud.ts": [
+        "./src/ViewApi.ts",
+        "./src/api/EventApi.ts",
+        "./src/datelib/duration.ts",
+        "./src/reducers/data-types.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/event-sources/array-event-source.ts": [
+        "./src/plugin-system-struct.ts"
+      ],
+      "./src/event-sources/func-event-source.ts": [
+        "./src/plugin-system-struct.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source.ts"
+      ],
+      "./src/event-sources/json-feed-event-source-refiners.ts": [
+        "./src/options.ts"
+      ],
+      "./src/event-sources/json-feed-event-source.ts": [
+        "./src/plugin-system-struct.ts"
+      ],
+      "./src/formatting-api.ts": [
+        "./src/api-type-deps.ts",
+        "./src/datelib/formatting-native.ts"
+      ],
+      "./src/global-locales.ts": [
+        "./src/datelib/locale.ts"
+      ],
+      "./src/global-plugins.ts": [
+        "./src/plugin-system-struct.ts"
+      ],
+      "./src/interactions/ElementDragging.ts": [
+        "./src/common/Emitter.ts"
+      ],
+      "./src/interactions/EventClicking.ts": [
+        "./src/ViewApi.ts",
+        "./src/api/EventApi.ts",
+        "./src/interactions/interaction.ts"
+      ],
+      "./src/interactions/EventHovering.ts": [
+        "./src/ViewApi.ts",
+        "./src/api/EventApi.ts",
+        "./src/interactions/interaction.ts"
+      ],
+      "./src/interactions/date-selecting.ts": [
+        "./src/interactions/hit.ts"
+      ],
+      "./src/interactions/event-dragging.ts": [
+        "./src/CalendarContext.ts",
+        "./src/component/event-ui.ts",
+        "./src/interactions/hit.ts",
+        "./src/options.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-mutation.ts"
+      ],
+      "./src/interactions/event-interaction-state.ts": [
+        "./src/structs/event-store.ts"
+      ],
+      "./src/interactions/external-element-dragging.ts": [
+        "./src/structs/date-span.ts",
+        "./src/structs/drag-meta.ts"
+      ],
+      "./src/interactions/hit.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewContext.ts",
+        "./src/structs/date-span.ts",
+        "./src/util/geom.ts"
+      ],
+      "./src/interactions/interaction.ts": [
+        "./src/component/DateComponent.ts",
+        "./src/interactions/hit.ts"
+      ],
+      "./src/main.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/CalendarContent.tsx",
+        "./src/CalendarContext.ts",
+        "./src/CalendarRoot.tsx",
+        "./src/DateProfileGenerator.ts",
+        "./src/NowTimer.ts",
+        "./src/ScrollResponder.ts",
+        "./src/View.ts",
+        "./src/ViewApi.ts",
+        "./src/ViewContext.ts",
+        "./src/api-type-deps.ts",
+        "./src/api/EventApi.ts",
+        "./src/api/EventSourceApi.ts",
+        "./src/calendar-utils.ts",
+        "./src/common/DayCellContent.tsx",
+        "./src/common/DayCellRoot.tsx",
+        "./src/common/DayHeader.tsx",
+        "./src/common/DaySeriesModel.ts",
+        "./src/common/DayTableModel.ts",
+        "./src/common/Emitter.ts",
+        "./src/common/EventRoot.tsx",
+        "./src/common/MoreLinkRoot.tsx",
+        "./src/common/NowIndicatorRoot.tsx",
+        "./src/common/PositionCache.ts",
+        "./src/common/StandardEvent.tsx",
+        "./src/common/TableDateCell.tsx",
+        "./src/common/TableDowCell.tsx",
+        "./src/common/ViewRoot.tsx",
+        "./src/common/WeekNumberRoot.tsx",
+        "./src/common/bg-fill.tsx",
+        "./src/common/nav-link.ts",
+        "./src/common/render-hook.tsx",
+        "./src/common/scroll-controller.ts",
+        "./src/common/slicing-utils.ts",
+        "./src/common/table-utils.ts",
+        "./src/component/CalendarDataProvider.ts",
+        "./src/component/DateComponent.ts",
+        "./src/component/date-rendering.tsx",
+        "./src/component/event-rendering.ts",
+        "./src/component/event-splitting.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/formatting-utils.ts",
+        "./src/datelib/formatting.ts",
+        "./src/datelib/locale.ts",
+        "./src/datelib/marker.ts",
+        "./src/datelib/parsing.ts",
+        "./src/datelib/timezone.ts",
+        "./src/event-placement.ts",
+        "./src/formatting-api.ts",
+        "./src/global-config.ts",
+        "./src/global-locales.ts",
+        "./src/global-plugins.ts",
+        "./src/interactions/ElementDragging.ts",
+        "./src/interactions/date-selecting.ts",
+        "./src/interactions/event-dragging.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/interactions/hit.ts",
+        "./src/interactions/interaction.ts",
+        "./src/interactions/pointer.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/plugin-system.ts",
+        "./src/reducers/Action.ts",
+        "./src/reducers/CalendarDataManager.ts",
+        "./src/reducers/data-types.ts",
+        "./src/scrollgrid/ScrollGridImpl.ts",
+        "./src/scrollgrid/Scroller.tsx",
+        "./src/scrollgrid/SimpleScrollGrid.tsx",
+        "./src/scrollgrid/util.tsx",
+        "./src/structs/business-hours.ts",
+        "./src/structs/constraint.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/drag-meta.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-mutation.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source-def.ts",
+        "./src/structs/event-source-parse.ts",
+        "./src/structs/event-source.ts",
+        "./src/structs/event-store.ts",
+        "./src/structs/recurring-event.ts",
+        "./src/structs/view-def.ts",
+        "./src/structs/view-spec.ts",
+        "./src/theme/Theme.ts",
+        "./src/util/DelayedRunner.ts",
+        "./src/util/RefMap.ts",
+        "./src/util/array.ts",
+        "./src/util/date.ts",
+        "./src/util/dom-event.ts",
+        "./src/util/dom-geom.ts",
+        "./src/util/dom-manip.ts",
+        "./src/util/geom.ts",
+        "./src/util/html.ts",
+        "./src/util/memoize.ts",
+        "./src/util/misc.ts",
+        "./src/util/object.ts",
+        "./src/util/promise.ts",
+        "./src/util/requestJson.ts",
+        "./src/util/scrollbar-side.ts",
+        "./src/util/scrollbar-width.ts",
+        "./src/util/table-styling.tsx",
+        "./src/validation.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/option-change-handlers.ts": [
+        "./src/plugin-system-struct.ts"
+      ],
+      "./src/options.ts": [
+        "./src/api-type-deps.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/formatting-func.ts",
+        "./src/datelib/formatting-native.ts",
+        "./src/datelib/formatting.ts",
+        "./src/main.ts",
+        "./src/util/misc.ts"
+      ],
+      "./src/plugin-system-struct.ts": [
+        "./src/CalendarContent.tsx",
+        "./src/CalendarContext.ts",
+        "./src/View.ts",
+        "./src/calendar-utils.ts",
+        "./src/common/render-hook.tsx",
+        "./src/datelib/DateFormatter.ts",
+        "./src/datelib/timezone.ts",
+        "./src/interactions/ElementDragging.ts",
+        "./src/interactions/date-selecting.ts",
+        "./src/interactions/event-dragging.ts",
+        "./src/interactions/external-element-dragging.ts",
+        "./src/interactions/interaction.ts",
+        "./src/options.ts",
+        "./src/reducers/CalendarDataManager.ts",
+        "./src/reducers/data-types.ts",
+        "./src/scrollgrid/ScrollGridImpl.ts",
+        "./src/structs/constraint.ts",
+        "./src/structs/event-mutation.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source-def.ts",
+        "./src/structs/recurring-event.ts",
+        "./src/structs/view-config.tsx",
+        "./src/theme/Theme.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/plugin-system.ts": [
+        "./src/plugin-system-struct.ts"
+      ],
+      "./src/reducers/Action.ts": [
+        "./src/datelib/date-range.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/reducers/CalendarDataManager.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/CalendarContext.ts",
+        "./src/common/Emitter.ts",
+        "./src/datelib/locale.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/reducers/Action.ts",
+        "./src/reducers/data-types.ts",
+        "./src/structs/view-spec.ts"
+      ],
+      "./src/reducers/current-date.ts": [
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts",
+        "./src/options.ts",
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/data-types.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/DateProfileGenerator.ts",
+        "./src/ViewApi.ts",
+        "./src/common/Emitter.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/options.ts",
+        "./src/plugin-system-struct.ts",
+        "./src/reducers/Action.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-source.ts",
+        "./src/structs/event-store.ts",
+        "./src/structs/view-spec.ts",
+        "./src/theme/Theme.ts"
+      ],
+      "./src/reducers/date-profile.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/marker.ts",
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/date-selection.ts": [
+        "./src/reducers/Action.ts",
+        "./src/structs/date-span.ts"
+      ],
+      "./src/reducers/event-drag.ts": [
+        "./src/interactions/event-interaction-state.ts",
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/event-resize.ts": [
+        "./src/interactions/event-interaction-state.ts",
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/eventSources.ts": [
+        "./src/CalendarContext.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/reducers/Action.ts",
+        "./src/structs/event-source.ts"
+      ],
+      "./src/reducers/eventStore.ts": [
+        "./src/CalendarContext.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/env.ts",
+        "./src/reducers/Action.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-source.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/reducers/options.ts": [
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/selected-event.ts": [
+        "./src/reducers/Action.ts"
+      ],
+      "./src/reducers/title-formatting.ts": [
+        "./src/DateProfileGenerator.ts",
+        "./src/datelib/env.ts",
+        "./src/options.ts"
+      ],
+      "./src/reducers/view-type.ts": [
+        "./src/reducers/Action.ts"
+      ],
+      "./src/render-hook-misc.ts": [
+        "./src/ViewApi.ts",
+        "./src/common/render-hook.tsx",
+        "./src/component/date-rendering.tsx",
+        "./src/datelib/duration.ts"
+      ],
+      "./src/scrollgrid/ScrollGridImpl.ts": [
+        "./src/ViewContext.ts",
+        "./src/scrollgrid/util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/scrollgrid/Scroller.tsx": [
+        "./src/scrollgrid/util.tsx",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/scrollgrid/SimpleScrollGrid.tsx": [
+        "./src/scrollgrid/Scroller.tsx",
+        "./src/scrollgrid/util.tsx",
+        "./src/util/RefMap.ts",
+        "./src/vdom-util.tsx",
+        "./src/vdom.ts"
+      ],
+      "./src/scrollgrid/util.tsx": [
+        "./src/ViewContext.ts",
+        "./src/options.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/structs/business-hours.ts": [
+        "./src/CalendarContext.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/structs/constraint.ts": [
+        "./src/CalendarContext.ts",
+        "./src/api/EventApi.ts",
+        "./src/component/event-splitting.ts",
+        "./src/structs/date-span.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/structs/date-span.ts": [
+        "./src/CalendarContext.ts",
+        "./src/component/event-rendering.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts"
+      ],
+      "./src/structs/drag-meta.ts": [
+        "./src/datelib/duration.ts",
+        "./src/options.ts"
+      ],
+      "./src/structs/event-def.ts": [
+        "./src/component/event-ui.ts",
+        "./src/datelib/duration.ts",
+        "./src/options.ts"
+      ],
+      "./src/structs/event-instance.ts": [
+        "./src/datelib/date-range.ts"
+      ],
+      "./src/structs/event-mutation.ts": [
+        "./src/CalendarContext.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/duration.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/structs/event-parse.ts": [
+        "./src/CalendarContext.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/env.ts",
+        "./src/main.ts",
+        "./src/options.ts",
+        "./src/structs/constraint.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-source.ts"
+      ],
+      "./src/structs/event-source-def.ts": [
+        "./src/structs/event-source-parse.ts",
+        "./src/structs/event-source.ts"
+      ],
+      "./src/structs/event-source-parse.ts": [
+        "./src/CalendarContext.ts",
+        "./src/component/event-ui.ts",
+        "./src/event-sources/func-event-source.ts",
+        "./src/event-sources/json-feed-event-source-refiners.ts",
+        "./src/main.ts",
+        "./src/options.ts",
+        "./src/structs/constraint.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source.ts"
+      ],
+      "./src/structs/event-source.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/CalendarContext.ts",
+        "./src/component/event-ui.ts",
+        "./src/datelib/date-range.ts",
+        "./src/options.ts",
+        "./src/structs/event-parse.ts"
+      ],
+      "./src/structs/event-store.ts": [
+        "./src/CalendarContext.ts",
+        "./src/structs/event-def.ts",
+        "./src/structs/event-instance.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-source.ts"
+      ],
+      "./src/structs/recurring-event-simple-declare.ts": [
+        "./src/structs/event-parse.ts",
+        "./src/structs/recurring-event-simple-refiners.ts"
+      ],
+      "./src/structs/recurring-event-simple-refiners.ts": [
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/options.ts"
+      ],
+      "./src/structs/recurring-event-simple.ts": [
+        "./src/plugin-system-struct.ts",
+        "./src/structs/recurring-event-simple-declare.ts"
+      ],
+      "./src/structs/recurring-event.ts": [
+        "./src/CalendarContext.ts",
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts",
+        "./src/structs/event-parse.ts",
+        "./src/structs/event-store.ts"
+      ],
+      "./src/structs/view-config.tsx": [
+        "./src/View.ts",
+        "./src/common/render-hook.tsx",
+        "./src/datelib/duration.ts",
+        "./src/options.ts",
+        "./src/vdom.ts"
+      ],
+      "./src/structs/view-def.ts": [
+        "./src/options.ts",
+        "./src/structs/view-config.tsx"
+      ],
+      "./src/structs/view-spec.ts": [
+        "./src/datelib/duration.ts",
+        "./src/options.ts",
+        "./src/structs/view-config.tsx"
+      ],
+      "./src/theme/StandardTheme.ts": [
+        "./src/theme/Theme.ts"
+      ],
+      "./src/theme/Theme.ts": [
+        "./src/options.ts"
+      ],
+      "./src/toolbar-parse.ts": [
+        "./src/CalendarApi.tsx",
+        "./src/options.ts",
+        "./src/structs/view-spec.ts",
+        "./src/theme/Theme.ts",
+        "./src/toolbar-struct.ts"
+      ],
+      "./src/util/date.ts": [
+        "./src/datelib/date-range.ts",
+        "./src/datelib/duration.ts",
+        "./src/datelib/env.ts",
+        "./src/datelib/marker.ts"
+      ],
+      "./src/util/dom-event.ts": [
+        "./src/vdom.ts"
+      ],
+      "./src/util/dom-geom.ts": [
+        "./src/util/geom.ts"
+      ],
+      "./src/util/dom-manip.ts": [
+        "./src/options.ts"
+      ],
+      "./src/util/memoize.ts": [
+        "./src/options.ts"
+      ],
+      "./src/util/requestJson.ts": [
+        "./src/options.ts"
+      ],
+      "./src/validation.ts": [
+        "./src/CalendarContext.ts",
+        "./src/DateProfileGenerator.ts",
+        "./src/component/event-splitting.ts",
+        "./src/interactions/event-interaction-state.ts",
+        "./src/structs/date-span.ts"
+      ],
+      "./src/vdom-util.tsx": [
+        "./src/ViewContext.ts",
+        "./src/options.ts",
+        "./src/util/object.ts",
+        "./src/vdom.ts"
+      ],
+      "../core-preact/tsc/vdom.d.ts": [
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts",
+        "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/index.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense-list.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/compat/src/suspense.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/hooks/src/index.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/index.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx-csstype.d.ts",
+      "../../.yarn/cache/preact-npm-10.5.7-e93dc88e20-80a1c49dd9.zip/node_modules/preact/src/jsx.d.ts",
+      "../../.yarn/cache/tslib-npm-2.0.3-62a2b3751d-447bfca5de.zip/node_modules/tslib/tslib.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../.yarn/cache/typescript-patch-4a9973e614-8a1421806f.zip/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "./src/CalendarApi.tsx",
+      "./src/CalendarContent.tsx",
+      "./src/CalendarContext.ts",
+      "./src/CalendarRoot.tsx",
+      "./src/DateProfileGenerator.ts",
+      "./src/NowTimer.ts",
+      "./src/ScrollResponder.ts",
+      "./src/Toolbar.tsx",
+      "./src/ToolbarSection.tsx",
+      "./src/View.ts",
+      "./src/ViewApi.ts",
+      "./src/ViewContainer.tsx",
+      "./src/ViewContext.ts",
+      "./src/api-type-deps.ts",
+      "./src/api/EventApi.ts",
+      "./src/api/EventSourceApi.ts",
+      "./src/calendar-utils.ts",
+      "./src/common/DayCellContent.tsx",
+      "./src/common/DayCellRoot.tsx",
+      "./src/common/DayHeader.tsx",
+      "./src/common/DaySeriesModel.ts",
+      "./src/common/DayTableModel.ts",
+      "./src/common/Emitter.ts",
+      "./src/common/EventRoot.tsx",
+      "./src/common/MoreLinkRoot.tsx",
+      "./src/common/MorePopover.tsx",
+      "./src/common/NowIndicatorRoot.tsx",
+      "./src/common/Popover.tsx",
+      "./src/common/PositionCache.ts",
+      "./src/common/StandardEvent.tsx",
+      "./src/common/TableDateCell.tsx",
+      "./src/common/TableDowCell.tsx",
+      "./src/common/ViewRoot.tsx",
+      "./src/common/WeekNumberRoot.tsx",
+      "./src/common/bg-fill.tsx",
+      "./src/common/more-link.ts",
+      "./src/common/nav-link.ts",
+      "./src/common/render-hook.tsx",
+      "./src/common/scroll-controller.ts",
+      "./src/common/slicing-utils.ts",
+      "./src/common/table-cell-util.tsx",
+      "./src/common/table-utils.ts",
+      "./src/component/CalendarDataProvider.ts",
+      "./src/component/DateComponent.ts",
+      "./src/component/date-rendering.tsx",
+      "./src/component/event-rendering.ts",
+      "./src/component/event-splitting.ts",
+      "./src/component/event-ui.ts",
+      "./src/datelib/DateFormatter.ts",
+      "./src/datelib/calendar-system.ts",
+      "./src/datelib/date-range.ts",
+      "./src/datelib/duration.ts",
+      "./src/datelib/env.ts",
+      "./src/datelib/formatting-cmd.ts",
+      "./src/datelib/formatting-func.ts",
+      "./src/datelib/formatting-native.ts",
+      "./src/datelib/formatting-utils.ts",
+      "./src/datelib/formatting.ts",
+      "./src/datelib/locale.ts",
+      "./src/datelib/marker.ts",
+      "./src/datelib/parsing.ts",
+      "./src/datelib/timezone.ts",
+      "./src/datelib/zoned-marker.ts",
+      "./src/dates-set.ts",
+      "./src/event-crud.ts",
+      "./src/event-placement.ts",
+      "./src/event-sources/array-event-source.ts",
+      "./src/event-sources/func-event-source.ts",
+      "./src/event-sources/json-feed-event-source-refiners.ts",
+      "./src/event-sources/json-feed-event-source.ts",
+      "./src/formatting-api.ts",
+      "./src/global-config.ts",
+      "./src/global-locales.ts",
+      "./src/global-plugins.ts",
+      "./src/interactions/ElementDragging.ts",
+      "./src/interactions/EventClicking.ts",
+      "./src/interactions/EventHovering.ts",
+      "./src/interactions/date-selecting.ts",
+      "./src/interactions/event-dragging.ts",
+      "./src/interactions/event-interaction-state.ts",
+      "./src/interactions/external-element-dragging.ts",
+      "./src/interactions/hit.ts",
+      "./src/interactions/interaction.ts",
+      "./src/interactions/pointer.ts",
+      "./src/main.ts",
+      "./src/option-change-handlers.ts",
+      "./src/options.ts",
+      "./src/plugin-system-struct.ts",
+      "./src/plugin-system.ts",
+      "./src/reducers/Action.ts",
+      "./src/reducers/CalendarDataManager.ts",
+      "./src/reducers/current-date.ts",
+      "./src/reducers/data-types.ts",
+      "./src/reducers/date-profile.ts",
+      "./src/reducers/date-selection.ts",
+      "./src/reducers/event-drag.ts",
+      "./src/reducers/event-resize.ts",
+      "./src/reducers/eventSources.ts",
+      "./src/reducers/eventStore.ts",
+      "./src/reducers/options.ts",
+      "./src/reducers/selected-event.ts",
+      "./src/reducers/title-formatting.ts",
+      "./src/reducers/view-type.ts",
+      "./src/render-hook-misc.ts",
+      "./src/scrollgrid/ScrollGridImpl.ts",
+      "./src/scrollgrid/Scroller.tsx",
+      "./src/scrollgrid/SimpleScrollGrid.tsx",
+      "./src/scrollgrid/util.tsx",
+      "./src/structs/business-hours.ts",
+      "./src/structs/constraint.ts",
+      "./src/structs/date-span.ts",
+      "./src/structs/drag-meta.ts",
+      "./src/structs/event-def.ts",
+      "./src/structs/event-instance.ts",
+      "./src/structs/event-mutation.ts",
+      "./src/structs/event-parse.ts",
+      "./src/structs/event-source-def.ts",
+      "./src/structs/event-source-parse.ts",
+      "./src/structs/event-source.ts",
+      "./src/structs/event-store.ts",
+      "./src/structs/recurring-event-simple-declare.ts",
+      "./src/structs/recurring-event-simple-refiners.ts",
+      "./src/structs/recurring-event-simple.ts",
+      "./src/structs/recurring-event.ts",
+      "./src/structs/view-config.tsx",
+      "./src/structs/view-def.ts",
+      "./src/structs/view-spec.ts",
+      "./src/theme/StandardTheme.ts",
+      "./src/theme/Theme.ts",
+      "./src/toolbar-parse.ts",
+      "./src/toolbar-struct.ts",
+      "./src/util/DelayedRunner.ts",
+      "./src/util/RefMap.ts",
+      "./src/util/TaskRunner.ts",
+      "./src/util/array.ts",
+      "./src/util/date.ts",
+      "./src/util/dom-event.ts",
+      "./src/util/dom-geom.ts",
+      "./src/util/dom-manip.ts",
+      "./src/util/geom.ts",
+      "./src/util/html.ts",
+      "./src/util/memoize.ts",
+      "./src/util/misc.ts",
+      "./src/util/object.ts",
+      "./src/util/promise.ts",
+      "./src/util/requestJson.ts",
+      "./src/util/scrollbar-side.ts",
+      "./src/util/scrollbar-width.ts",
+      "./src/util/table-styling.tsx",
+      "./src/validation.ts",
+      "./src/vdom-util.tsx",
+      "./src/vdom.ts",
+      "../core-preact/tsc/vdom.d.ts"
+    ]
+  },
+  "version": "4.0.5"
+}

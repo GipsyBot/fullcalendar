@@ -1,0 +1,1 @@
+{"version":3,"file":"plugin-system.d.ts","sourceRoot":"","sources":["../src/plugin-system.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,cAAc,EAAE,SAAS,EAAE,WAAW,EAAE,MAAM,wBAAwB,CAAA;AAK/E,wBAAgB,YAAY,CAAC,KAAK,EAAE,cAAc,GAAG,SAAS,CAsC7D;AA2DD,wBAAgB,qBAAqB,mBAKb,SAAS,EAAE,cAAc,SAAS,EAAE,iBAQ3D"}

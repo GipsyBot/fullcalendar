@@ -1,0 +1,1 @@
+{"version":3,"file":"pointer.d.ts","sourceRoot":"","sources":["../../src/interactions/pointer.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,gBAAgB;IAC/B,SAAS,EAAE,OAAO,CAAA;IAClB,OAAO,EAAE,OAAO,CAAA;IAChB,SAAS,EAAE,WAAW,CAAA;IACtB,KAAK,EAAE,MAAM,CAAA;IACb,KAAK,EAAE,MAAM,CAAA;IACb,MAAM,EAAE,MAAM,CAAA;IACd,MAAM,EAAE,MAAM,CAAA;CACf"}

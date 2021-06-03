@@ -1,0 +1,1 @@
+{"version":3,"file":"WindowScrollGeomCache.d.ts","sourceRoot":"","sources":["../src/WindowScrollGeomCache.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,IAAI,EAA0B,MAAM,sBAAsB,CAAA;AACnE,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAA;AAEnD,qBAAa,qBAAsB,SAAQ,eAAe;gBAC5C,aAAa,EAAE,OAAO;IAIlC,cAAc,IAAI,WAAW;IAI7B,iBAAiB,IAAI,IAAI;IAWzB,kBAAkB;CAGnB"}

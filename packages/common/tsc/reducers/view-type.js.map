@@ -1,0 +1,1 @@
+{"version":3,"file":"view-type.js","sourceRoot":"","sources":["../../src/reducers/view-type.ts"],"names":[],"mappings":"AAEA,MAAM,UAAU,cAAc,CAAC,QAAgB,EAAE,MAAc;IAC7D,QAAQ,MAAM,CAAC,IAAI,EAAE;QACnB,KAAK,kBAAkB;YACrB,QAAQ,GAAG,MAAM,CAAC,QAAQ,CAAA;KAC7B;IAED,OAAO,QAAQ,CAAA;AACjB,CAAC"}

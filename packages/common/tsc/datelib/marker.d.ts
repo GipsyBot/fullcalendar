@@ -1,0 +1,26 @@
+import { Duration } from './duration';
+export declare type DateMarker = Date;
+export declare const DAY_IDS: string[];
+export declare function addWeeks(m: DateMarker, n: number): Date;
+export declare function addDays(m: DateMarker, n: number): Date;
+export declare function addMs(m: DateMarker, n: number): Date;
+export declare function diffWeeks(m0: any, m1: any): number;
+export declare function diffDays(m0: any, m1: any): number;
+export declare function diffHours(m0: any, m1: any): number;
+export declare function diffMinutes(m0: any, m1: any): number;
+export declare function diffSeconds(m0: any, m1: any): number;
+export declare function diffDayAndTime(m0: DateMarker, m1: DateMarker): Duration;
+export declare function diffWholeWeeks(m0: DateMarker, m1: DateMarker): number;
+export declare function diffWholeDays(m0: DateMarker, m1: DateMarker): number;
+export declare function startOfDay(m: DateMarker): DateMarker;
+export declare function startOfHour(m: DateMarker): Date;
+export declare function startOfMinute(m: DateMarker): Date;
+export declare function startOfSecond(m: DateMarker): Date;
+export declare function weekOfYear(marker: any, dow: any, doy: any): number;
+export declare function dateToLocalArray(date: any): any[];
+export declare function arrayToLocalDate(a: any): Date;
+export declare function dateToUtcArray(date: any): any[];
+export declare function arrayToUtcDate(a: any): Date;
+export declare function isValidDate(m: DateMarker): boolean;
+export declare function timeAsMs(m: DateMarker): number;
+//# sourceMappingURL=marker.d.ts.map

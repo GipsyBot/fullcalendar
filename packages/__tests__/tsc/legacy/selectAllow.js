@@ -1,0 +1,48 @@
+import { TimeGridViewWrapper } from '../lib/wrappers/TimeGridViewWrapper';
+import { waitDateSelect } from '../lib/wrappers/interaction-util';
+describe('selectAllow', function () {
+    pushOptions({
+        now: '2016-09-04',
+        initialView: 'timeGridWeek',
+        scrollTime: '00:00',
+        selectable: true,
+    });
+    it('disallows selecting when returning false', function (done) {
+        var options = {
+            selectAllow: function (selectInfo) {
+                expect(typeof selectInfo).toBe('object');
+                expect(selectInfo.start instanceof Date).toBe(true);
+                expect(selectInfo.end instanceof Date).toBe(true);
+                return false;
+            },
+        };
+        spyOn(options, 'selectAllow').and.callThrough();
+        var calendar = initCalendar(options);
+        var timeGridWrapper = new TimeGridViewWrapper(calendar).timeGrid;
+        var selecting = timeGridWrapper.selectDates('2016-09-04T01:00:00Z', '2016-09-04T05:00:00Z');
+        waitDateSelect(calendar, selecting).then(function (selectInfo) {
+            expect(selectInfo).toBeFalsy();
+            expect(options.selectAllow).toHaveBeenCalled();
+            done();
+        });
+    });
+    it('allows selecting when returning true', function (done) {
+        var options = {
+            selectAllow: function (selectInfo) {
+                return true;
+            },
+        };
+        spyOn(options, 'selectAllow').and.callThrough();
+        var calendar = initCalendar(options);
+        var timeGridWrapper = new TimeGridViewWrapper(calendar).timeGrid;
+        var selecting = timeGridWrapper.selectDates('2016-09-04T01:00:00Z', '2016-09-04T05:00:00Z');
+        waitDateSelect(calendar, selecting).then(function (selectInfo) {
+            expect(typeof selectInfo).toBe('object');
+            expect(selectInfo.start).toEqualDate('2016-09-04T01:00:00Z');
+            expect(selectInfo.end).toEqualDate('2016-09-04T05:00:00Z');
+            expect(options.selectAllow).toHaveBeenCalled();
+            done();
+        });
+    });
+});
+//# sourceMappingURL=selectAllow.js.map

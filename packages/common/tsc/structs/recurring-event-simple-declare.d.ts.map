@@ -1,0 +1,1 @@
+{"version":3,"file":"recurring-event-simple-declare.d.ts","sourceRoot":"","sources":["../../src/structs/recurring-event-simple-declare.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,yBAAyB,EAAE,MAAM,mCAAmC,CAAA;AAE7E,aAAK,aAAa,GAAG,OAAO,yBAAyB,CAAA;AACrD,OAAO,QAAQ,eAAe,CAAC;IAC7B,UAAU,aAAc,SAAQ,aAAa;KAAG;CACjD"}

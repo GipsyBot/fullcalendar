@@ -1,0 +1,1 @@
+{"version":3,"file":"selected-event.js","sourceRoot":"","sources":["../../src/reducers/selected-event.ts"],"names":[],"mappings":"AAEA,MAAM,UAAU,mBAAmB,CAAC,iBAAyB,EAAE,MAAc;IAC3E,QAAQ,MAAM,CAAC,IAAI,EAAE;QACnB,KAAK,gBAAgB;YACnB,OAAO,EAAE,CAAA;QAEX,KAAK,cAAc;YACjB,OAAO,MAAM,CAAC,eAAe,CAAA;QAE/B;YACE,OAAO,iBAAiB,CAAA;KAC3B;AACH,CAAC"}

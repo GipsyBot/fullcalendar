@@ -1,0 +1,1 @@
+{"version":3,"file":"event-resize.d.ts","sourceRoot":"","sources":["../../src/reducers/event-resize.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,qBAAqB,EAAE,MAAM,yCAAyC,CAAA;AAC/E,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAA;AAEjC,wBAAgB,iBAAiB,CAAC,aAAa,EAAE,qBAAqB,GAAG,IAAI,EAAE,MAAM,EAAE,MAAM,GAAG,qBAAqB,GAAG,IAAI,CAmB3H"}

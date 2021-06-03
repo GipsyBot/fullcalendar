@@ -1,0 +1,1 @@
+{"version":3,"file":"formatting.d.ts","sourceRoot":"","sources":["../../src/datelib/formatting.ts"],"names":[],"mappings":"AAAA,OAAO,EAAmB,sBAAsB,EAAE,MAAM,qBAAqB,CAAA;AAE7E,OAAO,EAAiB,iBAAiB,EAAE,MAAM,mBAAmB,CAAA;AACpE,OAAO,EAAE,aAAa,EAAE,MAAM,iBAAiB,CAAA;AAE/C,oBAAY,cAAc,GAAG,sBAAsB,GAAG,MAAM,GAAG,iBAAiB,CAAA;AAEhF,wBAAgB,eAAe,CAAC,KAAK,EAAE,cAAc,GAAG,aAAa,CAcpE"}

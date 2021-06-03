@@ -11,14 +11,5 @@
 /archives
 /tmp
 
-/packages/*/tsconfig.tsbuildinfo
-/packages/*/tsc
-/packages/*/locales
-/packages/*/*.js
-/packages/*/*.css
-/packages/*/*.map
-/packages/*/*.d.ts
-/packages/core/src/locales-all.ts
-
 node_modules
 yarn-error.log

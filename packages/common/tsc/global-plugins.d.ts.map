@@ -1,0 +1,1 @@
+{"version":3,"file":"global-plugins.d.ts","sourceRoot":"","sources":["../src/global-plugins.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,wBAAwB,CAAA;AAkBlD,eAAO,MAAM,aAAa,EAAE,SAAS,EAmBpC,CAAA;AAED,wBAAgB,UAAU,CAAC,EAAE,EAAE,WAAW,EAAE,IAAI,EAAE,MAAM,QAEvD;AAED,wBAAgB,cAAc,CAAC,EAAE,EAAE,WAAW,EAAE,QAAQ,EAAE,IAAI,EAAE,GAAG,QAAQ,QAU1E"}

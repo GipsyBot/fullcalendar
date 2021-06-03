@@ -1,0 +1,47 @@
+import { DateMarker } from './datelib/marker';
+import { PointerDragEvent } from './interactions/pointer';
+import { CalendarDataManager } from './reducers/CalendarDataManager';
+import { Action } from './reducers/Action';
+import { CalendarOptions, CalendarListeners, DateInput, DurationInput, DateRangeInput, EventSourceInput, EventInput, EventSourceApi, EventApi, ViewApi } from './api-type-deps';
+export declare class CalendarApi {
+    currentDataManager?: CalendarDataManager;
+    getCurrentData(): import("./main").CalendarData;
+    dispatch(action: Action): void;
+    get view(): ViewApi;
+    batchRendering(callback: () => void): void;
+    updateSize(): void;
+    setOption<OptionName extends keyof CalendarOptions>(name: OptionName, val: CalendarOptions[OptionName]): void;
+    getOption<OptionName extends keyof CalendarOptions>(name: OptionName): CalendarOptions[OptionName];
+    getAvailableLocaleCodes(): string[];
+    on<ListenerName extends keyof CalendarListeners>(handlerName: ListenerName, handler: CalendarListeners[ListenerName]): void;
+    off<ListenerName extends keyof CalendarListeners>(handlerName: ListenerName, handler: CalendarListeners[ListenerName]): void;
+    trigger<ListenerName extends keyof CalendarListeners>(handlerName: ListenerName, ...args: Parameters<CalendarListeners[ListenerName]>): void;
+    changeView(viewType: string, dateOrRange?: DateRangeInput | DateInput): void;
+    zoomTo(dateMarker: DateMarker, viewType?: string): void;
+    private getUnitViewSpec;
+    prev(): void;
+    next(): void;
+    prevYear(): void;
+    nextYear(): void;
+    today(): void;
+    gotoDate(zonedDateInput: any): void;
+    incrementDate(deltaInput: any): void;
+    getDate(): Date;
+    formatDate(d: DateInput, formatter: any): string;
+    formatRange(d0: DateInput, d1: DateInput, settings: any): string;
+    formatIso(d: DateInput, omitTime?: boolean): string;
+    select(dateOrObj: DateInput | any, endDate?: DateInput): void;
+    unselect(pev?: PointerDragEvent): void;
+    addEvent(eventInput: EventInput, sourceInput?: EventSourceApi | string | boolean): EventApi | null;
+    private triggerEventAdd;
+    getEventById(id: string): EventApi | null;
+    getEvents(): EventApi[];
+    removeAllEvents(): void;
+    getEventSources(): EventSourceApi[];
+    getEventSourceById(id: string): EventSourceApi | null;
+    addEventSource(sourceInput: EventSourceInput): EventSourceApi;
+    removeAllEventSources(): void;
+    refetchEvents(): void;
+    scrollToTime(timeInput: DurationInput): void;
+}
+//# sourceMappingURL=CalendarApi.d.ts.map

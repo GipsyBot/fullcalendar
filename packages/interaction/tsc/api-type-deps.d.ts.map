@@ -1,0 +1,1 @@
+{"version":3,"file":"api-type-deps.d.ts","sourceRoot":"","sources":["../src/api-type-deps.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,YAAY,EAAE,MAAM,6BAA6B,CAAA;AAC1D,OAAO,EAAE,iBAAiB,EAAE,gBAAgB,EAAE,MAAM,8BAA8B,CAAA;AAClF,OAAO,EAAE,mBAAmB,EAAE,kBAAkB,EAAE,kBAAkB,EAAE,MAAM,8BAA8B,CAAA;AAC1G,OAAO,EAAE,OAAO,EAAE,eAAe,EAAE,aAAa,EAAE,MAAM,SAAS,CAAA"}

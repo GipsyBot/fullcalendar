@@ -1,0 +1,1 @@
+{"version":3,"file":"TableBlockEvent.d.ts","sourceRoot":"","sources":["../src/TableBlockEvent.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAiB,aAAa,EAAE,iBAAiB,EAAE,MAAM,sBAAsB,CAAA;AAGrG,MAAM,WAAW,oBAAqB,SAAQ,iBAAiB;IAC7D,sBAAsB,EAAE,OAAO,CAAA;CAChC;AAED,qBAAa,eAAgB,SAAQ,aAAa,CAAC,oBAAoB,CAAC;IACtE,MAAM;CAaP"}
