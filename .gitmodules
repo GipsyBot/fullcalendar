@@ -1,6 +1,3 @@
-[submodule "packages-premium"]
-	path = packages-premium
-	url = https://github.com/fullcalendar/fullcalendar-scheduler.git
 [submodule "packages-contrib/vue"]
 	path = packages-contrib/vue
 	url = https://github.com/fullcalendar/fullcalendar-vue.git

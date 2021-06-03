@@ -29,6 +29,4 @@ for (let readmePath of readmePaths) {
   )
 }
 
-exec([ 'git', 'commit', '-m', 'updated readmes' ], { cwd: path.join(__dirname, '../packages-premium') })
-exec([ 'git', 'add', 'packages-premium' ], { cwd: path.join(__dirname, '..') })
 exec([ 'git', 'commit', '-m', 'updated readmes' ], { cwd: path.join(__dirname, '..') })

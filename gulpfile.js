@@ -238,7 +238,7 @@ async function testsIndex() {
 
 function testsIndexWatch() {
   return watch(
-    [ 'packages/__tests__/src', 'packages-premium/__tests__/src' ], // wtf won't globs work for this?
+    [ 'packages/__tests__/src' ], // wtf won't globs work for this?
     exports.testsIndex
   )
 }

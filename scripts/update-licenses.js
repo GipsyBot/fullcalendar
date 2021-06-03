@@ -11,10 +11,8 @@ let subjectStructs = publicPackageStructs.concat(bundleStructs)
 let licenseDests = []
 
 for (let struct of subjectStructs) {
-  let licenseSrc = struct.isPremium
-    ? path.join(__dirname, '../packages-premium/LICENSE.md')
-    : path.join(__dirname, '../LICENSE.txt')
-  let licenseDest = path.join(__dirname, '..', struct.dir, struct.isPremium ? 'LICENSE.md' : 'LICENSE.txt')
+  let licenseSrc = path.join(__dirname, '../LICENSE.txt')
+  let licenseDest = path.join(__dirname, '..', struct.dir, 'LICENSE.txt')
 
   console.log(licenseSrc, licenseDest)
 
@@ -29,6 +27,4 @@ for (let licenseDest of licenseDests) {
   )
 }
 
-exec([ 'git', 'commit', '-m', 'updated licenses' ], { cwd: path.join(__dirname, '../packages-premium') })
-exec([ 'git', 'add', 'packages-premium' ], { cwd: path.join(__dirname, '..') })
 exec([ 'git', 'commit', '-m', 'updated licenses' ], { cwd: path.join(__dirname, '..') })

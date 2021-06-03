@@ -17,11 +17,3 @@ rm -rf packages/*/*.css
 rm -rf packages/*/*.map
 rm -rf packages/*/*.d.ts
 rm -rf packages/core/src/locales-all.ts
-
-rm -rf packages-premium/*/tsconfig.tsbuildinfo
-rm -rf packages-premium/*/tsc
-rm -rf packages-premium/*/locales
-rm -rf packages-premium/*/*.js
-rm -rf packages-premium/*/*.css
-rm -rf packages-premium/*/*.map
-rm -rf packages-premium/*/*.d.ts

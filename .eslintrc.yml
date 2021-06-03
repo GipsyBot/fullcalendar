@@ -70,8 +70,6 @@
     # https://github.com/typescript-eslint/typescript-eslint/issues/1824
     - files:
         - packages/common/src/options.ts
-        - packages-premium/resource-common/src/reducers/resource-action.ts
-        - packages-premium/timeline/src/TimelineLaneSlicer.ts
         - packages/__tests__/src/legacy/header-rendering.ts
       rules:
         '@typescript-eslint/indent': off
