@@ -5,7 +5,7 @@
   "description": "A connector to the moment-timezone library",
   "docs": "https://fullcalendar.io/docs/moment-timezone-plugin",
   "dependencies": {
-    "@fullcalendar/common": "workspace:~5.7.0",
+    "@fullcalendar/common": "5.7.0",
     "tslib": "^2.0.3"
   },
   "peerDependencies": {

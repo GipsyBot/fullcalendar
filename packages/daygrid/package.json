@@ -5,7 +5,7 @@
   "description": "Display events on Month view or DayGrid view",
   "docs": "https://fullcalendar.io/docs/month-view",
   "dependencies": {
-    "@fullcalendar/common": "workspace:~5.7.0",
+    "@fullcalendar/common": "5.7.0",
     "tslib": "^2.0.3"
   },
   "main": "main.cjs.js",

@@ -5,7 +5,7 @@
   "description": "Bootstrap 4 theming for your calendar",
   "docs": "https://fullcalendar.io/docs/bootstrap-theme",
   "dependencies": {
-    "@fullcalendar/common": "workspace:~5.7.0",
+    "@fullcalendar/common": "5.7.0",
     "tslib": "^2.0.3"
   },
   "main": "main.cjs.js",
